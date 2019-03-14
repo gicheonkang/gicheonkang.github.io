@@ -14,10 +14,10 @@ author_profile: true
 <table align="center">
     <tr>
         <td align="center"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="250" height="125" /></td>
-        <td align="center"><b>[Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368)</b> <br> <b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang. <br> arXiv preprint 1902.09368, 2019. <br></td>
+        <td align="left"><b><a href="https://arxiv.org/abs/1902.09368" >Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b> <br> <b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang. <br> arXiv preprint 1902.09368, 2019. <br></td>
     </tr>
     <tr>
         <td align="center"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="250" height="125" /></td>
-        <td align="center"><b>[Contextualized Bilinear Attention Networks](https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf)</b><br> <b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang. <br> ECCV 2018 Workshop on VizWiz Grand Challenge.</td>
+        <td align="left"><b>[Contextualized Bilinear Attention Networks](https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf)</b><br> <b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang. <br> ECCV 2018 Workshop on VizWiz Grand Challenge.</td>
     </tr>
 </table>
