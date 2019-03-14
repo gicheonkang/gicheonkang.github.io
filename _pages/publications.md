@@ -18,6 +18,6 @@ author_profile: true
     </tr>
     <tr>
         <td align="center"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="250" height="125" /></td>
-        <td align="left"><b>[Contextualized Bilinear Attention Networks](https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf)</b><br> <b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang. <br> ECCV 2018 Workshop on VizWiz Grand Challenge.</td>
+        <td align="left"><b><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf" >Contextualized Bilinear Attention Networks</a></b><br> <b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang. <br> ECCV 2018 Workshop on VizWiz Grand Challenge.</td>
     </tr>
 </table>
