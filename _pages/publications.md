@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+img {
+  -webkit-filter: drop-shadow(5px 5px 5px #222 );
+  filter: drop-shadow(5px 5px 5px #222);
+}
+
 <table align="center" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
         <td align="center"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="260" height="130" /></td>
