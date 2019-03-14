@@ -10,7 +10,8 @@ author_profile: true
 
 | Image             |  Contents |
 :-------------------------:|:-------------------------:
-![]()  | <b>[Contextualized Bilinear Attention Networks] (https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf)</b><br> <b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang. ECCV 2018 Workshop on VizWiz Grand Challenge.
+![]()  | <b>[Contextualized Bilinear Attention Networks](https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf)</b><br> 
+<b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang. ECCV 2018 Workshop on VizWiz Grand Challenge.
 
 
 
