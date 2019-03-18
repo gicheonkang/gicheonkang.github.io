@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&nbsp
+&nbsp;
 
 ## About Me
 * I am a second-year master student in Cognitive Science Program at the [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research interests are in computer vision, machine learning, and deep learning. I'm particularly interested in the areas of video understanding and visual dialog agents.
