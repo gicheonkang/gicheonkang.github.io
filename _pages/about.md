@@ -8,22 +8,21 @@ redirect_from:
   - /about.html
 ---
 
----
 * I am a second-year master student in Cognitive Science Program at the [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research interests are in computer vision, machine learning, and deep learning. I'm particularly interested in the areas of video understanding and visual dialog agents.
 * I received my bachelor’s degree in computer science at [Ajou University](http://www.ajou.ac.kr/en/). My undergraduate research adviser is [Prof. Wonjun Hwang](https://sites.google.com/site/haepaly/Home).
-
-
+<br>
+<br>
+<br>
 
 # Recent News
----
 * <span style="color:#ff7272">**NEW!**</span> [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved **state-of-the-art performance** in [Visual Dialog](https://visualdialog.org) task.
 
 * <span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge](http://vizwiz.org/workshop/).
-
-
+<br>
+<br>
+<br>
 
 # Publications
----
 <table align="center" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="260" height="130" /></td>
