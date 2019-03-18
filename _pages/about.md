@@ -11,7 +11,7 @@ redirect_from:
 * I received my bachelor’s degree in computer science at [Ajou University](http://www.ajou.ac.kr/en/). My undergraduate research adviser is [Prof. Wonjun Hwang](https://sites.google.com/site/haepaly/Home).
 
 # Recent News
-* [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved <span style="color:red">**state-of-the-art performance** </span> in [Visual Dialog](https://visualdialog.org) task.
+* [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved <span style="color:red">state-of-the-art performance </span> in [Visual Dialog](https://visualdialog.org) task.
 
 * [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge](http://vizwiz.org/workshop/).
 
@@ -20,7 +20,7 @@ redirect_from:
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="260" height="130" /></td>
         <td style="border: none;"></td>
-        <td align="left" style="border: none;"><b><a href="https://arxiv.org/abs/1902.09368" style="font-size: 16px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b> <br> <b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang. <br> arXiv preprint 1902.09368, 2019. <br></td>
+        <td align="left" style="border: none;"><b><a href="https://arxiv.org/abs/1902.09368" style="font-size: 16px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b> <br> <b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang. <br> arXiv preprint 1902.09368, 2019. <br> [![PDF](https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon)](https://arxiv.org/abs/1902.09368) <br></td>
     </tr>
     <tr style="border: none;">
         <td style="border: none;"></td>
