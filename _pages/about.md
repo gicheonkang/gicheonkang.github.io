@@ -11,9 +11,9 @@ redirect_from:
 * I received my bachelor’s degree in computer science at [Ajou University](http://www.ajou.ac.kr/en/). My undergraduate research adviser is [Prof. Wonjun Hwang](https://sites.google.com/site/haepaly/Home).
 
 # Recent News
-* <span style="color:#e88372">**NEW!**</span> [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved **state-of-the-art performance** in [Visual Dialog](https://visualdialog.org) task.
+* <span style="color:#ff7272">**NEW!**</span> [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved **state-of-the-art performance** in [Visual Dialog](https://visualdialog.org) task.
 
-* <span style="color:#e88372">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge](http://vizwiz.org/workshop/).
+* <span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge](http://vizwiz.org/workshop/).
 
 # Publications
 <table align="center" style="border-collapse: collapse; border: none;">
