@@ -28,9 +28,9 @@ redirect_from:
         <td align="left" style="border: none;"><b><a href="https://arxiv.org/abs/1902.09368" style="font-size: 16px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b> <br> <b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang. <br> arXiv preprint 1902.09368, 2019. <br></td>
     </tr>
     <tr style="border: none;">
-        <td style="border: none;"><hr style="border: 2px dotted black;" /></td>
-        <td style="border: none;"><hr style="border: 2px dotted black;" /></td>
-        <td style="border: none;"><hr style="border: 2px dotted black;" /></td>
+        <td style="border: none;"><hr style="border: 2px dashed #8c8b8b;" /></td>
+        <td style="border: none;"><hr style="border: 2px dashed #8c8b8b;" /></td>
+        <td style="border: none;"><hr style="border: 2px dashed #8c8b8b;" /></td>
     </tr>
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="260" height="130" /></td>
