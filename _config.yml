@@ -82,10 +82,10 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Graduate student at Seoul National University, interested in artificial intelligence."
+  bio              : "Graduate student at Seoul National University, majoring in artificial intelligence."
   location         : "Seoul, Korea"
   employer         :
-  googlescholar    : "https://scholar.google.co.kr/citations?user=I152NQYAAAAJ&hl=ko"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=I152NQYAAAAJ&hl=en"
   email            : "chonkang@snu.ac.kr"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "gchnkang" 
   vine             :
   weibo            :
   xing             :
