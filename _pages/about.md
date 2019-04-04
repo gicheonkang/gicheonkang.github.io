@@ -25,7 +25,10 @@ redirect_from:
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="260" height="130" /></td>
         <td style="border: none;"></td>
-        <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 16px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b> <br><font size="16px"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang. </font> <br><font size="16px"> arXiv preprint 1902.09368, 2019. </font><br> <font size="16px"><a href="https://arxiv.org/abs/1902.09368"> arxiv </a> / </font></td>
+        <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 16px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b> <br>
+          <p style= "font-size:16px"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang. </p> <br>
+          <p style= "font-size:16px"> arXiv preprint 1902.09368, 2019. </p> <br> 
+          <p style= "font-size:16px"> <a href="https://arxiv.org/abs/1902.09368"> arxiv </a> / </p></td>
     </tr>
     <tr style="border: none;">
         <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
