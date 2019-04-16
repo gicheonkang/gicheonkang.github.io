@@ -27,7 +27,7 @@ redirect_from:
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b><br> 
           <font size="3"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang </font><br> 
-          <font size="3"><i>International Joint Conference on Artificial Intelligence (IJCAI)</i>, 2019 (Submitted) </font><br> 
+          <font size="3">arXiv preprint arXiv:1902.09368</font><br> 
           <font size="3"><a href="https://arxiv.org/abs/1902.09368"> arxiv </a> / </font></td>
     </tr>
     <tr style="border: none;">
