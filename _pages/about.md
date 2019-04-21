@@ -20,19 +20,22 @@ I am a second-year master student in Cognitive Science Program at the [Seoul Nat
 
 # Publications
 <table align="center" style="border-collapse: collapse; border: none;">
+    <!-- Dual Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="260" height="130" /></td>
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b><br> 
           <font size="3"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang </font><br> 
-          <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br> 
-          <button type="button" class="btn btn-primary btn-lg" onclick = "location.href = 'https://arxiv.org/abs/1902.09368'">arxiv</button></td>
+          <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br>
+          <font size="3"><a class="btn btn-primary" href="https://arxiv.org/abs/1902.09368"> arxiv </a> / </font></td>
     </tr>
+    <!-- Border line -->
     <tr style="border: none;">
         <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
         <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
         <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
     </tr>
+    <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="260" height="130" /></td>
         <td style="border: none;"></td>
