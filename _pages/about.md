@@ -29,12 +29,12 @@ I am a second-year master student in Cognitive Science Program at the [Seoul Nat
           <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br>
           <font size="3"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> arXiv </a></font></td>
     </tr>
-    <!-- Border line 
+    <!-- Border line dashed #8c8b8b; --> 
     <tr style="border: none;">
-        <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
-        <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
-        <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
-    </tr> --> 
+        <td style="border: none;"><hr style="border: 1px" /></td>
+        <td style="border: none;"><hr style="border: 1px" /></td>
+        <td style="border: none;"><hr style="border: 1px" /></td>
+    </tr> 
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="260" height="130" /></td>
@@ -66,7 +66,7 @@ I am a second-year master student in Cognitive Science Program at the [Seoul Nat
   table td {
     border-bottom: 1px solid #ddd;
     display: block;
-    text-align: center;
+    text-align: left;
   }
   
   table td::before {
