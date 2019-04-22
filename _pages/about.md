@@ -19,30 +19,59 @@ I am a second-year master student in Cognitive Science Program at the [Seoul Nat
 <br>
 
 # Publications
-<div class="table-responsive">
-  <table align="center" style="border-collapse: collapse; border: none;" >
-      <!-- Dual Attention Networks -->
-      <tr style="border: none;">
-          <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="260" height="130" /></td>
-          <td style="border: none;"></td>
-          <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b><br> 
-            <font size="3"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang </font><br> 
-            <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br>
-            <font size="3"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> arXiv </a></font></td>
-      </tr>
-      <!-- Border line --> 
-      <tr style="border: none;">
-          <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
-          <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
-          <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
-      </tr> 
-      <!-- Contextualized Bilinear Attention Networks -->
-      <tr style="border: none;">
-          <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="260" height="130" /></td>
-          <td style="border: none;"></td>
-          <td align="left" style="border: none;"><b><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf" style="font-size: 17px; text-decoration: none">Contextualized Bilinear Attention Networks</a></b><br>
-            <font size="3"><b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang </font><br>
-            <font size="3"><i>European Conference on Computer Vision (ECCV) Workshop on VizWiz Grand Challenge</i>, 2018</font></td> 
-      </tr>
-  </table>
-</div>  
+<table align="center" style="border-collapse: collapse; border: none;" >
+    <!-- Dual Attention Networks -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="260" height="130" /></td>
+        <td style="border: none;"></td>
+        <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b><br> 
+          <font size="3"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang </font><br> 
+          <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br>
+          <font size="3"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> arXiv </a></font></td>
+    </tr>
+    <!-- Border line --> 
+    <tr style="border: none;">
+        <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
+        <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
+        <td style="border: none;"><hr style="border: 1px dashed #8c8b8b;" /></td>
+    </tr> 
+    <!-- Contextualized Bilinear Attention Networks -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="260" height="130" /></td>
+        <td style="border: none;"></td>
+        <td align="left" style="border: none;"><b><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf" style="font-size: 17px; text-decoration: none">Contextualized Bilinear Attention Networks</a></b><br>
+          <font size="3"><b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang </font><br>
+          <font size="3"><i>European Conference on Computer Vision (ECCV) Workshop on VizWiz Grand Challenge</i>, 2018</font></td> 
+    </tr>
+</table>
+
+<style>
+  @media screen and (max-width: 600px) {
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    text-align: right;
+  }
+  
+  table td::before {
+    content: attr(data-label);
+    float: left;
+  }
+}
+</style>
