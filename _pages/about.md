@@ -46,7 +46,7 @@ I am a second-year master student in Cognitive Science Program at the [Seoul Nat
 </table>
 
 <style>
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 750px) {
   table thead {
     border: none;
     clip: rect(0 0 0 0);
