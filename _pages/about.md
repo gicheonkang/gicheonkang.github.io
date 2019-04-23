@@ -39,9 +39,10 @@ I am a second-year master student in Cognitive Science Program at the [Seoul Nat
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="260" height="130" /></td>
         <td style="border: none;"></td>
-        <td align="left" style="border: none;"><b><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf" style="font-size: 17px; text-decoration: none">Contextualized Bilinear Attention Networks</a></b><br>
+        <td align="left" style="border: none;"><b><span style="font-size: 17px; text-decoration: none">Contextualized Bilinear Attention Networks</span></b><br>
           <font size="3"><b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang </font><br>
-          <font size="3" color="#ff7272"><i>ECCV Workshop on VizWiz Grand Challenge</i>, 2018</font></td> 
+          <font size="3" color="#ff7272"><i>ECCV Workshop on VizWiz Grand Challenge</i>, 2018</font>
+          <font size="3"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> arXiv </a></font></td> 
     </tr>
 </table>
 
