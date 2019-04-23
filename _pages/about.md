@@ -24,7 +24,7 @@ I am a second-year master student in Cognitive Science Program at the [Seoul Nat
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="260" height="130" /></td>
         <td style="border: none;"></td>
-        <td align="left" style="border: none;"><b><style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</style></b><br> 
+        <td align="left" style="border: none;"><b><span style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br> 
           <font size="3"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang </font><br> 
           <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br>
           <font size="3"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> arXiv </a></font></td>
