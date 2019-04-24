@@ -43,7 +43,7 @@ I am a second-year master student in Cognitive Science Program at the [Seoul Nat
           <font size="3"><b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang </font><br>
           <font size="3"><i>ECCV Workshop on VizWiz Grand Challenge</i>, 2018</font><br>
           <font size="3"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> Paper </a></font>
-          <font size="3"><a class="btn btn--warning" href="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/files/ECCV2018-poster-gckang.pdf"> Poster </a></font></td> 
+          <font size="3"><a class="btn" href="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/files/ECCV2018-poster-gckang.pdf"> Poster </a></font></td> 
     </tr>
 </table>
 
