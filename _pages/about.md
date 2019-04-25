@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year master student in Cognitive Science Program at [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research interests are in computer vision, machine learning, and deep learning. I'm particularly interested in the areas of building agents that can see everyday scenes and fluently communicate with people.  
+I am a 2nd year master student in Cognitive Science Program at [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research focuses on machine learning and its application in building agents that can see everyday scenes and fluently communicate with people.  
 <br>
 
 # Recent News
