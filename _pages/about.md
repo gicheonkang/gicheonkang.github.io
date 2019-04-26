@@ -32,9 +32,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     </tr>
     <!-- Border line dashed <hr style="border: 1px" /> #8c8b8b; --> 
     <tr style="border: none;">
-        <td style="border: none;"></td>
-        <td style="border: none;"></td>
-        <td style="border: none;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: dashed 1px #8c8b8b;"></td>
     </tr> 
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
