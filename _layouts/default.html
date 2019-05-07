@@ -7,31 +7,14 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-      <link rel="stylesheet" href="/assets/css/nanumbarungothic.css" />
-      <style type="text/css">
-      body {
-          font-family:'Nanum Barun Gothic';
-      }
-      span {
-          display:block;
-      }
-      span.span200 {font-weight:200;}
-      span.span300 {font-weight:300;}
-      span.span400 {font-weight:400;}
-      span.span700 {font-weight:700;}
-      </style>
-    
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
-    
-    <span class="span span400">{% include browser-upgrade.html %}</span>
-    <span class="span span400">{% include masthead.html %}</span>
-
-    <span class="span span400">{{ content }}</span>
-
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+    {{ content }}
     </script>
 
     <div class="page__footer">
