@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <head>
-<link rel="stylesheet" href="/nanumbarungothic.css" />
+<link rel="stylesheet" href="/assets/css/nanumbarungothic.css" />
 <style type="text/css">
 body {
 	font-family:'Nanum Barun Gothic';
