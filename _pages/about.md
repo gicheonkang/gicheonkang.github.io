@@ -8,6 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+<head>
+<link rel="stylesheet" href="/nanumbarungothic.css" />
+<style type="text/css">
+body {
+	font-family:'Nanum Barun Gothic';
+}
+span {
+	display:block;
+}
+span.span400 {font-weight:400;}
+</style>
+</head>
+
+<body>
+<span class="span span400">
+  
 I am a 2nd year master student in Cognitive Science Program at [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research interests mainly span in computer vision and natural lanauage processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
 Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University](http://www.ajou.ac.kr/en/). 
 <br>
@@ -45,6 +61,8 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
           <!--<font size="3"><a class="btn" href="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/files/ECCV2018-poster-gckang.pdf"> Poster </a> </font>--></td> 
     </tr>
 </table>
+</span>
+</body>
 
 <style>
   @media screen and (max-width: 750px) {
