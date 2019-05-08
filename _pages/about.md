@@ -11,6 +11,7 @@ redirect_from:
 I am a 2nd year master student in Cognitive Science Program at [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research interests mainly span in computer vision and natural lanauage processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
 Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University](http://www.ajou.ac.kr/en/). 
 <br>
+<br>
 
 # Recent News
 <span style="color:#ff7272">**NEW!**</span> [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved **state-of-the-art performance** in [Visual Dialog](https://visualdialog.org) task.
