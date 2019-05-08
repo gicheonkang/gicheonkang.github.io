@@ -21,7 +21,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 # Publications
-<a name="publications"><h1>Publications</h1></a>
+<a id="publications"><h1>Publications</h1></a>
 <table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
