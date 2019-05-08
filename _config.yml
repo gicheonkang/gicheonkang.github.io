@@ -13,7 +13,7 @@ title                    : "Gi-Cheon Kang"
 title_separator          : "-"
 name                     : &name "Gi-Cheon Kang"
 description              : &description "Graduate student at SNU"
-url                      : https://gicheonkang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gicheonkang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gicheonkang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Graduate student at Seoul National University, majoring in artificial intelligence."
+  bio              : 
   location         : "Seoul, Korea"
   employer         :
   googlescholar    : "https://scholar.google.co.kr/citations?user=I152NQYAAAAJ&hl=en"
