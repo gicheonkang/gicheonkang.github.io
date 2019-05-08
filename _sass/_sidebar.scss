@@ -74,8 +74,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 200px;
+  height: 200px;
 
   @include breakpoint($large) {
     display: block;
@@ -84,7 +84,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 200px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -118,7 +118,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $helvetica;
   font-size: $type-size-5;
 }
 
