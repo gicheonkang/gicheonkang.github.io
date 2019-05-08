@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Gi-Cheon Kang"
   avatar           : "profile.png"
-  bio              : 
+  bio              : "Master student, majoring in artificial intelligence"
   location         : "Seoul, Korea"
   employer         :
   googlescholar    : "https://scholar.google.co.kr/citations?user=I152NQYAAAAJ&hl=en"
