@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Master Student, \n Seoul National University, \n chonkang@snu.ac.kr"
+  name             : 
   avatar           : "profile.png"
-  bio              : 
+  bio              : "Master student, majoring in artificial intelligence at Seoul National University"
   location         : "Seoul, Korea"
   employer         :
   googlescholar    : "https://scholar.google.co.kr/citations?user=I152NQYAAAAJ&hl=en"
