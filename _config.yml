@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Master student, majoring in artificial intelligence at Seoul National University"
+  bio              : 
   location         : "Seoul, Korea"
   employer         :
   googlescholar    : "https://scholar.google.co.kr/citations?user=I152NQYAAAAJ&hl=en"
