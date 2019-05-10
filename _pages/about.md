@@ -22,14 +22,14 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 # Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
-    <!-- Dual Attention Networks <a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a>-->
+    <!-- Dual Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="300" height="150" /></td>
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b><br>
           <span style="font-size:15px;"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang</span><br>
-          <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br>
-          <font size="3"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></font></td>
+          <span style="font-size:15px;"><i>arXiv preprint arXiv:1902.09368</i></span><br>
+          <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></span></td>
     </tr>
     <!-- Border line dashed <hr style="border: 1px" /> #8c8b8b; --> 
     <tr style="border: none;">
@@ -40,9 +40,9 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="300" height="150" /></td>
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf" style="font-size: 17px; text-decoration: none">Contextualized Bilinear Attention Networks</a></b><br>
-          <font size="3"><b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang </font><br>
-          <font size="3"><i>ECCV Workshop on VizWiz Grand Challenge</i>, 2018</font><br>
-          <font size="3"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> Paper </a></font>
+          <span style="font-size:15px;"><b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang </span><br>
+          <span style="font-size:15px;"><i>ECCV Workshop on VizWiz Grand Challenge</i>, 2018</span><br>
+          <span style="font-size:15px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> Paper </a></span>
           <!--<font size="3"><a class="btn" href="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/files/ECCV2018-poster-gckang.pdf"> Poster </a> </font>--></td> 
     </tr>
 </table>
