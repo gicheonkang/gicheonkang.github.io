@@ -26,7 +26,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="300" height="150" /></td>
         <td style="border: none;"></td>
-        <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b><br>
+        <td align="left" style="border: none;"><b><span style="font-size: 17px;>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Jaeseo Lim, and Byoung-Tak Zhang</span><br>
           <span style="font-size:15px;"><i>arXiv preprint arXiv:1902.09368</i></span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></span></td>
@@ -39,7 +39,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="300" height="150" /></td>
         <td style="border: none;"></td>
-        <td align="left" style="border: none;"><b><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf" style="font-size: 17px; text-decoration: none">Contextualized Bilinear Attention Networks</a></b><br>
+        <td align="left" style="border: none;"><b><span style="font-size: 17px; text-decoration: none">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Seonil Son, and Byoung-Tak Zhang </span><br>
           <span style="font-size:15px;"><i>ECCV Workshop on VizWiz Challenge</i>, 2018</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> Paper </a></span>
