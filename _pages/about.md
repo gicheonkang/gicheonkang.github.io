@@ -26,7 +26,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="300" height="150" /></td>
         <td style="border: none;"></td>
-        <td align="left" style="border: none;"><b><font size=4>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</font></b><br> 
+        <td align="left" style="border: none;"><b><font size="4">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</font></b><br> 
           <font size="3"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang </font><br> 
           <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br>
           <font size="3"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></font></td>
