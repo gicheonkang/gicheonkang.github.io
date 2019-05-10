@@ -26,10 +26,10 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="300" height="150" /></td>
         <td style="border: none;"></td>
-        <td align="left" style="border: none;"><b><span style="font-size: 1.13em">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
-          <span style="font-size: 0.97em"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang</span><br>
-          <span style="font-size: 0.97em"><i>arXiv preprint arXiv:1902.09368</i></span><br>
-          <span style="font-size: 0.97em"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></span></td>
+        <td align="left" style="border: none;"><b><a href="https://arxiv.org/pdf/1902.09368.pdf" style="font-size: 17px; text-decoration: none">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</a></b><br>
+          <p style="font-size:14px;"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang</p><br>
+          <font size="3"><i>arXiv preprint arXiv:1902.09368</i></font><br>
+          <font size="3"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></font></td>
     </tr>
     <!-- Border line dashed <hr style="border: 1px" /> #8c8b8b; --> 
     <tr style="border: none;">
