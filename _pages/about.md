@@ -32,9 +32,9 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></span></td>
     </tr>-->
     <!-- Border line dashed <hr style="border: 1px" /> #8c8b8b; --> 
-    <tr style="border: none;">
+    <!--<tr style="border: none;">
         <td style="border: none;" colspan="3"><hr style="border: dashed 1px #8c8b8b;"></td>
-    </tr> 
+    </tr>-->
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="300" height="150" /></td>
