@@ -14,7 +14,9 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 # Recent News
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR](https://visualqa.org/workshop.html) and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019](https://visualdialog.org/challenge/2019). Many thanks to my collaborators [Jaeseo Lim](https://jaeseolim.github.io/) and [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/) !!
+<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR](https://visualqa.org/workshop.html) and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019](https://visualdialog.org/challenge/2019) !! 
+
+<!--Many thanks to my collaborators [Jaeseo Lim](https://jaeseolim.github.io/) and [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/) !! -->
 
 <!--<span style="color:#ff7272">**NEW!**</span> [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved **state-of-the-art performance** in [Visual Dialog](https://visualdialog.org) task. -->
 
