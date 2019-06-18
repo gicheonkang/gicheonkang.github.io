@@ -14,6 +14,8 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 # Recent News
+<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR]  (https://visualqa.org/workshop.html) and rank 3rd place on [Visual Dialog Challenge 2019](https://visualdialog.org/challenge/2019)
+
 <!--<span style="color:#ff7272">**NEW!**</span> [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved **state-of-the-art performance** in [Visual Dialog](https://visualdialog.org) task. -->
 
 <span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge](http://vizwiz.org/workshop/).
