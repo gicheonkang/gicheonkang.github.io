@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gi-Cheon Kang"
+title                    : "Gi-Cheon Kang (姜基天)"
 title_separator          : "-"
 name                     : &name "Gi-Cheon Kang"
 description              : &description "Graduate student at SNU"
