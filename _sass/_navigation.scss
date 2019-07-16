@@ -393,13 +393,13 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
 
   a {
     display: block;
     padding: 0.5rem 1rem;
     color: $gray;
-    font-size: $type-size-7;
+    font-size: $type-size-5;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
@@ -423,7 +423,7 @@
 
   /* hide sub sub links on small screens*/
   li > ul li {
-    /*display: none;*/
+    display: none;
 
     @include breakpoint($medium) {
       display: block;
