@@ -314,7 +314,7 @@
    ========================================================================== */
 
 .nav__list {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 
   ul {
     margin-bottom: 1em;
@@ -423,7 +423,7 @@
 
   /* hide sub sub links on small screens*/
   li > ul li {
-    display: none;
+    /*display: none;*/
 
     @include breakpoint($medium) {
       display: block;
