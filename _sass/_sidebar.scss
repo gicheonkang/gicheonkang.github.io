@@ -150,13 +150,13 @@
     display: block;
   }
 
-  button {
+  /*button {
     margin-bottom: 0;
 
     @include breakpoint($large) {
       display: none;
     }
-  }
+  }*/
 }
 
 .author__urls {
