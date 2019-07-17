@@ -133,8 +133,8 @@
 
 .author__urls-wrapper {
   position: relative;
-  //display: table-cell;
-  display: none;
+  display: table-cell;
+  //display: none;
   vertical-align: middle;
   font-family: $helvetica;
   z-index: 10;
@@ -156,7 +156,7 @@
   } 
 
   @include breakpoint($large) {
-      display: none;
+      display: block;
     } 
 
   /*button {
