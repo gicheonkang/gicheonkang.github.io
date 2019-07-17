@@ -20,6 +20,7 @@
   </div>
 
   <div class="author__urls-wrapper">
+    <a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
     <!--<button class="btn btn--inverse">Contact</button>-->
     <ul class="author__urls social-icons">
       {% if author.location %}
