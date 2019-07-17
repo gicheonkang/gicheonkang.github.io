@@ -141,7 +141,7 @@
   cursor: pointer;
    
   li:last-child {
-    white-space: nowrap;
+    //white-space: nowrap;
     a {
       margin-bottom: 0;
     }
@@ -227,12 +227,12 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: #000;
+    color: inherit;
     font-size: $type-size-4;
     text-decoration: none;
 
     &:hover {
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
 }
