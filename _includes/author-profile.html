@@ -21,7 +21,7 @@
 
   <div class="author__urls-wrapper">
     {% if author.email %}
-      <a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
+      <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
     {% endif %}
     <!--<button class="btn btn--inverse">Contact</button>-->
     <ul class="author__urls social-icons">
