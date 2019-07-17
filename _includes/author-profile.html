@@ -21,10 +21,20 @@
 
   <div class="author__urls-wrapper">
     {% if author.email %}
-      <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      <a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
     {% endif %}
+    {% if author.twitter %}
+        <a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a>
+    {% endif %}
+    {% if author.github %}
+        <a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a>
+    {% endif %}
+    {% if author.googlescholar %}
+        <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a>
+    {% endif %}
+    
     <!--<button class="btn btn--inverse">Contact</button>-->
-    <ul class="author__urls social-icons">
+    <!--<ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
@@ -112,6 +122,6 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-    </ul>
+    </ul>-->
   </div>
 </div>
