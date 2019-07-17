@@ -20,7 +20,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-    {% if author.email %}
+    <!--{% if author.email %}
       <a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a><br>
     {% endif %}
     {% if author.twitter %}
@@ -31,10 +31,8 @@
     {% endif %}
     {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a><br>
-    {% endif %}
-    
-    <!--<button class="btn btn--inverse">Contact</button>-->
-    <!--<ul class="author__urls social-icons">
+    {% endif %}-->
+    <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
@@ -122,6 +120,6 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-    </ul>-->
+    </ul>
   </div>
 </div>
