@@ -13,9 +13,9 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 ## Recent News
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR](https://visualqa.org/workshop.html) and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019](https://visualdialog.org/challenge/2019) !! 
+<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that our paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" has been accepted to [EMNLP2019](https://www.emnlp-ijcnlp2019.org/) as a long paper. 
 
-<!--<span style="color:#ff7272">**NEW!**</span> [February 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved **state-of-the-art performance** in [Visual Dialog](https://visualdialog.org) task. -->
+<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR](https://visualqa.org/workshop.html) and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019](https://visualdialog.org/challenge/2019) !! 
 
 <span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge](http://vizwiz.org/workshop/).
 <br>
@@ -23,18 +23,18 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
-    <!--<tr style="border: none;">
+    <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="300" height="150" /></td>
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Jaeseo Lim, and Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;"><i>arXiv preprint arXiv:1902.09368</i></span><br>
+          <span style="font-size:15px;"><i>To appear EMNLP 2019(long) </i></span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></span></td>
-    </tr>-->
-    <!-- Border line dashed <hr style="border: 1px" /> #8c8b8b; --> 
-    <!--<tr style="border: none;">
+    </tr>
+    Border line dashed <hr style="border: 1px" /> #8c8b8b;  
+    <tr style="border: none;">
         <td style="border: none;" colspan="3"><hr style="border: dashed 1px #8c8b8b;"></td>
-    </tr>-->
+    </tr>
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="300" height="150" /></td>
