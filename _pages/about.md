@@ -12,17 +12,20 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
 Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. 
 <br>
 
-<a name="/news"></a>
 ## Recent News
-<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][7] has been accepted to [EMNLP 2019][8] as a long paper. 
-
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
-
-<details><summary>show more</summary>
-  <p>
-    <span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge][4].
+<div class="update content-container">
+  {% for news in site.data.news %}
+  <p class="content-item news news-{{ forloop.index0 }}">
+    <span style="color:#ff7272"><b>NEW!</b></span>
+    <span id="date">{{ news.date }}</span>
+    {{ news.content }}
   </p>
-</details>
+  {% endfor %}
+  <p class="content-item showMore">
+    <span id="more" onclick="showMore()">More</span>
+<span id="noMoreContext" style="display:none;color: #cccccc;"><br>No more news available.</span>
+  </p>
+</div>
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
