@@ -399,17 +399,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
-#read-more-button {
-  text-align: center;
-  margin-top: -90px;
-  padding-top: 80px;
-  height: 110px;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 1.0));
-  position: relative;
-  z-index: 2;
-}
-
-#read-more-button > a {
-  cursor: pointer;
-}
