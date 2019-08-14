@@ -15,12 +15,10 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <a name="/news"></a>
 ## Recent News
 <span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][7] has been accepted to [EMNLP 2019][8] as a long paper. 
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
-<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at EC 2018 Workshop in [VizWiz Grand Challenge][4].
 
-<div id="read-more-button">
-    <a nohref>Read more</a>
-</div>
+<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
+
+<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at EC 2018 Workshop in [VizWiz Grand Challenge][4].
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
@@ -79,15 +77,6 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
   }
 }
 </style>
-
-<script src="../assets/js/vendor/jquery/jquery-1.12.4.min.js"></script>
-<script type="text/javascript">
-    $('ul:gt(0) li:gt(3)').hide();
-    $('#read-more-button > a').click(function() {
-        $('ul:gt(0) li:gt(3)').show();
-        $('#read-more-button').hide();
-    });
-</script>
 
 ---
 [1]: http://en.snu.ac.kr
