@@ -16,9 +16,8 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 <span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
 <details><summary>show more</summary>
-  <p>
-    <span style="color:#ff7272"><b>NEW!</b></span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
-  </p>
+    
+<span style="color:#ff7272"><b>NEW!</b></span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
 </details><br>
 
 ## Publications
