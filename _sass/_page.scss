@@ -400,34 +400,16 @@
   text-transform: uppercase;
 }
 
-.content-container {
+#read-more-button {
+  text-align: center;
+  margin-top: -90px;
+  padding-top: 80px;
+  height: 110px;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 1.0));
   position: relative;
-  text-align: left;
-  float: left;
-  width: 100%;
-  margin: 3em 0 1em 0;
-  width: 60%;
-  padding: 0 20%;
-  line-height: 1.5em;
-
-  @media (min-width: 500px) and (max-width: 1024px) {
-    padding: 5%;
-    width: 90%;
-    font-size: 1.5em;
-  }
-  @media screen and (max-width: 500px) {
-    padding: 5%;
-    width: 90%;
-    font-size: 0.8em;
-  }
+  z-index: 2;
 }
 
-.content-subcontainer .content-item {
-  text-align: left; 
-
-  a#download_link {
-    text-decoration: none;
-    font-weight: bold;
-    color: #3399ff;
-  }
+#read-more-button > a {
+  cursor: pointer;
 }
