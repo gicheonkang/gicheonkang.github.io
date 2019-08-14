@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<hr>
 I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision and natural lanauage processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
 Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. 
 <br>
@@ -92,9 +92,9 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 <script src="/assets/js/vendor/jquery/jquery-1.12.4.min.js"></script>
 <script type="text/javascript">
-    $('ul:gt(0) li:gt(4)').hide();
+    $('ul:gt(0) li:gt(12)').hide();
     $('#read-more-button > a').click(function() {
-        $('ul:gt(0) li:gt(4)').show();
+        $('ul:gt(0) li:gt(12)').show();
         $('#read-more-button').hide();
     });
 </script>
