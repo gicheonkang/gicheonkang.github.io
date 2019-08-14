@@ -16,7 +16,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <div class="update content-container">
   {% for news in site.data.news %}
   <p class="content-item news news-{{ forloop.index0 }}">
-    <span style="color:#ff7272">**NEW!**</span>
+    <span style="color:#ff7272"><b>NEW!</b></span>
     <span id="date">{{ news.date }}</span>
     {{ news.content }}
   </p>
