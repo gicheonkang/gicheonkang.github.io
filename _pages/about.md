@@ -20,6 +20,14 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 <span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge][4].
 
+<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge][4].
+
+<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge][4].
+
+<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge][4].
+
+<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge][4].
+
 <div id="read-more-button">
     <a nohref>Read more</a>
 </div>
