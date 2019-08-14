@@ -15,21 +15,11 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][7] has been accepted to [EMNLP 2019][8] as a long paper. 
 
 <span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
-
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
-
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
-
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
-<div id="read-more-button">
-    <a nohref>Read more</a>
-</div>
-<!--<details><summary>show more</summary>
+<details><summary>show more</summary>
   <p>
     <span style="color:#ff7272"><b>NEW!</b></span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
   </p>
-</details>-->
-
+</details><br>
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
@@ -88,15 +78,6 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
   }
 }
 </style>
-
-<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-<script type="text/javascript" src="/assets/js/vendor/jquery/jquery-1.12.4.min.js">
-    $('ul:gt(0) li:gt(2)').hide();
-    $('#read-more-button > a').click(function() {
-        $('ul:gt(0) li:gt(2)').show();
-        $('#read-more-button').hide();
-    });
-</script>
 
 ---
 [1]: http://en.snu.ac.kr
