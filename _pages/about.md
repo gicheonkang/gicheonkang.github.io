@@ -91,9 +91,9 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
 <script type="text/javascript" src="/assets/js/vendor/jquery/jquery-1.12.4.min.js">
-    $('ul:gt(0) li:gt(12)').hide();
+    $('ul:gt(0) li:gt(2)').hide();
     $('#read-more-button > a').click(function() {
-        $('ul:gt(0) li:gt(12)').show();
+        $('ul:gt(0) li:gt(2)').show();
         $('#read-more-button').hide();
     });
 </script>
