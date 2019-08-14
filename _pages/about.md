@@ -8,22 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year master student in Cognitive Science Program at [Seoul National University]([1]), advised by [Prof. Byoung-Tak Zhang]([2]). My research interests mainly span in computer vision and natural lanauage processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
-Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University]([3]). 
+I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision and natural lanauage processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
+Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. 
 <br>
 
 ## Recent News
-<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper]([7]) has been accepted to [EMNLP 2019]([8]) as a long paper. 
+<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][7] has been accepted to [EMNLP 2019][8] as a long paper. 
 
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR]([5]) and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019]([6]) !! 
+<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
 
-<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge]([4]).
+<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge][4].
 
 <div id="read-more-button">
     <a nohref>Read more</a>
 </div>
-
-<br>
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
