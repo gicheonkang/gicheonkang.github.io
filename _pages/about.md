@@ -8,24 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year master student in Cognitive Science Program at [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research interests mainly span in computer vision and natural lanauage processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
-Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University](http://www.ajou.ac.kr/en/). 
+I am a 2nd year master student in Cognitive Science Program at [Seoul National University]([1]), advised by [Prof. Byoung-Tak Zhang]([2]). My research interests mainly span in computer vision and natural lanauage processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
+Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University]([3]). 
 <br>
 
 ## Recent News
-<div class="update content-container">
-  {% for news in site.data.news %}
-  <p class="content-item news news-{{ forloop.index0 }}">
-    <span style="color:#ff7272"><b>NEW!</b></span>
-    <span id="date">{{ news.date }}</span>
-    {{ news.content }}
-  </p>
-  {% endfor %}
-  <p class="content-item showMore">
-    <span id="more" onclick="showMore()">More</span>
-<span id="noMoreContext" style="display:none;color: #cccccc;"><br>No more news available.</span>
-  </p>
+<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper]([7]) has been accepted to [EMNLP 2019]([8]) as a long paper. 
+
+<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR]([5]) and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019]([6]) !! 
+
+<span style="color:#ff7272">**NEW!**</span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge]([4]).
+
+<div id="read-more-button">
+    <a nohref>Read more</a>
 </div>
+
 <br>
 
 ## Publications
@@ -39,7 +36,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
           <span style="font-size:15px;"><i>EMNLP 2019 (long) </i></span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/abs/1902.09368"> Paper </a></span></td>
     </tr>
-    <!-- Border line dashed <hr style="border: 1px" /> #8c8b8b; --> 
+    <!-- CBAN -->
     <tr style="border: none;">
         <td style="border: none;" colspan="3"><hr style="border: dashed 1px #8c8b8b;"></td>
     </tr>
@@ -85,3 +82,25 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
   }
 }
 </style>
+
+<script src="/js/jquery.min.js"></script>
+<script type="text/javascript">
+    $('ul:gt(0) li:gt(3)').hide();
+    $('#read-more-button > a').click(function() {
+        $('ul:gt(0) li:gt(3)').show();
+        $('#read-more-button').hide();
+    });
+</script>
+
+---
+[1]: http://en.snu.ac.kr
+[2]: https://bi.snu.ac.kr/~btzhang/
+[3]: http://www.ajou.ac.kr/en/
+[4]: http://vizwiz.org/workshop/
+[5]: https://visualqa.org/workshop.html
+[6]: https://visualdialog.org/challenge/2019
+[7]: https://arxiv.org/abs/1902.09368
+[8]: https://www.emnlp-ijcnlp2019.org/
+
+
+
