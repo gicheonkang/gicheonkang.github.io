@@ -2,8 +2,8 @@ $(document).ready(function(){
   var i;
   var elements = $("div.update").find("p.news");
   var l = elements.length;
-  if (l >= 5) {
-    for (i = 5; i < l; i++) {
+  if (l >= 2) {
+    for (i = 2; i < l; i++) {
       $(elements[i]).css("display", "none");
     }
   }
@@ -25,7 +25,7 @@ function showMore() {
     $("span#noMoreContext").css("display", "block");
   }
   else {
-    var show = showing + 5;
+    var show = showing + 2;
     var last = show;
     if (show > l) last = l;
     for (i = showing; i < last; i++) {
