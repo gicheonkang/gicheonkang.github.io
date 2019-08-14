@@ -87,7 +87,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 <script src="/assets/js/vendor/jquery/jquery-1.12.4.min.js"></script>
 <script type="text/javascript">
-    $('ul:gt(0) li:gt(12)').hide();
+    $('ul:gt(0) li:gt(4)').hide();
     $('#read-more-button > a').click(function() {
         $('ul:gt(0) li:gt(12)').show();
         $('#read-more-button').hide();
