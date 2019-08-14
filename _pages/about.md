@@ -12,6 +12,7 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
 Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. 
 <br>
 
+<a name="/news"></a>
 ## Recent News
 <span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][7] has been accepted to [EMNLP 2019][8] as a long paper. 
 
