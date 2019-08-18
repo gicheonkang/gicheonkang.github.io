@@ -20,6 +20,9 @@
   </div>
 
   <div class="author__urls-wrapper">
+    {% if author.location %}
+        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}<br>
+      {% endif %}
     {% if author.email %}
       <a href="mailto:{{ author.email }}" style="text-decoration:none; color: dimgray"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a><br>
     {% endif %}
