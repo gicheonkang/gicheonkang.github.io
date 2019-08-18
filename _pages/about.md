@@ -12,7 +12,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 ## Recent News
-<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][6] has been accepted to [EMNLP 2019][7]. 
+<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][6] has been accepted to [EMNLP 2019][7]. <br>
 <span style="color:#ff7272">**NEW!**</span> [June 2019] Our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][5] !! 
 <details><summary>show more</summary>
     
