@@ -12,26 +12,13 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 ## Recent News
-<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][6] has been accepted to [EMNLP 2019][7]. 
+<span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>. 
 
-<span style="color:#ff7272">**NEW!**</span> [June 2019] Our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][5] !! 
+<span style="color:#ff7272"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019<a>!! 
 <details><summary>show more</summary>
     
-<span style="color:#ff7272"><b>NEW!</b></span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
+<span style="color:#ff7272"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
 </details>
-
-<div id="news">
-  {% for item in site.data.news.main %}
-  <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
-  {% endfor %}
-  <a href="#" onclick="hideBlock('news'); showBlock('allnews'); return false;" class="btn btn--inverse">More</a>
-</div>
-<div id="allnews" style="display: none;">
-  {% for item in site.data.news.all %}
-  <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
-  {% endfor %}
-  <a href="#" onclick="hideBlock('allnews'); showBlock('news'); return false;" class="btn btn--inverse">Less</a>
-</div>
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
@@ -95,10 +82,5 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 [1]: http://en.snu.ac.kr
 [2]: https://bi.snu.ac.kr/~btzhang/
 [3]: http://www.ajou.ac.kr/en/
-[4]: http://vizwiz.org/workshop/
-[5]: https://visualdialog.org/challenge/2019
-[6]: https://arxiv.org/abs/1902.09368
-[7]: https://www.emnlp-ijcnlp2019.org/
-
 
 
