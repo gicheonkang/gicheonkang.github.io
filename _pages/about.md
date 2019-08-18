@@ -12,9 +12,9 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 ## Recent News
-<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][7] has been accepted to [EMNLP 2019][8] as a long paper. 
+<span style="color:#ff7272">**NEW!**</span> [August 2019] Excited to announce that [our paper][6] has been accepted to [EMNLP 2019][7]. 
 
-<span style="color:#ff7272">**NEW!**</span> [June 2019] We have a paper accepted at [VQA & Dialog Workshop at CVPR][5] and our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][6] !! 
+<span style="color:#ff7272">**NEW!**</span> [June 2019] Our proposed method ranks **3rd place** on [Visual Dialog Challenge 2019][5] !! 
 <details><summary>show more</summary>
     
 <span style="color:#ff7272"><b>NEW!</b></span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
@@ -83,10 +83,9 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 [2]: https://bi.snu.ac.kr/~btzhang/
 [3]: http://www.ajou.ac.kr/en/
 [4]: http://vizwiz.org/workshop/
-[5]: https://visualqa.org/workshop.html
-[6]: https://visualdialog.org/challenge/2019
-[7]: https://arxiv.org/abs/1902.09368
-[8]: https://www.emnlp-ijcnlp2019.org/
+[5]: https://visualdialog.org/challenge/2019
+[6]: https://arxiv.org/abs/1902.09368
+[7]: https://www.emnlp-ijcnlp2019.org/
 
 
 
