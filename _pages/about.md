@@ -20,6 +20,19 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <span style="color:#ff7272"><b>NEW!</b></span> [August 2018] A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
 </details>
 
+<div id="news">
+  {% for item in site.data.news.main %}
+  <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+  {% endfor %}
+  <a href="#" onclick="hideBlock('news'); showBlock('allnews'); return false;" class="btn btn--inverse">More</a>
+</div>
+<div id="allnews" style="display: none;">
+  {% for item in site.data.news.all %}
+  <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+  {% endfor %}
+  <a href="#" onclick="hideBlock('allnews'); showBlock('news'); return false;" class="btn btn--inverse">Less</a>
+</div>
+
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
