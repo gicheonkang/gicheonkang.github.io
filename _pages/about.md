@@ -28,7 +28,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Jaeseo Lim, and Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;"><i>In Proceedings of the EMNLP (long)</i>. Hong Kong. 2019.</span><br>
+          <span style="font-size:15px;"><i>In EMNLP 2019 (long)</i></span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf"> Paper </a></span>
           <span style="font-size:15px;"><a class="btn btn--primary" href="https://github.com/gicheonkang/DAN-VisDial"> Code </a></span>
         </td>
