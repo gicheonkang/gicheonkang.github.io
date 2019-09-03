@@ -28,7 +28,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Jaeseo Lim, and Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;">EMNLP 2019 (long)</span><br>
+          <span style="font-size:15px;"><i>In Proceedings of the EMNLP (long)</i>. Hong Kong. 2019.</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf"> Paper </a></span>
           <span style="font-size:15px;"><a class="btn btn--primary" href="https://github.com/gicheonkang/DAN-VisDial"> Code </a></span>
         </td>
@@ -43,7 +43,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Seonil Son, and Byoung-Tak Zhang </span><br>
-          <span style="font-size:15px;">ECCV Workshop on VizWiz Challenge, 2018</span><br>
+          <span style="font-size:15px;"><i>ECCV Workshop on VizWiz Challenge</i>, 2018</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> Paper </a></span>
           </td> 
     </tr>
