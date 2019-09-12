@@ -380,9 +380,9 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: $primary-color;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: #fff;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
