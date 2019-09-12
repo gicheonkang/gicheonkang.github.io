@@ -50,7 +50,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 </table>
 
 ## Talks
-* "*Dual Attention Nets for Visual Reference Resolution in Visual Dialog*", SK T-Brain, Oct. 2019.
+* "*Dual Attention Nets for Visual Reference Resolution in VisDial*", SK T-Brain, Oct. 2019.
 
 <style>
   @media screen and (max-width: 750px) {
