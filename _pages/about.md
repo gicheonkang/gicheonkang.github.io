@@ -14,15 +14,12 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 ## Recent News
 <span style="color:#ff7272"><b>NEW!</b></span> [September 2019] I gave an invited talk at <a href="https://www.facebook.com/SKTBrain">SK T-Brain</a>.
 
-<span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>. 
-<details>
-  <summary>show more</summary>
-  <div class="old-news">
-  <ul>
-    <span style="color:#ff7272"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019<a>!! <br>
-    <span style="color:#ff7272"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
-    </ul>    
-  </div>    
+<span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.
+
+<span style="color:#ff7272"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019<a>!!
+<details><summary>show more</summary>
+
+  <span style="color:#ff7272"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.  
 </details>
 
 ## Publications
