@@ -33,7 +33,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
           <span style="font-size:15px;"><i>EMNLP 2019 (long)</i></span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf"> Paper </a></span>
           <span style="font-size:15px;"><a class="btn btn--primary" href="https://github.com/gicheonkang/DAN-VisDial"> Code </a></span>
-          <span style="font-size:15px;"><a class="btn btn--secondary" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf"> Slide </a></span>
+          <span style="font-size:15px;"><a class="btn btn--success" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf"> Slide </a></span>
         </td>
     </tr>
     <!-- CBAN -->
