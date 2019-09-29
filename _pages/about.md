@@ -22,7 +22,6 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
   
   <span style="color:#ff7272"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.  
 </details>
-<br>
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
