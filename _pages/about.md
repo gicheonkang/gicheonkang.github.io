@@ -18,7 +18,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <details>
   <summary>show more</summary>
 
-  <span style="color:#ff7272"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!
+  <span style="color:#ff7272"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!! <br>
   
   <span style="color:#ff7272"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.  
 </details>
