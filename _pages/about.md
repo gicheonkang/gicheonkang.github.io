@@ -12,6 +12,8 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 ## Recent News
+<span style="color:#ff7272"><b>NEW!</b></span> [Octber 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.
+
 <span style="color:#ff7272"><b>NEW!</b></span> [September 2019] I gave an invited talk at <a href="https://www.facebook.com/SKTBrain">SK T-Brain</a>.
 
 <span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.
@@ -31,7 +33,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>G.-C. Kang</u>, J. Lim, and B.-T. Zhang</span><br>
-          <span style="font-size:15px;"><i>EMNLP 2019, ICCV 2019 Video Turing Test Workshop (Spotlight)</i></span><br>
+          <span style="font-size:15px;"><i>EMNLP 2019</i></span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf"> Paper </a></span>
           <span style="font-size:15px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial"> Code </a></span>
           <span style="font-size:15px;"><a class="btn btn--primary" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf"> Slide </a></span>
