@@ -67,7 +67,6 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td style="border: none;"><b><span style="font-size: 17px; ">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-size="large" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub" >Star</a><br>
           <span style="font-size:15px; ">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
-          <span style="font-size:15px; "><a class="btn btn--success" href="https://github.com/gicheonkang/fast-face-android"> Code </a></span>
         </td>
     </tr>    
 </table>
