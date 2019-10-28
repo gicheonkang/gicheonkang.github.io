@@ -58,6 +58,19 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 ## Talks
 * "*Dual Attention Nets for Visual Reference Resolution in VisDial* ", SK Telecom AI Center, 2019.
 
+## Side Projects
+<table align="center" style="border-collapse: collapse; border: none;" >
+    <!-- Dual Attention Networks -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/fast-face-android.png?raw=true" alt="Photo" width="300" height="304" /></td>
+        <td style="border: none;"></td>
+        <td align="left" style="border: none;"><b><span style="font-size: 17px;">Fast-Face Android</span></b><br>
+          <span style="font-size:15px;">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
+          <span style="font-size:15px;"><a class="btn btn--success" href="https://github.com/gicheonkang/fast-face-android"> Code </a></span>
+        </td>
+    </tr>    
+</table>
+
 <style>
   @media screen and (max-width: 750px) {
   table thead {
