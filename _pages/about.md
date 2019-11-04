@@ -16,7 +16,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 <span style="color:#ff7272;"><b>NEW!</b></span> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.</span>
 
-<span style="color:#ff7272;"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.</span>
+<span style="color:#ff7272;"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.
 <details>
   <summary>show more</summary>
 
