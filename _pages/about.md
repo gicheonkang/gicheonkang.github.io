@@ -7,22 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision and natural language processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
+<span style="font-size:15px;">I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision and natural language processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
 Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. 
-<br>
+<br></span>
 
 ## Recent News
-<span style="color:#ff7272"><b>NEW!</b></span> [October 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.
+<span style="color:#ff7272 font-size:15px;"><b>NEW!</b></span> [October 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.
 
-<span style="color:#ff7272"><b>NEW!</b></span> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.
+<span style="color:#ff7272 font-size:15px;"><b>NEW!</b></span> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.
 
-<span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.
+<span style="color:#ff7272 font-size:15px;"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.
 <details>
   <summary>show more</summary>
 
-  <p><span style="color:#ff7272"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!</p> 
+  <p><span style="color:#ff7272 font-size:15px;"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!</p> 
   
-  <p><span style="color:#ff7272"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.</p>  
+  <p><span style="color:#ff7272 font-size:15px;"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.</p>  
 </details>
 
 ## Publications
@@ -33,7 +33,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:14px;"><u>G.-C. Kang</u>, J. Lim, and B.-T. Zhang</span><br>
-          <span style="font-size:14px;"><i>Conference on Empirical Methods in Natural Language Processing (EMNLP), </i>2019</span><br><br>
+          <span style="font-size:14px;"><i>Conference on Empirical Methods in Natural Language Processing (EMNLP), </i>2019</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf"> Paper </a></span>
           <span style="font-size:14px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial"> Code </a></span>
           <span style="font-size:14px;"><a class="btn btn--primary" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf"> Slide </a></span>
@@ -49,7 +49,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:14px;"><u>G.-C. Kang</u>, S. Son, and B.-T. Zhang</span><br>
-          <span style="font-size:14px;"><i>European Conference on Computer Vision VizWiz Workshop (ECCVW), </i>2018</span><br><br>
+          <span style="font-size:14px;"><i>European Conference on Computer Vision VizWiz Workshop (ECCVW), </i>2018</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> Paper </a></span>
           </td> 
     </tr>
