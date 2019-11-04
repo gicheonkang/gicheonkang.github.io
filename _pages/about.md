@@ -33,7 +33,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>G.-C. Kang</u>, J. Lim, and B.-T. Zhang</span><br>
-          <span style="font-size:15px;"><i>EMNLP 2019</i></span><br>
+          <span style="font-size:15px;">In <i>Conference on Empirical Methods in Natural Language Processing (EMNLP), </i>2019</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf"> Paper </a></span>
           <span style="font-size:15px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial"> Code </a></span>
           <span style="font-size:15px;"><a class="btn btn--primary" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf"> Slide </a></span>
@@ -49,7 +49,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:15px;"><u>G.-C. Kang</u>, S. Son, and B.-T. Zhang</span><br>
-          <span style="font-size:15px;"><i>ECCV 2018 VizWiz Workshop</i></span><br>
+          <span style="font-size:15px;">In <i>European Conference on Computer Vision VizWiz Workshop (ECCVW), </i>2018</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> Paper </a></span>
           </td> 
     </tr>
