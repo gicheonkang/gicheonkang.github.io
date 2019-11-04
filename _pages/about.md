@@ -12,11 +12,11 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 ## Recent News
-<span style="color:#ff7272; font-size:15px"><b>NEW!</b></span> [October 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.
+<span style="color:#ff7272; font-size:15px"><b>NEW!</b> [October 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.</span>
 
-<span style="color:#ff7272; font-size:15px"><b>NEW!</b></span> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.
+<span style="color:#ff7272; font-size:15px"><b>NEW!</b> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.</span>
 
-<span style="color:#ff7272; font-size:15px"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.
+<span style="color:#ff7272; font-size:15px"><b>NEW!</b> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.</span>
 <details>
   <summary>show more</summary>
 
@@ -57,7 +57,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 ## Talks
 <ul>
-  <li style="font-size:18px;">Dual Attention Nets for Visual Reference Resolution in VisDial, SK Telecom AI Center, 2019.</li>
+  <li style="font-size:16px;">Dual Attention Nets for Visual Reference Resolution in VisDial, SK Telecom AI Center, 2019.</li>
 </ul>
 
 ## Side Projects
