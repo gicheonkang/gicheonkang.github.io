@@ -57,7 +57,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 
 ## Talks
 <ul>
-  <li style="font-size:16px">Dual Attention Nets for Visual Reference Resolution in VisDial, SK Telecom AI Center, 2019.</li>
+  <li>Dual Attention Nets for Visual Reference Resolution in VisDial, SK Telecom AI Center, 2019.</li>
 </ul>
 
 ## Side Projects
