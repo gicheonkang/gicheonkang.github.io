@@ -12,7 +12,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <br>
 
 ## Recent News
-<span style="color:#ff7272;"><b>NEW!</b></span>[October 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.
+<span style="font-size:15px;"><span style="color:#ff7272;"><b>NEW!</b></span> [October 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.</span>
 
 <span style="color:#ff7272;"><b>NEW!</b></span> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.
 
