@@ -29,7 +29,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="280" height="140" /></td>
+        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="240" height="120" /></td>
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>G.-C. Kang</u>, J. Lim, and B.-T. Zhang</span><br>
@@ -46,7 +46,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     </tr>
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="280" height="140" /></td>
+        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="240" height="120" /></td>
         <td style="border: none;"></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:15px;"><u>G.-C. Kang</u>, S. Son, and B.-T. Zhang</span><br>
@@ -66,7 +66,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/fast-face-android.png?raw=true" alt="Photo" width="300" /></td>
+        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/fast-face-android.png?raw=true" alt="Photo" width="240" /></td>
         <td style="border: none;"></td>
         <td style="border: none;"><b><span style="font-size: 17px; ">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-size="large" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub" >Star</a><br>
           <span style="font-size:15px; ">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
