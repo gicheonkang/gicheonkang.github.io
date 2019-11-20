@@ -51,7 +51,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:15px;"><u>G.-C. Kang</u>, S. Son, and B.-T. Zhang</span><br>
           <span style="font-size:15px;"><i>European Conference on Computer Vision VizWiz Workshop (ECCVW), </i>2018</span><br>
-          <span style="font-size:15px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf"> Paper </a></span>
+          <span style="font-size:15px;"><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
           </td> 
     </tr>
 </table>
