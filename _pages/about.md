@@ -38,7 +38,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
           <span style="font-size:14px;"><i>Conference on Empirical Methods in Natural Language Processing (EMNLP), </i>2019</span><br>
           <span style="font-size:13px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf">Paper</a></span>
           <span style="font-size:13px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
-          <span style="font-size:13px;"><a "btn btn--primary" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
+          <span style="font-size:13px;"><a class="btn btn--primary" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
         </td>
     </tr>
     <!-- CBAN -->
