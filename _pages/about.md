@@ -7,22 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision and natural language processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
-Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. 
-<br>
+<span style="font-size:16px;"> I am a 2nd year master student in Cognitive Science Program at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research interests mainly span in computer vision and natural language processing, and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
+Prior to joining graduate school, I received my Bachelor's degree in software and computer science from <a href="http://www.ajou.ac.kr/en/">Ajou University</a>. 
+<br></span>
 
 ## Recent News
-<span style="font-size:15px;"><span style="color:#ff7272;"><b>NEW!</b></span> [October 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.</span>
+<span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [October 2019] <a href="https://arxiv.org/abs/1902.09368">Our EMNLP paper</a> has been accepted to ICCV 2019 <a href="https://videoturingtest.github.io">Video Turing Test workshop</a> as a spotlight talk.</span>
 
-<span style="color:#ff7272;"><b>NEW!</b></span> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.
+<span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.</span>
 
-<span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.
+<span style="font-size:16px;"><span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.</span>
 <details>
   <summary>show more</summary>
 
-  <p><span style="color:#ff7272;"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!</p> 
+  <p><span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!</span></p> 
   
-  <p><span style="color:#ff7272;"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.</p>
+  <p><span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.</span></p>
   
 </details>
 
