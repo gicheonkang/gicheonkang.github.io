@@ -27,7 +27,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="240" height="120" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
-          <span style="font-size:14px;"><b>G.-C. Kang</b>, J. Lim, and B.-T. Zhang</span><br>
+          <span style="font-size:14px;"><u>G.-C. Kang</u>, J. Lim, and B.-T. Zhang</span><br>
           <span style="font-size:14px;"><i>Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2019</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf">Paper</a></span>
           <span style="font-size:14px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
@@ -42,7 +42,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="240" height="120" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Contextualized Bilinear Attention Networks</span></b><br>
-          <span style="font-size:14px;"><b>G.-C. Kang</b>, S. Son, and B.-T. Zhang</span><br>
+          <span style="font-size:14px;"><u>G.-C. Kang</u>, S. Son, and B.-T. Zhang</span><br>
           <span style="font-size:14px;"><i>European Conference on Computer Vision VizWiz Workshop (ECCVW)</i>, 2018</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
           </td> 
