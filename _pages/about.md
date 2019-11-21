@@ -17,8 +17,8 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <span style="font-size:16px;"><span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.</span><br>
 <details>
   <summary>show more</summary>
-  <p><span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!</span></p> 
-  <p><span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.</span></p>
+  <span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!</span><br>
+  <span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.</span>
 </details>
 
 ## Publications
