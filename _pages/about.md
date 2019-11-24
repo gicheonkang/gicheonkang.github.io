@@ -17,7 +17,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <span style="font-size:16px;"><span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.</span>
 <details>
   <summary>show more</summary>
-  <span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> on <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!</span><br>
+  <span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> in <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!</span><br>
   <span style="font-size:16px;"><span style="color:#ff7272;"><b>NEW!</b></span> [August 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.</span>
 </details>
 
@@ -29,6 +29,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:14px;"><u>G.-C. Kang</u>, J. Lim, and B.-T. Zhang</span><br>
           <span style="font-size:14px;"><i>Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2019</span><br>
+          <span style="font-size:14px;">(3<sup>rd</sup> place in <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>)</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf">Paper</a></span>
           <span style="font-size:14px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
