@@ -29,7 +29,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>G.-C. Kang</u>, J. Lim, and B.-T. Zhang</span><br>
           <span style="font-size:15px;"><i>Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2019.</span><br>
-          <span style="font-size:15px;">(Ranked 3<sup>rd</sup> place in <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>)</span><br>
+          <span style="font-size:15px;">(Ranked 3<sup>rd</sup> in <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>)</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf">Paper</a></span>
           <span style="font-size:15px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
           <span style="font-size:15px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
