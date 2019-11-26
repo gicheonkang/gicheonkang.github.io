@@ -51,7 +51,7 @@ $mfp-IE7support:                      true !default; // Very basic IE7 support
 $mfp-include-iframe-type:             true !default;
 $mfp-iframe-padding-top:              40px !default;
 $mfp-iframe-background:               #000 !default;
-$mfp-iframe-max-width:                900px !default;
+$mfp-iframe-max-width:                1000px !default;
 $mfp-iframe-ratio:                    9/16 !default;
 
 // Image-type options
@@ -599,7 +599,7 @@ button {
 
 
 // Scale navigation arrows and reduce padding from sides
-@media all and (max-width: 900px) {
+@media all and (max-width: 1000px) {
   .mfp-arrow {
     -webkit-transform: scale(0.75);
     transform: scale(0.75);
