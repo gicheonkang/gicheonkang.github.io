@@ -27,7 +27,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
-          <span style="font-size:15px;"><i><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang</i></span><br>
+          <span style="font-size:15px;"><b>Gi-Cheon Kang</b>, Jaeseo Lim, and Byoung-Tak Zhang</span><br>
           <span style="font-size:15px;">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019.</span><br>
           <span style="font-size:15px;">(Ranked 3<sup>rd</sup> in <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>)</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf">Paper</a></span>
@@ -43,7 +43,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Contextualized Bilinear Attention Networks</span></b><br>
-          <span style="font-size:15px;"><i><b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang</i></span><br>
+          <span style="font-size:15px;"><b>Gi-Cheon Kang</b>, Seonil Son, and Byoung-Tak Zhang</span><br>
           <span style="font-size:15px;">European Conference on Computer Vision VizWiz Workshop (ECCVW), 2018</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
           </td> 
