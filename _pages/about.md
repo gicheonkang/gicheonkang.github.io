@@ -28,7 +28,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/DAN-19.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019.</span><br>
+          <span style="font-size:15px;">In <i>Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2019.</span><br>
           <span style="font-size:15px;">(Ranked 3<sup>rd</sup> in <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>)</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf">Paper</a></span>
           <span style="font-size:15px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
@@ -44,7 +44,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
         <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 17px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Seonil Son, Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;">European Conference on Computer Vision VizWiz Workshop (ECCVW), 2018</span><br>
+          <span style="font-size:15px;">In <i>European Conference on Computer Vision VizWiz Workshop (ECCVW)</i>, 2018</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
           </td> 
     </tr>
