@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year master student in Cognitive Science Program at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <br> <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research interests mainly span in computer vision and natural language processing, <br> and machine learning. I'm particularly interested in machine learning and its application in building agents that can see everyday scenes and fluently communicate with people. <br>
+I am a 2nd year master student in Cognitive Science Program at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <br> <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research interests mainly span in computer vision and natural language processing, and machine learning. I'm particularly interested in machine learning and its application <br> in building agents that can see everyday scenes and fluently communicate with people. <br>
 Prior to joining graduate school, I received my Bachelor's degree in software and computer science from <br> <a href="http://www.ajou.ac.kr/en/">Ajou University</a>. 
 <br>
 
