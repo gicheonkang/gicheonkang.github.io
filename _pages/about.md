@@ -41,7 +41,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
     </tr>
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/CBAN-18.png?raw=true" alt="Photo" width="270" height="135" /></td>
+        <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Seonil Son, Byoung-Tak Zhang</span><br>
           <span style="font-size:15px;">European Conference on Computer Vision VizWiz Workshop (ECCVW), 2018</span><br>
@@ -60,7 +60,7 @@ Prior to joining graduate school, I received my Bachelor's degree in software an
 <table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="https://github.com/gicheonkang/gicheonkang.github.io/blob/master/images/fast-face-android.png?raw=true" alt="Photo" width="280" /></td>
+        <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="280" /></td>
         <td style="border: none;"></td>
       <td style="border: none;"><b><span style="font-size: 16px;">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub">Star</a><br>
           <span style="font-size:15px;">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
