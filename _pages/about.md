@@ -61,7 +61,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="280" /></td>
         <td style="border: none;"></td>
-      <td style="border: none;"><b><span style="font-size: 16px;">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub">Star</a><br>
+      <td style="border: none;"><b><span style="font-size: 16px;">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-icon="octicon-star" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub">Star</a><br>
           <span style="font-size:15px;">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
         </td>
     </tr>    
