@@ -11,6 +11,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 <br>
 
 ## Recent News
+<span style="color:#ff7272;"><b>NEW!</b></span> [December 2019] I'm going to work at <a href="https://www.skt.ai">SK Telecom AI Center</a> as a research intern.<br>
 <span style="color:#ff7272;"><b>NEW!</b></span> [November 2019] I gave a spotlight talk at <a href="https://videoturingtest.github.io">Video Turing Test workshop</a>, ICCV 2019.
 <details>
   <summary>show more</summary>
