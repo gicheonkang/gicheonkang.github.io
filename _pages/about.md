@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision, natural language processing, and machine learning. I'm particularly interested in the interplay between vision and language as <q>I firmly believe that the vision and language have complementary strengths</q>. The long-term goal of my research is building AI agents that can see everyday scenes and fluently communicate with people. Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. <br>
-![ajou](/images/ajou.png){: width="100" height="100"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp; ![skt](/images/skt.png){: width="120" height="80"} 
+I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision, natural language processing, and machine learning. I'm particularly interested in the interplay between vision and language as <q>I firmly believe that the vision and language have complementary strengths</q>. The long-term goal of my research is building AI agents that can see everyday scenes and fluently communicate with people. Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3].
 <br>
 
 ## Recent News
@@ -66,6 +65,29 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
           <span style="font-size:15px;">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
         </td>
     </tr>    
+</table>
+
+## Affiliations
+<table align="center" class='affl-pic'>
+    <tr>
+        <td>
+            <a href="http://www.ajou.ac.kr/en/">
+            <img src="/images/ajou.png"></a>
+        </td>
+        <td>
+            <a href="http://en.snu.ac.kr">
+            <img src="/images/snu.png"></a>
+        </td>
+        <td>
+            <a href="https://www.skt.ai">
+            <img src="/images/skt.png"></a>
+        </td>
+    <tr>
+    <tr>
+        <td>Ajou University<br>2011-2018</td>
+        <td>Seoul National University<br>2018-2020</td>
+        <td>SK Telecom AI Center<br>Spring 2020</td>
+    </tr>
 </table>
 
 <style>
