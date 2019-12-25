@@ -14,7 +14,7 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
     <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="http://www.ajou.ac.kr/en/"><img style="width:120px;" src="/img/logos/iitr.jpg"></a>
+            <a href="http://www.ajou.ac.kr/en/"><img style="width:120px;" src="/images/ajou.png"></a>
         </div>
         <div class="logo-desc">
             Ajou University<br>
@@ -24,7 +24,7 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
     <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="http://en.snu.ac.kr"><img style="width:120px;" src="/img/logos/uq.png"></a>
+            <a href="http://en.snu.ac.kr"><img style="width:120px;" src="/images/snu.png"></a>
         </div>
         <div class="logo-desc">
             Seoul National University<br>
