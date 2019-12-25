@@ -10,6 +10,11 @@ redirect_from:
 I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision, natural language processing, and machine learning. I'm particularly interested in the interplay between vision and language as <q>I firmly believe that the vision and language have complementary strengths</q>. The long-term goal of my research is building AI agents that can see everyday scenes and fluently communicate with people. Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. 
 <br>
 
+|![ajou](/images/ajou.png){: width="100" height="100"}|![snu](/images/snu.png){: width="80" height="80"}||
+|:---:|:---:|:---:|
+|Ajou University|Seoul National University|테스트3|
+|2011 - 2018    |2018 - 2020|테스트3|
+
 <table align="center" style="border-collapse: collapse; border: none;" >
     <tr style="border: none;">
       <td align="center" style="border: none;"><a href="http://www.ajou.ac.kr/en/"><img style="width:100px;" src="/images/ajou.png"></a></td>
