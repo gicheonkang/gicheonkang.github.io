@@ -10,28 +10,17 @@ redirect_from:
 I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision, natural language processing, and machine learning. I'm particularly interested in the interplay between vision and language as <q>I firmly believe that the vision and language have complementary strengths</q>. The long-term goal of my research is building AI agents that can see everyday scenes and fluently communicate with people. Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]. 
 <br>
 
-<div class="row" id="timeline-logos">
-    <div class="col-xs-2">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a href="http://www.ajou.ac.kr/en/"><img style="width:100px;" src="/images/ajou.png"></a>
-        </div>
-        <div class="logo-desc">
-            Ajou University<br>
-            2011 - 2018
-        </div>
-    </div>
-    <div class="col-xs-2">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a href="http://en.snu.ac.kr"><img style="width:80px;" src="/images/snu.png"></a>
-        </div>
-        <div class="logo-desc">
-            Seoul National University<br>
-            2018 - 2020
-        </div>
-    </div>
-</div>
+<table align="center" style="border-collapse: collapse; border: none;" >
+    <tr style="border: none;">
+      <td align="center" style="border: none;"><a href="http://www.ajou.ac.kr/en/"><img style="width:100px;" src="/images/ajou.png"></a></td>
+      <td style="border: none;"></td>
+      <td align="center" style="border: none;"><a href="http://en.snu.ac.kr"><img style="width:80px;" src="/images/snu.png"></a></td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="border: none;"><span style="font-size:14px;">Ajou University <br> 2011 - 2018</span></td>
+      <td align="center" style="border: none;"><span style="font-size:14px;">Seoul National University <br> 2018 - 2020</span></td>
+    </tr>  
+</table>
 <br>
 
 ## Recent News
@@ -82,7 +71,6 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
 ## Side Projects
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <table align="center" style="border-collapse: collapse; border: none;" >
-    <!-- Dual Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="270" /></td>
         <td style="border: none;"></td>
