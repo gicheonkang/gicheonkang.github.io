@@ -14,6 +14,7 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
 |:---:|:---:|:---:|
 |Ajou University|Seoul National University|테스트3|
 |2011 - 2018    |2018 - 2020|테스트3|
+
 <br>
 
 ## Recent News
