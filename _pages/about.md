@@ -7,7 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year master student in Cognitive Science Program at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research interests mainly span in computer vision, natural language processing, and machine learning. I'm particularly interested in the interplay between vision and language as <q>I firmly believe that the vision and language have complementary strengths</q>. The long-term goal of my research is building AI agents that can see everyday scenes and fluently communicate with people. Prior to joining graduate school, I received my Bachelor's degree in software and computer science from <a href="http://www.ajou.ac.kr/en/">Ajou University</a>. 
+I am a 2nd year master student in Cognitive Science Program at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][2]. My research interests mainly span in computer vision, natural language processing, and machine learning. I'm particularly interested in the interplay between vision and language as <q>I firmly believe that the vision and language have complementary strengths</q>. The long-term goal of my research is building AI agents that can see everyday scenes and fluently communicate with people. Prior to joining graduate school, I received my Bachelor's degree in software and computer science from [Ajou University][3]</a>. 
+<br>
+
+<div class="row" id="timeline-logos">
+    <div class="col-xs-2">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="http://www.ajou.ac.kr/en/"><img style="width:120px;" src="/img/logos/iitr.jpg"></a>
+        </div>
+        <div class="logo-desc">
+            Ajou University<br>
+            2011 - 2018
+        </div>
+    </div>
+    <div class="col-xs-2">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="http://en.snu.ac.kr"><img style="width:120px;" src="/img/logos/uq.png"></a>
+        </div>
+        <div class="logo-desc">
+            Seoul National University<br>
+            2018 - 2020
+        </div>
+    </div>
+</div>
 <br>
 
 ## Recent News
@@ -60,7 +84,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 <table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="280" /></td>
+        <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="270" /></td>
         <td style="border: none;"></td>
       <td style="border: none;"><b><span style="font-size: 16px;">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-icon="octicon-star" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub">Star</a><br>
           <span style="font-size:15px;">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
