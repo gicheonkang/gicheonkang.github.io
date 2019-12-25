@@ -13,7 +13,7 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
 <table align="center" style="border-collapse: collapse; border: none;" >
     <tr style="border: none;">
       <td align="center" style="border: none;"><a href="http://www.ajou.ac.kr/en/"><img style="width:100px;" src="/images/ajou.png"></a></td>
-      <td style="border: none;"></td>
+      <!--td style="border: none;"></td-->
       <td align="center" style="border: none;"><a href="http://en.snu.ac.kr"><img style="width:80px;" src="/images/snu.png"></a></td>
     </tr>
     <tr style="border: none;">
