@@ -14,18 +14,6 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
 |:---:|:---:|:---:|
 |Ajou University|Seoul National University|테스트3|
 |2011 - 2018    |2018 - 2020|테스트3|
-
-<table align="center" style="border-collapse: collapse; border: none;" >
-    <tr style="border: none;">
-      <td align="center" style="border: none;"><a href="http://www.ajou.ac.kr/en/"><img style="width:100px;" src="/images/ajou.png"></a></td>
-      <!--td style="border: none;"></td-->
-      <td align="center" style="border: none;"><a href="http://en.snu.ac.kr"><img style="width:80px;" src="/images/snu.png"></a></td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" style="border: none;"><span style="font-size:14px;">Ajou University <br> 2011 - 2018</span></td>
-      <td align="center" style="border: none;"><span style="font-size:14px;">Seoul National University <br> 2018 - 2020</span></td>
-    </tr>  
-</table>
 <br>
 
 ## Recent News
