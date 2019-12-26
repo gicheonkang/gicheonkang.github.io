@@ -23,7 +23,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 </details>
 
 ## Publications
-<table align="center" style="border-collapse: collapse; border: none;" >
+<table class= "collapsible" align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="270" height="135" /></td>
@@ -58,7 +58,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 
 ## Side Projects
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-<table align="center" style="border-collapse: collapse; border: none;" >
+<table class= "collapsible" align="center" style="border-collapse: collapse; border: none;" >
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="270" /></td>
         <td style="border: none;"></td>
@@ -69,19 +69,19 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 </table>
 
 ## Affiliations
-<table align="center" class='affl-pic'>
+<table class= "deflt" align="center" style="border: none;">
     <tr>
         <td>
             <a href="http://www.ajou.ac.kr/en/">
-            <img src="/images/ajou.png"></a>
+            <img style="width:100px; height:100px" src="/images/ajou.png"></a>
         </td>
         <td>
             <a href="http://en.snu.ac.kr">
-            <img src="/images/snu.png"></a>
+            <img style="width:70px; height:70px" src="/images/snu.png"></a>
         </td>
         <td>
             <a href="https://www.skt.ai">
-            <img src="/images/skt.png"></a>
+            <img style="width:120px; height:80px" src="/images/skt.png"></a>
         </td>
     <tr>
     <tr>
@@ -92,6 +92,11 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 </table>
 
 <style>
+.deflt {
+  all: unset;
+}
+
+.collapsible {
   @media screen and (max-width: 750px) {
   table thead {
     border: none;
@@ -119,6 +124,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
     content: attr(data-label);
     float: left;
   }
-}
+  }
+}  
 </style>
 
