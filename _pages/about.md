@@ -67,7 +67,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 </table>
 
 ## Affiliations
-![ajou](/images/ajou.png){: width="100" height="100"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp; ![skt](/images/skt.png){: width="120" height="80"}
+![ajou](/images/ajou.png){: width="100" height="100"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp; ![skt](/images/skt.png){: width="160" height="100"}
 
 
 <style>
