@@ -66,37 +66,11 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
     </tr>    
 </table>
 
-----
-
 ## Affiliations
-<table class= "deflt" align="center">
-    <tr>
-        <td>
-            <a href="http://www.ajou.ac.kr/en/">
-            <img style="width:100px; height:100px" src="/images/ajou.png"></a>
-        </td>
-        <td>
-            <a href="http://en.snu.ac.kr">
-            <img style="width:70px; height:70px" src="/images/snu.png"></a>
-        </td>
-        <td>
-            <a href="https://www.skt.ai">
-            <img style="width:160px; height:80px" src="/images/skt.png"></a>
-        </td>
-    <tr>
-    <tr>
-        <td>Ajou University<br>2011-2018</td>
-        <td>Seoul National University<br>2018-2020</td>
-        <td>SK Telecom AI Center<br>Spring 2020</td>
-    </tr>
-</table>
+![ajou](/images/ajou.png){: width="100" height="100"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp; ![skt](/images/skt.png){: width="120" height="80"}
+
 
 <style>
-.deflt {
-  all: unset;
-}
-
-.collapsible {
   @media screen and (max-width: 750px) {
   table thead {
     border: none;
@@ -124,7 +98,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
     content: attr(data-label);
     float: left;
   }
-  }
-}  
+}
+
 </style>
 
