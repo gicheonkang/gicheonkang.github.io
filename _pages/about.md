@@ -69,7 +69,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 ----
 
 ## Affiliations
-<table class= "deflt" align="center" style="border: none;">
+<table class= "deflt" align="center">
     <tr>
         <td>
             <a href="http://www.ajou.ac.kr/en/">
@@ -81,7 +81,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
         </td>
         <td>
             <a href="https://www.skt.ai">
-            <img style="width:120px; height:80px" src="/images/skt.png"></a>
+            <img style="width:160px; height:80px" src="/images/skt.png"></a>
         </td>
     <tr>
     <tr>
