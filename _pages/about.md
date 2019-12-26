@@ -66,6 +66,8 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
     </tr>    
 </table>
 
+----
+
 ## Affiliations
 <table class= "deflt" align="center" style="border: none;">
     <tr>
