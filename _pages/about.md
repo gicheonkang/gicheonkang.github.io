@@ -89,6 +89,7 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
         <td>SK Telecom AI Center<br>Spring 2020</td>
     </tr>
 </table>
+<br>
 
 <style>
   @media screen and (max-width: 750px) {
@@ -121,9 +122,8 @@ I am a 2nd year master student in Cognitive Science Program at [Seoul National U
 }
 </style>
 
+
 ---
 [1]: http://en.snu.ac.kr
 [2]: https://bi.snu.ac.kr/~btzhang/
 [3]: http://www.ajou.ac.kr/en/
-
-
