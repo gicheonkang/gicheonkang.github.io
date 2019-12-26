@@ -21,7 +21,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 </details>
 
 ## Publications
-<table class= "collapsible" align="center" style="border-collapse: collapse; border: none;" >
+<table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="270" height="135" /></td>
@@ -56,7 +56,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 
 ## Side Projects
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-<table class= "collapsible" align="center" style="border-collapse: collapse; border: none;" >
+<table align="center" style="border-collapse: collapse; border: none;" >
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="270" /></td>
         <td style="border: none;"></td>
@@ -67,7 +67,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 </table>
 
 ## Affiliations
-![ajou](/images/ajou.png){: width="100" height="100"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp; ![skt](/images/skt.png){: width="160" height="100"}
+![ajou](/images/ajou.png){: width="90" height="90"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp; ![skt](/images/skt.png){: width="130" height="80"}
 
 
 <style>
