@@ -51,7 +51,11 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 
 ## Talks
 <ul>
-  <li>Dual Attention Nets for Visual Reference Resolution in VisDial, SK Telecom AI Center, 2019.</li>
+  Dual Attention Nets for Visual Reference Resolution in Visual Dialog
+  <ul>
+    <li>ICCV 2019 - Video Turing Test Workshop</li>
+    <li>SK Telecom AI Center</li>
+  </ul>  
 </ul>
 
 ## Side Projects
