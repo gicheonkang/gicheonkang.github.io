@@ -51,7 +51,10 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 
 ## Talks
 Dual Attention Networks for Visual Reference Resolution in Visual Dialog <br>
-<p>Video Turing Test Workshop, ICCV 2019<br> T.TOC, SK Telecom AI Center </p>
+<blockquote>
+  <p>Video Turing Test Workshop, ICCV 2019</p>
+  <p>T.TOC, SK Telecom AI Center</p>
+</blockquote>  
 
 ## Side Projects
 <script async defer src="https://buttons.github.io/buttons.js"></script>
