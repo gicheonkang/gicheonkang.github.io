@@ -11,10 +11,10 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 
 ## Recent News
 <span style="color:#ff7272;"><b>NEW!</b></span> [January 2020] Our paper has been accepted to ICASSP 2020!<br>
-<span style="color:#ff7272;"><b>NEW!</b></span> [December 2019] From January, I'll be a research intern at <a href="https://www.skt.ai">SK T-Brain</a> !<br>
-<span style="color:#ff7272;"><b>NEW!</b></span> [November 2019] I gave a spotlight talk at <a href="https://videoturingtest.github.io">Video Turing Test workshop</a>, ICCV 2019.
+<span style="color:#ff7272;"><b>NEW!</b></span> [December 2019] From January, I'll be a research intern at <a href="https://www.skt.ai">SK T-Brain</a>!
 <details>
   <summary>show more</summary>
+  <span style="color:#ff7272;"><b>NEW!</b></span> [November 2019] I gave a spotlight talk at <a href="https://videoturingtest.github.io">Video Turing Test workshop</a>, ICCV 2019.<br>
   <span style="color:#ff7272;"><b>NEW!</b></span> [October 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.<br>
 <span style="color:#ff7272"><b>NEW!</b></span> [August 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.<br>
   <span style="color:#ff7272;"><b>NEW!</b></span> [June 2019] Our proposed method ranks <b>3rd place</b> in <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!<br>
