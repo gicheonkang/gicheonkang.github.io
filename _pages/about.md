@@ -25,7 +25,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 <table align="center" style="border-collapse: collapse; border: none;" >
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="240" height="120" /></td>
+        <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</span></b><br>
           <span style="font-size:14px;">Taehyeong Kim, Injune Hwang, <u>Gi-Cheon Kang</u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px;">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020</span><br>
@@ -36,7 +36,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
     </tr>  
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="240" height="120" /></td>
+        <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:14px;"><u>Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px;">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019</span><br>
@@ -51,7 +51,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
     </tr>
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="240" height="120" /></td>
+        <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 16px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:14px;"><u>Gi-Cheon Kang</u>, Seonil Son, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px;">European Conference on Computer Vision - VizWiz Workshop, 2018</span><br>
