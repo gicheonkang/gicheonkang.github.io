@@ -10,6 +10,7 @@ redirect_from:
 I am a 2nd year master student in Cognitive Science Program at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research interests mainly span in computer vision, natural language processing, and machine learning. I'm particularly interested in the interplay between vision and language as <q>I firmly believe that the vision and language have complementary strengths</q>. The long-term goal of my research is building AI agents that can see everyday scenes and fluently communicate with people. Prior to joining graduate school, I received my Bachelor's degree in software and computer science from <a href="http://www.ajou.ac.kr/en/">Ajou University</a>.
 
 ## Recent News
+<span style="color:#ff7272;"><b>NEW!</b></span> [January 2020] Our paper has been accepted to ICASSP 2020!<br>
 <span style="color:#ff7272;"><b>NEW!</b></span> [December 2019] From January, I'll be a research intern at <a href="https://www.skt.ai">SK T-Brain</a> !<br>
 <span style="color:#ff7272;"><b>NEW!</b></span> [November 2019] I gave a spotlight talk at <a href="https://videoturingtest.github.io">Video Turing Test workshop</a>, ICCV 2019.
 <details>
@@ -22,6 +23,17 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
+    <!-- Contextualized Bilinear Attention Networks -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="270" height="135" /></td>
+        <td align="left" style="border: none;"><b><span style="font-size: 16px;">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</span></b><br>
+          <span style="font-size:15px;">Taehyeong Kim, Injune Hwang, <u>Gi-Cheon Kang</u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
+          <span style="font-size:15px;">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020</span><br>
+          </td> 
+    </tr>  
+    <tr style="border: none;">
+        <td style="border: none;" colspan="3"><hr style="border: dashed 1px #8c8b8b;"></td>
+    </tr>  
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="270" height="135" /></td>
@@ -34,7 +46,6 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
           <span style="font-size:15px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
         </td>
     </tr>
-    <!-- CBAN -->
     <tr style="border: none;">
         <td style="border: none;" colspan="3"><hr style="border: dashed 1px #8c8b8b;"></td>
     </tr>
