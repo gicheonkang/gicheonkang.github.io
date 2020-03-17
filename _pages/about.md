@@ -23,7 +23,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;" >
-    <!-- Contextualized Bilinear Attention Networks -->
+    <!-- LPART -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 15px;">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</span></b><br>
@@ -69,8 +69,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
 <table align="center" style="border-collapse: collapse; border: none;" >
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="270" /></td>
-        <td style="border: none;"></td>
-      <td style="border: none;"><b><span style="font-size: 15px;">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-icon="octicon-star" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub">Star</a><br>
+      <td align="left" style="border: none;"><b><span style="font-size: 15px;">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-icon="octicon-star" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub">Star</a><br>
           <span style="font-size:15px;">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
         </td>
     </tr>    
