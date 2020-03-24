@@ -28,7 +28,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
         <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 15px;">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</span></b><br>
           <span style="font-size:15px;">Taehyeong Kim, Injune Hwang, <u>Gi-Cheon Kang</u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;color:#52adc8;"><b>ICASSP 2020</b></span><br>
+          <span style="font-size:15px;color:#52adc8;">ICASSP 2020</span><br>
           </td> 
     </tr>  
     <tr style="border: none;">
@@ -39,7 +39,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
         <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 15px;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;">EMNLP 2019</span><br>
+          <span style="font-size:15px;color:#52adc8;">EMNLP 2019</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://arxiv.org/pdf/1902.09368.pdf">Paper</a></span>
           <span style="font-size:15px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
           <span style="font-size:15px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
@@ -53,7 +53,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
         <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="270" height="135" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 15px;">Contextualized Bilinear Attention Networks</span></b><br>
           <span style="font-size:15px;"><u>Gi-Cheon Kang</u>, Seonil Son, Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;">ECCV 2018 Workshop on VizWiz Challenge</span><br>
+          <span style="font-size:15px;color:#52adc8;">ECCV 2018 Workshop on VizWiz Challenge</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
           </td> 
     </tr>
