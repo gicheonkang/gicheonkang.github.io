@@ -41,6 +41,7 @@ I am a 2nd year master student in Cognitive Science Program at <a href="http://e
         <td align="left" style="border: none;"><b><span style="font-size: 15px;">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</span></b><br>
           <span style="font-size:15px;">Taehyeong Kim, Injune Hwang, <u>Gi-Cheon Kang</u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
           <span style="font-size:15px;">ICASSP 2020</span><br>
+          <span style="font-size:15px;"><a class="btn btn--info" href="https://ieeexplore.ieee.org/document/9054655">Paper</a></span>
           </td> 
     </tr>  
     <tr style="border: none;">
