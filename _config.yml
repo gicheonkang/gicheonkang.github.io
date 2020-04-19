@@ -11,8 +11,8 @@
 locale                   : "en-US"
 title                    : "Gi-Cheon Kang"
 title_separator          : "-"
-name                     : &name "Gi-Cheon Kang"
-description              : &description "Graduate student at SNU"
+name                     : "Gi-Cheon Kang" # &name 
+description              : "Graduate student at SNU" # &description 
 url                      : https://gicheonkang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gicheonkang.github.io"
