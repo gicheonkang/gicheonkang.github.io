@@ -1,8 +1,8 @@
 ---
 permalink: /
 author_profile: true
-title: "About Me"
-excerpt: "About Me"
+title: "About me"
+excerpt: "About me"
 redirect_from: 
   - /about/
   - /about.html
