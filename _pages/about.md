@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 1st year Ph.D. student in artificial intelligence  program at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research interests mainly span in computer vision, natural language processing, and machine learning. More specifically, my research focuses on building AI agent that can see everyday scenes, communicate with people via natural language, and make decisions based on vision-language information.
+I am a 1st year Ph.D. student in artificial intelligence  program at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research interests mainly span in computer vision, natural language processing, and machine learning. More specifically, my research focuses on building AI agent that (1) can see everyday scenes, (2) communicate with people via natural language, and (3) make decisions based on vision and language information.
 
 
 ## Recent News
