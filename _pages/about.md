@@ -48,7 +48,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science progr
           </td> 
     </tr>  
     <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 1px #8c8b8b;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #D3D3D3;"></td>
     </tr>  
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
@@ -62,7 +62,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science progr
         </td>
     </tr>
     <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 1px #8c8b8b;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #D3D3D3;"></td>
     </tr>
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
