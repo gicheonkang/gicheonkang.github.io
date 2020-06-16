@@ -36,7 +36,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science progr
           </td> 
     </tr>  
     <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: dashed 1px #8c8b8b;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: none 1px #8c8b8b;"></td>
     </tr>
     <!-- LPART -->
     <tr style="border: none;">
