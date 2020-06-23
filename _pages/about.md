@@ -13,7 +13,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science progr
 
 
 ## Recent News
-<span style="color:#ff7272;"><b>NEW!</b></span> [June 2020] From July, I will work at AI Institute of Seoul National University as a full-time researcher.<br>
+<span style="color:#ff7272;"><b>NEW!</b></span> [June 2020] From July, I will work at AI Institute of Seoul National University.<br>
 <span style="color:#ff7272;"><b>NEW!</b></span> [January 2020] Our paper has been accepted to ICASSP 2020!
 <details>
   <summary>show more</summary>
