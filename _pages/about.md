@@ -44,7 +44,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science progr
         <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="300" height="150" /></td>
         <td align="left" style="border: none;"><b><span style="font-size: 15px;">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</span></b><br>
           <span style="font-size:15px;">Taehyeong Kim, Injune Hwang, <u>Gi-Cheon Kang</u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
-          <span style="font-size:15px;"><i>IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP)</i>, 2020.</span><br>
+          <span style="font-size:15px;"><i>International Conference on Acoustic, Speech, and Signal Processing (ICASSP)</i>, 2020.</span><br>
           <span style="font-size:15px;"><a class="btn btn--info" href="https://ieeexplore.ieee.org/document/9054655">Paper</a></span>
           </td> 
     </tr>  
