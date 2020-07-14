@@ -68,7 +68,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="250" height="125" /></td>
-        <td align="left" style="border: none;"><span style="font-size: 15px;"><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Contextualized Bilinear Attention Networks</span></a><br>
+        <td align="left" style="border: none;"><span style="font-size: 15px;"><a href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Contextualized Bilinear Attention Networks</a></span><br>
           <span style="font-size:14px;"><u>Gi-Cheon Kang</u>, Seonil Son, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px;"><i>ECCV Workshop on VizWiz Challenge</i>, 2018.</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
