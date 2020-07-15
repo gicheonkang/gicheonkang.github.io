@@ -30,7 +30,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <!-- Sparse Graph Learning Network -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="250" height="125" /></td>
-        <td align="left" style="border: none;"><span style="font-size: 15px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
+        <td align="left" style="border: none;"><span style="font-size: 16px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
           <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#0000008f;">, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span></span><br>
           <span style="font-size:14px;">arXiv preprint 2004.06698, 2020</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
@@ -42,7 +42,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <!-- LPART -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="250" height="125" /></td>
-        <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</b></span><br>
+        <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</b></span><br>
           <span style="font-size:14px;"><span style="color:#0000008f;">Taehyeong Kim, Injune Hwang, </span><b>Gi-Cheon Kang</b><span style="color:#00000080;">, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span></span><br>
           <span style="font-size:14px; color:#0055aa;"><b>ICASSP 2020</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://ieeexplore.ieee.org/document/9054655">Paper</a></span>
@@ -54,7 +54,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="250" height="125" /></td>
-        <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
+        <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
           <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#0000008f;">, Jaeseo Lim, Byoung-Tak Zhang</span></span><br>
           <span style="font-size:14px; color:#0055aa;"><b>EMNLP 2019</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://www.aclweb.org/anthology/D19-1209/">Paper</a></span>
@@ -68,7 +68,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="250" height="125" /></td>
-        <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Contextualized Bilinear Attention Networks</b></span><br>
+        <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Contextualized Bilinear Attention Networks</b></span><br>
           <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#0000008f;">, Seonil Son, Byoung-Tak Zhang</span></span><br>
           <span style="font-size:14px; color:#0055aa;"><b>ECCV Workshop on VizWiz Challenge 2018</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
@@ -86,7 +86,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 <table align="center" style="border-collapse: collapse; border: none;" >
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/fast-face-android.png?raw=true" alt="Photo" width="270" /></td>
-      <td align="left" style="border: none;"><b><span style="font-size: 15px;">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-icon="octicon-star" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub">Star</a><br>
+      <td align="left" style="border: none;"><b><span style="font-size: 16px;">Fast-Face Android &nbsp; </span></b><a class="github-button" href="https://github.com/gicheonkang/fast-face-android" data-icon="octicon-star" data-show-count="true" aria-label="Star gicheonkang/fast-face-android on GitHub">Star</a><br>
           <span style="font-size:15px;">Fast Face is an android application which detects facial landmark. It detects 68 landmarks of human face chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces.</span><br>
         </td>
     </tr>    
