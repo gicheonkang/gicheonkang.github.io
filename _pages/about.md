@@ -31,7 +31,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="250" height="125" /></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
-          <span style="font-size:14px;"><b>Gi-Cheon Kang</b></span> <span style="color:#ffffff7f;">, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span><br>
+          <span style="font-size:14px;"><b>Gi-Cheon Kang</b></span> <span style="color:#0000007f;">, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span><br>
           <span style="font-size:14px;">arXiv preprint 2004.06698, 2020.</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
           </td> 
