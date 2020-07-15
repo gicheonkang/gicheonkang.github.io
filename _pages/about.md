@@ -32,7 +32,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="250" height="125" /></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
           <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#00000080;">, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span></span><br>
-          <span style="font-size:14px; color:#1772d0;">arXiv preprint 2004.06698, 2020</span><br>
+          <span style="font-size:14px;">arXiv preprint 2004.06698, 2020</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
           </td> 
     </tr>  
@@ -44,7 +44,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="250" height="125" /></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</b></span><br>
           <span style="font-size:14px;"><span style="color:#00000080;">Taehyeong Kim, Injune Hwang, </span><b>Gi-Cheon Kang</b><span style="color:#00000080;">, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span></span><br>
-          <span style="font-size:14px; color:#1772d0;">ICASSP 2020</span><br>
+          <span style="font-size:14px; color:#1772d0;"><b>ICASSP 2020<b></span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://ieeexplore.ieee.org/document/9054655">Paper</a></span>
           </td> 
     </tr>  
@@ -55,8 +55,8 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="250" height="125" /></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
-          <span style="font-size:14px;"><u>Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
-          <span style="font-size:14px; color:#1772d0;">EMNLP 2019</span><br>
+          <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#00000080;">, Jaeseo Lim, Byoung-Tak Zhang</span></span><br>
+          <span style="font-size:14px; color:#1772d0;"><b>EMNLP 2019<b></span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://www.aclweb.org/anthology/D19-1209/">Paper</a></span>
           <span style="font-size:14px;"><a class="btn btn--success" href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
@@ -69,7 +69,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="250" height="125" /></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Contextualized Bilinear Attention Networks</b></span><br>
-          <span style="font-size:14px;"><u>Gi-Cheon Kang</u>, Seonil Son, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#00000080;">, Seonil Son, Byoung-Tak Zhang</span></span><br>
           <span style="font-size:14px; color:#1772d0;">ECCV Workshop on VizWiz Challenge 2018</span><br>
           <span style="font-size:14px;"><a class="btn btn--info" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
           </td> 
