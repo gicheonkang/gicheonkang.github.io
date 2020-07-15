@@ -29,7 +29,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 <table align="center" style="border-collapse: collapse; border: none;">
     <!-- Sparse Graph Learning Network -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="270" height="135" /></td>
+        <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
           <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#0000008f;">, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span></span><br>
           <span style="font-size:14px;">arXiv preprint 2004.06698, 2020</span><br>
@@ -41,7 +41,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     </tr>
     <!-- LPART -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="270" height="135" /></td>
+        <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</b></span><br>
           <span style="font-size:14px;"><span style="color:#0000008f;">Taehyeong Kim, Injune Hwang, </span><b>Gi-Cheon Kang</b><span style="color:#00000080;">, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span></span><br>
           <span style="font-size:14px; color:#0055aa;"><b>ICASSP 2020</b></span><br>
@@ -53,7 +53,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     </tr>  
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="270" height="135" /></td>
+        <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
           <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#0000008f;">, Jaeseo Lim, Byoung-Tak Zhang</span></span><br>
           <span style="font-size:14px; color:#0055aa;"><b>EMNLP 2019</b></span><br>
@@ -67,7 +67,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     </tr>
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="270" height="135" /></td>
+        <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Contextualized Bilinear Attention Networks</b></span><br>
           <span style="font-size:14px;"><b>Gi-Cheon Kang</b><span style="color:#0000008f;">, Seonil Son, Byoung-Tak Zhang</span></span><br>
           <span style="font-size:14px; color:#0055aa;"><b>ECCV Workshop on VizWiz Challenge 2018</b></span><br>
