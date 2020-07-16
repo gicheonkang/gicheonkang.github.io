@@ -33,7 +33,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Gi-Cheon Kang, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span><br>
           <span style="font-size:14px;"><i>arXiv preprint 2004.06698, 2020</i></span><br>
-          <span style="font-size:14px;"><a class="btn btn--outline--info" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
+          <span style="font-size:14px;"><a class="btn btn--light-outline--info" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
           </td> 
     </tr>  
     <tr style="border: none;">
@@ -45,7 +45,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Taehyeong Kim, Injune Hwang, Gi-Cheon Kang, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0055aa;"><b>ICASSP 2020</b></span><br>
-          <span style="font-size:14px;"><a class="btn btn--outline--info" href="https://ieeexplore.ieee.org/document/9054655">Paper</a></span>
+          <span style="font-size:14px;"><a class="btn btn--light-outline" href="https://ieeexplore.ieee.org/document/9054655">Paper</a></span>
           </td> 
     </tr>  
     <tr style="border: none;">
