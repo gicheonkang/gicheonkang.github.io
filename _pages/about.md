@@ -32,7 +32,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Gi-Cheon Kang, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span><br>
-          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
+          <span style="font-size:14px;"><a href="https://arxiv.org/abs/2004.06698">Paper</a></span>
           </td> 
     </tr>  
     <tr style="border: none;">
@@ -56,9 +56,9 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Gi-Cheon Kang, Jaeseo Lim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>EMNLP 2019</b></span><br>
-          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://www.aclweb.org/anthology/D19-1209/">Paper</a></span>
-          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
-          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
+          <span style="font-size:14px;"><a href="https://www.aclweb.org/anthology/D19-1209/">Paper</a></span>
+          <span style="font-size:14px;"><a href="https://github.com/gicheonkang/DAN-VisDial">Code</a> </span>
+          <span style="font-size:14px;"><a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
         </td>
     </tr>
     <tr style="border: none;">
