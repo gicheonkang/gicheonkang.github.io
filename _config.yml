@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. Student at SNU"
+  bio              : "Ph.D. Student"
   location         : "Seoul, Korea"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=C6J7zI0AAAAJ&hl=en"
@@ -106,7 +106,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "gchnkang" 
+  twitter          :
   vine             :
   weibo            :
   xing             :
