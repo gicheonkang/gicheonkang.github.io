@@ -84,11 +84,11 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 170px;
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 3px;
       border: 1px solid $border-color;
     }
   }
@@ -228,7 +228,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 15px;
     text-decoration: none;
 
     &:hover {
