@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Gi-Cheon Kang"
 title_separator          : "-"
 name                     : &name "Gi-Cheon Kang" 
-description              : &description "Graduate student at SNU"
+description              : &description "AI PhD student at SNU"
 url                      : https://gicheonkang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gicheonkang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.jpeg"
-  bio              :
+  bio              : "PhD student at SNU"
   location         : "Seoul, Korea"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=C6J7zI0AAAAJ&hl=en"
