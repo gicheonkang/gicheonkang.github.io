@@ -96,8 +96,7 @@
 .author__content {
   //display: table-cell;
   vertical-align: top;
-  padding-top: 10px;
-  padding-bottom: 10px; 
+  padding-top: 5px;
   padding-left: 10px;
   padding-right: 10px;
   line-height: 1;
@@ -136,6 +135,7 @@
   position: relative;
   //display: table-cell;
   vertical-align: middle;
+  padding-top: 5px;
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
