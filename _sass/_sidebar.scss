@@ -95,7 +95,9 @@
 
 .author__content {
   //display: table-cell;
-  vertical-align: middle;
+  vertical-align: top;
+  padding-top: 10px;
+  padding-bottom: 10px; 
   padding-left: 10px;
   padding-right: 10px;
   line-height: 1;
