@@ -80,7 +80,6 @@
     display: block;
     width: auto;
     height: auto;
-    margin-bottom: 10px;
   }
 
   img {
@@ -96,7 +95,7 @@
 
 .author__content {
   //display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
   padding-left: 10px;
   padding-right: 10px;
   line-height: 1;
