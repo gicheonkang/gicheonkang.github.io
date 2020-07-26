@@ -20,10 +20,8 @@
   </div>
 
   <div class="author__urls-wrapper">
-    {% if author.bio %}
-        <p class="author__bio">{{ author.bio }}<br>Graduate School of AI<br>Seoul National University</p><br>
-    {% endif %}
     {% if author.location %}
+        <p class="author__bio">{{ author.bio }}<br>Graduate School of AI<br>Seoul National University</p><br>
         <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}<br>
       {% endif %}
     {% if author.email %} 
