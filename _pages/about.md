@@ -77,8 +77,8 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 ## Talks
 - Dual Attention Networks for Visual Reference Resolution in Visual Dialog <br>
-<span style="font-size:16px;">Video Turing Test Workshop, ICCV 2019</span><br>
-<span style="font-size:16px;">T.TOC, SK Telecom AI Center</span><br>
+<span style="font-size:15x;"> - Video Turing Test Workshop, ICCV 2019 (Spotlight Talk)</span><br>
+<span style="font-size:15px;"> - T.TOC, SK Telecom AI Center</span><br>
 
 ## Side Projects
 <script async defer src="https://buttons.github.io/buttons.js"></script>
