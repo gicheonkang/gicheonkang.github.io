@@ -104,15 +104,10 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
             <a href="http://www.iitb.ac.in/">
             <img src="/images/snu.png" height="70" width="70"></a>
         </td>
-        <td>
-            <a href="http://viterbi.usc.edu/">
-            <img src="/images/viterbi-logo.jpg"></a>
-        </td>
     <tr>
     <tr>
         <td>Carnegie Mellon University<br>2014-2019</td>
         <td>IIT Bombay<br>2010-2014</td>
-        <td>Viterbi School, USC<br>Summer 2013</td>
     </tr>
     </tr>
         <td>
@@ -123,15 +118,10 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
             <a href="https://research.fb.com/category/facebook-ai-research-fair/">
             <img src="/images/aiis.png" height="60" width="140"></a>
         </td>
-        <td>
-            <a href="https://ai.google/research/teams/brain">
-            <img src="/images/google-logo.png"></a>
-        </td>
     </tr>
     <tr>
         <td>Snapchat Research<br>Summer 2016</td>
         <td>Facebook AI Research<br>Summer 2017</td>
-        <td>Google Brain<br>Summer 2018</td>
     </tr>
 </table>
 
