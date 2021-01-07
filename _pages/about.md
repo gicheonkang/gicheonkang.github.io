@@ -93,7 +93,51 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 </table>
 
 ## Affiliations
-![ajou](/images/ajou.png){: width="90" height="90"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp; ![skt](/images/skt.png){: width="130" height="80"} &nbsp;&nbsp; ![aiis](/images/aiis.png){: width="140" height="60"}
+
+<table align="center" class='affl-pic'>
+    <tr>
+        <td>
+            <a href="http://www.cmu.edu/">
+            <img src="/images/ajou.png"></a>
+        </td>
+        <td>
+            <a href="http://www.iitb.ac.in/">
+            <img src="/images/snu.png"></a>
+        </td>
+        <td>
+            <a href="http://viterbi.usc.edu/">
+            <img src="/images/viterbi-logo.jpg"></a>
+        </td>
+    <tr>
+    <tr>
+        <td>Carnegie Mellon University<br>2014-2019</td>
+        <td>IIT Bombay<br>2010-2014</td>
+        <td>Viterbi School, USC<br>Summer 2013</td>
+    </tr>
+    </tr>
+        <td>
+            <a href="https://www.snapchat.com/">
+            <img src="/images/skt.png"></a>
+        </td>
+        <td>
+            <a href="https://research.fb.com/category/facebook-ai-research-fair/">
+            <img src="/images/aiis.png"></a>
+        </td>
+        <td>
+            <a href="https://ai.google/research/teams/brain">
+            <img src="/images/google-logo.png"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Snapchat Research<br>Summer 2016</td>
+        <td>Facebook AI Research<br>Summer 2017</td>
+        <td>Google Brain<br>Summer 2018</td>
+    </tr>
+</table>
+
+
+
+<!--![ajou](/images/ajou.png){: width="90" height="90"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp; ![skt](/images/skt.png){: width="130" height="80"} &nbsp;&nbsp; ![aiis](/images/aiis.png){: width="140" height="60"}-->
 
 
 <style>
