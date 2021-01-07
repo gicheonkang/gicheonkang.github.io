@@ -98,11 +98,11 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <tr>
         <td>
             <a href="http://www.cmu.edu/">
-            <img src="/images/ajou.png"></a>
+            <img src="/images/ajou.png" height="90" width="90"></a>
         </td>
         <td>
             <a href="http://www.iitb.ac.in/">
-            <img src="/images/snu.png"></a>
+            <img src="/images/snu.png" height="70" width="70"></a>
         </td>
         <td>
             <a href="http://viterbi.usc.edu/">
@@ -117,11 +117,11 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     </tr>
         <td>
             <a href="https://www.snapchat.com/">
-            <img src="/images/skt.png"></a>
+            <img src="/images/skt.png" height="80" width="130"></a>
         </td>
         <td>
             <a href="https://research.fb.com/category/facebook-ai-research-fair/">
-            <img src="/images/aiis.png"></a>
+            <img src="/images/aiis.png" height="60" width="140"></a>
         </td>
         <td>
             <a href="https://ai.google/research/teams/brain">
