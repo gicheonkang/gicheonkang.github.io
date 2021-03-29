@@ -32,7 +32,7 @@ Prior to joining Ph.D program, I did my master study in Cognitive Science at <a 
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
-          <span style="font-size:14px; color:#0000008f;">Gi-Cheon Kang, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span><br>
+          <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
           </td> 
     </tr>  
@@ -43,7 +43,7 @@ Prior to joining Ph.D program, I did my master study in Cognitive Science at <a 
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/LPART-20.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</b></span><br>
-          <span style="font-size:14px; color:#0000008f;">Taehyeong Kim, Injune Hwang, Gi-Cheon Kang, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0000008f;">Taehyeong Kim, Injune Hwang, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>ICASSP 2020</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://ieeexplore.ieee.org/document/9054655">Paper</a></span>
           </td> 
@@ -55,7 +55,7 @@ Prior to joining Ph.D program, I did my master study in Cognitive Science at <a 
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
-          <span style="font-size:14px; color:#0000008f;">Gi-Cheon Kang, Jaeseo Lim, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>EMNLP 2019</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://www.aclweb.org/anthology/D19-1209/">Paper</a></span>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://github.com/gicheonkang/DAN-VisDial">Code</a></span>
@@ -69,7 +69,7 @@ Prior to joining Ph.D program, I did my master study in Cognitive Science at <a 
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/CBAN-18.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Contextualized Bilinear Attention Networks</b></span><br>
-          <span style="font-size:14px; color:#0000008f;">Gi-Cheon Kang, Seonil Son, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Seonil Son, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>ECCV Workshop on VizWiz Challenge 2018</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://bi.snu.ac.kr/Publications/Conferences/International/ECCV2018_Workshop_VizWiz_GCKang.pdf">Paper</a></span>
           </td> 
