@@ -41,7 +41,7 @@ Prior to joining Ph.D program, I did my master study in Cognitive Science at <a 
     </tr>
     <!-- TBA -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/no-image.png?raw=true" alt="Photo" width="180" height="180" /></td>
+        <td align="center" style="border: none;"><img src="../images/no-image.png?raw=true" alt="Photo" width="100" height="100" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>TBA</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Ahjeong Seo, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Joonhan Park, Byoung-Tak Zhang</span><br></td> 
     </tr>  
