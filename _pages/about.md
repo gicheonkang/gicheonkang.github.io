@@ -28,22 +28,22 @@ Prior to joining Ph.D program, I did my master study in Cognitive Science at <a 
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;">
-    <!-- Sparse Graph Learning Network -->
+    <!-- TBA -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><img src="../images/no-image.png?raw=true" alt="Photo" width="100" height="100" /></td>
+        <td align="left" style="border: none;"><span style="font-size: 16px;"><b>TBA</b></span><br>
+          <span style="font-size:14px; color:#0000008f;">Ahjeong Seo, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Joonhan Park, Byoung-Tak Zhang</span><br></td> 
+    </tr>  
+    <tr style="border: none;">
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
+    </tr>
+    <!-- DialGraph -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>DialGraph: Sparse Graph Learning Networks for Visual Dialog</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
           </td> 
-    </tr>  
-    <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
-    </tr>
-    <!-- TBA -->
-    <tr style="border: none;">
-        <td align="center" style="border: none;"><img src="../images/no-image.png?raw=true" alt="Photo" width="100" height="100" /></td>
-        <td align="left" style="border: none;"><span style="font-size: 16px;"><b>TBA</b></span><br>
-          <span style="font-size:14px; color:#0000008f;">Ahjeong Seo, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Joonhan Park, Byoung-Tak Zhang</span><br></td> 
     </tr>  
     <tr style="border: none;">
         <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
