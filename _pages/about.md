@@ -69,6 +69,7 @@ Prior to joining Ph.D program, I did my master study in Cognitive Science at <a 
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>EMNLP 2019</b></span><br>
+          <span style="font-size:14px; color:#0275d8;"><b>3rd Place in Visual Dialog Challenge 2019</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://www.aclweb.org/anthology/D19-1209/">Paper</a></span>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://github.com/gicheonkang/DAN-VisDial">Code</a></span>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
