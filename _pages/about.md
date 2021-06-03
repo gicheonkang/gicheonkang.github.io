@@ -46,7 +46,7 @@ Prior to joining Ph.D program, I did my master study in Cognitive Science at <a 
         <td align="center" style="border: none;"><img src="../images/MASN-21.jpeg?raw=true" alt="Photo" width="280" height="140" /></td>
         <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Ahjeong Seo, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Joonhan Park, Byoung-Tak Zhang</span><br>
-          <span style="font-size:14px; color:#0275d8;">In <i>Annual Meeting of the Association for Computational Linguistics (ACL), 2021</i></span><br></td> 
+          <span style="font-size:14px; color:#0275d8;"><b>In <i>Annual Meeting of the Association for Computational Linguistics (ACL), 2021</i></b></span><br></td> 
     </tr>  
     <tr style="border: none;">
         <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
