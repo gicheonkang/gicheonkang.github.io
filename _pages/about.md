@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 1st-year Ph.D. student in the Graduate School of AI at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research straddles machine learning, natural language processing, and computer vision. My primary research is <a href="https://gicheonkang.com" style="pointer-events: none">grounded language learning</a> which aims to learn language based on non-linguistic experiences such as sensory perception and action. My long-term research goal is to build machines that can (i) perceive their everyday surroundings, (ii) communicate with human via natural language, and (iii) make reliable decisions using language, vision, sound, etc.    
+I am a 1st-year Ph.D. student in the Graduate School of AI at <a href="http://en.snu.ac.kr">Seoul National University</a>, advised by <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>. My research straddles machine learning, natural language processing, and computer vision. My primary research is <a href="https://gicheonkang.com" style="pointer-events: none">grounded language learning</a> which aims to connect language to non-linguistic experiences such as sensory perception and action. My long-term research goal is to build machines that can (i) perceive their everyday surroundings, (ii) communicate with human via natural language, and (iii) make reliable decisions using language, vision, sound, etc.    
 
 Prior to joining Ph.D program, I did my master study in Cognitive Science at <a href="http://en.snu.ac.kr">Seoul National University</a>. I earned my Bachelor's degree in Computer Science from <a href="http://www.ajou.ac.kr/en/">Ajou University</a>.
 
