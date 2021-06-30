@@ -48,6 +48,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           <span style="font-size:14px; color:#0000008f;">Ahjeong Seo, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Joonhan Park, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>ACL 2021</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="http://arxiv.org/abs/2106.10446">Paper</a></span>
+          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://github.com/ahjeongseo/MASN-pytorch">Code</a></span>
           </td> 
     </tr>  
     <tr style="border: none;">
