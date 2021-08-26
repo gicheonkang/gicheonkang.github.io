@@ -33,7 +33,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <!-- DialGraph -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="280" height="140" /></td>
-        <td align="left" style="border: none;"><span style="font-size: 16px;"><b>Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</b></span><br>
+        <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang, Jin-Hwa Kim</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>EMNLP 2021 Findings</b></span><br>
           </td> 
