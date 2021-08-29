@@ -13,7 +13,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 
 ## Recent News
-<span style="color:#ff7272;"><b>NEW!</b></span> [August 2021] One paper is accepted to the Findings of EMNLP 2021.<br> 
+<span style="color:#ff7272;"><b>NEW!</b></span> [August 2021] One paper is accepted to Findings of EMNLP 2021.<br> 
 <span style="color:#ff7272;"><b>NEW!</b></span> [May 2021] One paper is accepted to ACL 2021. 
 <details>
   <summary>show more</summary>
