@@ -38,6 +38,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           <span style="font-size:14px; color:#0275d8;"><b>EMNLP 2021 Findings</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://arxiv.org/abs/2004.06698">Paper</a></span>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://github.com/gicheonkang/sglkt-visdial">Code</a></span>
+          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/SGLKT-21-slide.pdf">Slides</a></span>
           </td> 
     </tr>  
     <tr style="border: none;">
