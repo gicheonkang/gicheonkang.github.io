@@ -30,6 +30,17 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;">
+    <!-- C3 -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><img src="../images/C3-21.png?raw=true" alt="Photo" width="280" height="140" /></td>
+      <td align="left" style="border: none;"><span style="font-size: 15px;"><b>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</b></span><br>
+          <span style="font-size:14px; color:#0000008f;">Hyukgi Lee, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0275d8;"><b>NeurIPS 2021 CtrlGen Workshop</b></span><br>
+          </td> 
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
+    </tr>
     <!-- DialGraph -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><img src="../images/SGLN-20.png?raw=true" alt="Photo" width="280" height="140" /></td>
