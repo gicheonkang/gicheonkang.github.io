@@ -37,7 +37,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         <td align="center" style="border: none;"><img src="../images/C3-21.png?raw=true" alt="Photo" width="280" height="140" /></td>
       <td align="left" style="border: none;"><span style="font-size: 15px;"><b>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Hyukgi Lee, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
-          <span style="font-size:14px; color:#0275d8;"><b>NeurIPS 2021 Workshop on Controllable Generative Modeling in Language and Vision (CtrlGen)</b></span><br>
+          <span style="font-size:14px; color:#0275d8;"><b>NeurIPS 2021 CtrlGen Workshop</b></span><br>
           </td> 
     </tr>
     <tr style="border: none;">
