@@ -21,9 +21,11 @@
 
   <div class="author__urls-wrapper">
     {% if author.location %}
+      <span style="font-size: 15px;">
         <p class="author__bio">{{ author.bio }}<br>Graduate School of AI<br>Seoul National University</p><br>
         <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{ author.location }}<br>
-      {% endif %}
+      </span>  
+    {% endif %}
     {% if author.email %} 
         <span style="color: #3e78ad; font-size: 15px;"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i></span><a href="mailto:{{ author.email }}" style="text-decoration:none; color: #4C4D52"> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a><br>
     {% endif %}
