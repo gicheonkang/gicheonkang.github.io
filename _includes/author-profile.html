@@ -22,21 +22,21 @@
   <div class="author__urls-wrapper">
     {% if author.location %}
         <p class="author__bio">{{ author.bio }}<br>Graduate School of AI<br>Seoul National University</p><br>
-        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{ author.location }}<br>  
+        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i><span style="font-size: 16px;">{{ author.location }}</span><br>  
     {% endif %}
     {% if author.email %} 
-        <span style="color: #3e78ad;"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i></span><a href="mailto:{{ author.email }}" style="text-decoration:none; color: #4C4D52; font-size: 15px;"> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a><br>
+        <span style="color: #3e78ad;"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i></span><a href="mailto:{{ author.email }}" style="text-decoration:none; color: #4C4D52; font-size: 16px;"> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a><br>
     {% endif %}
     {% if author.twitter %}
-        <span style="color: #55acee;"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></span><a href="https://twitter.com/{{ author.twitter }}" style="text-decoration:none; color: #4C4D52; font-size: 15px;"> Twitter</a><br>
+        <span style="color: #55acee;"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></span><a href="https://twitter.com/{{ author.twitter }}" style="text-decoration:none; color: #4C4D52; font-size: 16px;"> Twitter</a><br>
     {% endif %}
     {% if author.github %}
-        <span style="color: #171516;"><i class="fa fa-fw fa-github" aria-hidden="true"></i></span><a href="https://github.com/{{ author.github }}" style="text-decoration:none; color: #4C4D52; font-size: 15px;"> Github</a><br>
+        <span style="color: #171516;"><i class="fa fa-fw fa-github" aria-hidden="true"></i></span><a href="https://github.com/{{ author.github }}" style="text-decoration:none; color: #4C4D52; font-size: 16px;"> Github</a><br>
     {% endif %}
     {% if author.googlescholar %}
-        <span style="color: #4C4D52;"><i class="fa fa-fw fa-graduation-cap"></i></span><a href="{{ author.googlescholar }}" style="text-decoration:none; color: #4C4D52; font-size: 15px;"> Google Scholar</a><br>
+        <span style="color: #4C4D52;"><i class="fa fa-fw fa-graduation-cap"></i></span><a href="{{ author.googlescholar }}" style="text-decoration:none; color: #4C4D52; font-size: 16px;"> Google Scholar</a><br>
     {% endif %}
-    <span style="color: #4C4D52;"><i class="fa fa-fw fa-download"></i></span><a href="/files/gckang_curriculum_vitae.pdf" style="text-decoration:none; color: #4C4D52; font-size: 15px;"> CV</a><br>
+    <span style="color: #4C4D52;"><i class="fa fa-fw fa-download"></i></span><a href="/files/gckang_curriculum_vitae.pdf" style="text-decoration:none; color: #4C4D52; font-size: 16px;"> CV</a><br>
 
     <!--<ul class="author__urls social-icons">
       {% if author.location %}
