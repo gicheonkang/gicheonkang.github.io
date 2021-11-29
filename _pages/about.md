@@ -111,6 +111,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 ## Invited Talks
 - Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer <br>
+<span style="font-size:14px;"> - Top Conference Paper Session, KSC 2021 </span><br>
 <span style="font-size:14px;"> - Annual Conference on Human and Cognitive Language Technology </span><br>
 - Dual Attention Networks for Visual Reference Resolution in Visual Dialog <br>
 <span style="font-size:14px;"> - Video Turing Test Workshop, ICCV 2019 (Spotlight Talk)</span><br>
