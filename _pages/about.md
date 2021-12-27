@@ -13,11 +13,12 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 
 ## Recent News
-<span style="color:#ff7272;"><b>NEW!</b></span> [October 2021] One paper is accepted to NeurIPS 2021 CtrlGen Workshop. <br> 
-<span style="color:#ff7272;"><b>NEW!</b></span> [August 2021] One paper is accepted to Findings of EMNLP 2021.
+<span style="color:#ff7272;"><b>NEW!</b></span> [December 2021] I gave an invited talk at Korea Software Congress. <br>
+<span style="color:#ff7272;"><b>NEW!</b></span> [October 2021] One paper is accepted to NeurIPS 2021 CtrlGen Workshop. 
 
 <details>
   <summary>show more</summary>
+  <span style="color:#ff7272;"><b>NEW!</b></span> [August 2021] One paper is accepted to Findings of EMNLP 2021. <br>
   <span style="color:#ff7272;"><b>NEW!</b></span> [May 2021] One paper is accepted to ACL 2021. <br>
   <span style="color:#ff7272;"><b>NEW!</b></span> [September 2020] I'm starting my Ph.D. in this fall. <br>
   <span style="color:#ff7272;"><b>NEW!</b></span> [June 2020] From July, I'll join <a href="https://aiis.snu.ac.kr">SNU AI Institute</a> (AIIS) as a researcher. <br>
