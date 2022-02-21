@@ -87,7 +87,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     </tr>  
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><div style="height: 140px; width: 280px;" class="box"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="280" height="140" /><div></td>
+        <td align="center" style="border: none;"><div style="height: 140px; width: 280px;" class="box"><img src="../images/DAN-19.png?raw=true" alt="Photo" width="280" height="140" /></div></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>EMNLP 2019</b></span><br>
