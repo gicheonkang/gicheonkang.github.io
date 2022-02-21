@@ -158,11 +158,13 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     border-bottom: 1px solid #ddd;
     display: block;
     text-align: left;
+    padding:10px 10px 10px 10px;
   }
   
   table td::before {
     content: attr(data-label);
     float: left;
+    padding:10px 10px 10px 10px;
   }
 }
   
