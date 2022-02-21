@@ -167,7 +167,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 }
   
   .box {
-    border: 20px;
+    padding: 20px 20px 20px 20px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
                 0 2px 4px rgba(0,0,0,0.07), 
                 0 4px 8px rgba(0,0,0,0.07), 
