@@ -35,7 +35,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 <table align="center" style="border-collapse: collapse; border: none;">
     <!-- C3 -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><div style="height: 130px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/C3-21.png?raw=true" alt="Photo"/></div></td>
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/C3-21.png?raw=true" alt="Photo"/></div></td>
       <td align="left" style="border: none;"><span style="font-size: 15px;"><b>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Hyukgi Lee, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>NeurIPS 2021 CtrlGen Workshop</b></span><br>
@@ -44,11 +44,11 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           </td> 
     </tr>
     <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
     </tr>
     <!-- DialGraph -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><div style="height: 130px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/SGLN-20.png?raw=true" alt="Photo"/></div></td>
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/SGLN-20.png?raw=true" alt="Photo"/></div></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang<sup>*</sup>, Jin-Hwa Kim<sup>*</sup></span><br>
           <span style="font-size:14px; color:#0275d8;"><b>EMNLP 2021 Findings</b></span><br>
@@ -58,11 +58,11 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           </td> 
     </tr>  
     <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
     </tr> 
     <!-- MASN -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><div style="height: 130px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/MASN-21.jpeg?raw=true" alt="Photo"/></div></td>
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/MASN-21.jpeg?raw=true" alt="Photo"/></div></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Ahjeong Seo, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Joonhan Park, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>ACL 2021</b></span><br>
@@ -71,11 +71,11 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           </td> 
     </tr>  
     <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
     </tr>
     <!-- LPART -->
     <tr style="border: none;">
-        <td class="shadow" align="center" style="border: none;"><div style="height: 130px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/LPART-20.png?raw=true" alt="Photo"/></div></td>
+        <td class="shadow" align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/LPART-20.png?raw=true" alt="Photo"/></div></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Taehyeong Kim, Injune Hwang, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>ICASSP 2020</b></span><br>
@@ -83,11 +83,11 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           </td> 
     </tr>  
     <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
     </tr>  
     <!-- Dual Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><div style="height: 130px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/DAN-19.png?raw=true" style="display: block;" alt="Photo"/></div></td>
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/DAN-19.png?raw=true" style="display: block;" alt="Photo"/></div></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>EMNLP 2019</b></span><br>
@@ -98,11 +98,11 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         </td>
     </tr>
     <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 0.3px #EDEDED;"></td>
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
     </tr>
     <!-- Contextualized Bilinear Attention Networks -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><div style="height: 130px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/CBAN-18.png?raw=true" alt="Photo"/></div></td>
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/CBAN-18.png?raw=true" alt="Photo"/></div></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Contextualized Bilinear Attention Networks</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Seonil Son, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>ECCV Workshop on VizWiz Challenge 2018</b></span><br>
