@@ -33,19 +33,6 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;">
-    <!-- C3 -->
-    <tr style="border: none;">
-        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/C3-21.png?raw=true" alt="Photo"/></div></td>
-      <td align="left" style="border: none;"><span style="font-size: 15px;"><b>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</b></span><br>
-          <span style="font-size:14px; color:#0000008f;">Hyukgi Lee, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
-          <span style="font-size:14px; color:#0275d8;"><b>NeurIPS 2021 CtrlGen Workshop</b></span><br>
-          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a></span>
-          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/C3-21-poster.pdf">Poster</a></span>
-          </td> 
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
-    </tr>
     <!-- DialGraph -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/SGLN-20.png?raw=true" alt="Photo"/></div></td>
@@ -97,6 +84,29 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a></span>
         </td>
     </tr>
+</table>
+
+## Workshop Papers
+<table align="center" style="border-collapse: collapse; border: none;">
+    <!-- shape bias -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/C3-21.png?raw=true" alt="Photo"/></div></td>
+      <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Improving Robustness to Texture Bias via Shape-focused Augmentation</b></span><br>
+          <span style="font-size:14px; color:#0000008f;">Sangjun Lee, Inwoo Hwang <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0275d8;"><b>CVPR 2022 HCIS Workshop</b></span><br>
+          </td> 
+    <tr style="border: none;">
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
+    </tr>
+    <!-- C3 -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/C3-21.png?raw=true" alt="Photo"/></div></td>
+      <td align="left" style="border: none;"><span style="font-size: 15px;"><b>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</b></span><br>
+          <span style="font-size:14px; color:#0000008f;">Hyukgi Lee, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0275d8;"><b>NeurIPS 2021 CtrlGen Workshop</b></span><br>
+          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a></span>
+          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/C3-21-poster.pdf">Poster</a></span>
+          </td> 
     <tr style="border: none;">
         <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
     </tr>
