@@ -91,7 +91,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
     <!-- shape bias -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/SFA-22.png?raw=true" alt="Photo"/></div></td>
-      <td align="left" style="border: none;"><span style="font-size: 15px;"><b>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</b></span><br>
+      <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Improving Robustness to Texture Bias via Shape-focused Augmentation</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Sangjun Lee, Inwoo Hwang <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>CVPR 2022 HCIS Workshop</b></span><br>
           </td>
