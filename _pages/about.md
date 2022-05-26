@@ -34,7 +34,19 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;">
-    <!-- DialGraph -->
+  <!-- GST -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/GST-22.png?raw=true" alt="Photo"/></div></td>
+        <td align="left" style="border: none;"><span style="font-size: 15px;"><b>The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</b></span><br>
+          <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0275d8;"><b>arxiv preprint 2022</b></span><br>
+          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://arxiv.org/abs/2205.12502">Paper</a></span>
+          </td> 
+    </tr>  
+    <tr style="border: none;">
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
+    </tr>  
+  <!-- DialGraph -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/SGLN-20.png?raw=true" alt="Photo"/></div></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</b></span><br>
