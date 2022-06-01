@@ -13,7 +13,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 
 ## Recent News
-<span style="color:#ff7272;"><b>NEW!</b></span> [May 2022] Thrilled to announce that <a href="https://arxiv.org/abs/2205.12502">new preprint</a> is released! <br>
+<span style="color:#ff7272;"><b>NEW!</b></span> [May 2022] Thrilled to announce that our <a href="https://arxiv.org/abs/2205.12502">new preprint</a> is released! <br>
 <span style="color:#ff7272;"><b>NEW!</b></span> [April 2022] One paper is accepted to CVPR 2022 <a href="https://sites.google.com/nycu.edu.tw/hcis/home">HCIS Workshop</a>. <br>
 
 <details>
