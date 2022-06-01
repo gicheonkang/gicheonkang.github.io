@@ -13,7 +13,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 
 ## Recent News
-<span style="color:#ff7272;"><b>NEW!</b></span> [May 2022] Our new preprint (<a href="[http://en.snu.ac.kr](https://arxiv.org/abs/2205.12502)">link</a>) is released. <br>
+<span style="color:#ff7272;"><b>NEW!</b></span> [May 2022] Thrilled to announce that our new preprint (<a href="[http://en.snu.ac.kr](https://arxiv.org/abs/2205.12502)">link</a>) is released! <br>
 <span style="color:#ff7272;"><b>NEW!</b></span> [April 2022] One paper is accepted to CVPR 2022 HCIS Workshop. <br>
 
 <details>
