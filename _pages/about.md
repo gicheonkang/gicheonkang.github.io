@@ -108,6 +108,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
       <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Improving Robustness to Texture Bias via Shape-focused Augmentation</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Sangjun Lee, Inwoo Hwang <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>CVPR 2022 HCIS Workshop</b></span><br>
+          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf">Paper</a></span>
           </td>
     </tr>  
     <tr style="border: none;">
