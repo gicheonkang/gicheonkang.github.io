@@ -13,11 +13,12 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 
 ## Recent News
+<span style="color:#ff7272;"><b>NEW!</b></span> [June 2022] One paper is accepted to ICML 2022 <a href="[https://sites.google.com/nycu.edu.tw/hcis/home](https://pretraining.github.io)">Pre-training Workshop</a>. <br>
 <span style="color:#ff7272;"><b>NEW!</b></span> [May 2022] Thrilled to announce that our <a href="https://arxiv.org/abs/2205.12502">new preprint</a> is released! <br>
-<span style="color:#ff7272;"><b>NEW!</b></span> [April 2022] One paper is accepted to CVPR 2022 <a href="https://sites.google.com/nycu.edu.tw/hcis/home">HCIS Workshop</a>. <br>
 
 <details>
   <summary>show more</summary>
+  <span style="color:#ff7272;"><b>NEW!</b></span> [April 2022] One paper is accepted to CVPR 2022 <a href="https://sites.google.com/nycu.edu.tw/hcis/home">HCIS Workshop</a>. <br>
   <span style="color:#ff7272;"><b>NEW!</b></span> [December 2021] I gave an invited talk at Korea Software Congress. <br>
   <span style="color:#ff7272;"><b>NEW!</b></span> [October 2021] One paper is accepted to NeurIPS 2021 CtrlGen Workshop. <br>
   <span style="color:#ff7272;"><b>NEW!</b></span> [August 2021] One paper is accepted to Findings of EMNLP 2021. <br>
@@ -102,6 +103,17 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 ## Workshop Papers
 <table align="center" style="border-collapse: collapse; border: none;">
+    <!-- pre-training workshop 2022 -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/GST-22.png?raw=true" alt="Photo"/></div></td>
+      <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Generative Self-training Improves Pre-training for Visual Dialog</b></span><br>
+          <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0275d8;"><b>ICML 2022 Pre-training Workshop</b></span><br>
+          </td>
+    </tr>  
+    <tr style="border: none;">
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
+    </tr>
     <!-- shape bias -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/SFA-22.png?raw=true" alt="Photo"/></div></td>
