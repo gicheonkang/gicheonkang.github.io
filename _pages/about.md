@@ -160,9 +160,8 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 <span style="font-size:14px;"> - T.TOC, SK Telecom AI Center</span><br>
 
 ## Professional Activities
-Reviewer
-- Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022 <br>
-- International Conference on Machine Learning Workshop on Pre-training (ICMLW), 2022 <br>
+- (Reviewer) EMNLP 2022 <br>
+- (Reviewer) ICML 2022 Workshop on Pre-training <br>
 
 ## Software
 <script async defer src="https://buttons.github.io/buttons.js"></script>
