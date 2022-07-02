@@ -159,6 +159,10 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 <span style="font-size:14px;"> - Video Turing Test Workshop, ICCV 2019 (Spotlight Talk)</span><br>
 <span style="font-size:14px;"> - T.TOC, SK Telecom AI Center</span><br>
 
+## Professional Activities
+- (Reviewer) EMNLP 2022 <br>
+- (Reviewer) ICML Workshop on Pre-training 2022 <br>
+
 ## Software
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <table align="center" style="border-collapse: collapse; border: none;" >
