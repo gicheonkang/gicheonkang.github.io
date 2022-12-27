@@ -162,10 +162,10 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 ## Professional Activities
 - Reviewer <br>
-  - ACL 2023 <br>
-  - EMNLP 2022 <br>
-  - NeurIPS 2022 Workshop on Meta Learning <br>
-  - ICML 2022 Workshop on Pre-training <br>
+<span style="font-size:14px;"> - Annual Meeting of the Association for Computational Linguistics (ACL), 2023 </span><br>
+<span style="font-size:14px;"> - Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022 </span><br>
+<span style="font-size:14px;"> - NeurIPS Workshop on Meta Learning, 2022 </span><br>
+<span style="font-size:14px;"> - ICML Workshop on Pre-training, 2022 </span><br>
 
 ## Software
 <script async defer src="https://buttons.github.io/buttons.js"></script>
