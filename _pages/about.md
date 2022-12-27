@@ -161,7 +161,9 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 <span style="font-size:14px;"> - T.TOC, SK Telecom AI Center</span><br>
 
 ## Professional Activities
+- (Reviewer) ACL 2023 <br>
 - (Reviewer) EMNLP 2022 <br>
+- (Reviewer) NeurIPS 2022 Workshop on Meta Learning <br>
 - (Reviewer) ICML 2022 Workshop on Pre-training <br>
 
 ## Software
