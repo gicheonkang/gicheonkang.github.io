@@ -13,7 +13,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 
 ## Recent News
-<span style="color:#ff7272;"><b>NEW!</b></span> [March 2023] Happy to announce that our <a href="https://arxiv.org/abs/2205.12502">paper</a> is accepted to CVPR 2023! <br>
+<span style="color:#ff7272;"><b>NEW!</b></span> [March 2023] Happy to announce that <a href="https://arxiv.org/abs/2205.12502">our paper</a> is accepted to CVPR 2023! <br>
 
 <details>
   <summary>show more</summary>
@@ -105,7 +105,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 ## Workshop Papers
 <table align="center" style="border-collapse: collapse; border: none;">
     <!-- pre-training workshop 2022 -->
-    <tr style="border: none;">
+    <!-- tr style="border: none;">
         <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/GST-22.png?raw=true" alt="Photo"/></div></td>
       <td align="left" style="border: none;"><span style="font-size: 15px;"><b>Generative Self-training Improves Pre-training for Visual Dialog</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
@@ -113,7 +113,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           <span style="font-size:14px; color:#0000008f;">(preliminary version of the <a href="https://arxiv.org/abs/2205.12502">preprint</a>)</span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://openreview.net/pdf?id=bwGy1ZeqvCX">Paper</a></span>
           </td>
-    </tr>  
+    </tr> --> 
     <tr style="border: none;">
         <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
     </tr>
