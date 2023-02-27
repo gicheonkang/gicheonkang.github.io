@@ -13,7 +13,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 
 ## Recent News
-<span style="color:#ff7272;"><b>NEW!</b></span> [March 2023] Happy to announce that <a href="https://arxiv.org/abs/2205.12502">our paper</a> is accepted to CVPR 2023! <br>
+<span style="color:#ff7272;"><b>NEW!</b></span> [March 2023] Happy to announce that <a href="https://arxiv.org/abs/2205.12502">our paper</a> is accepted to <a href="https://cvpr2023.thecvf.com">CVPR 2023</a>! <br>
 
 <details>
   <summary>show more</summary>
