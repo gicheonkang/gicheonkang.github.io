@@ -39,7 +39,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 <table align="center" style="border-collapse: collapse; border: none;">
   <!-- GST -->
     <tr style="border: none;">
-        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/GST-23.gif?raw=true" alt="Photo"/></div></td>
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/CVPR-23.gif?raw=true" alt="Photo"/></div></td>
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</b></span><br>
           <span style="font-size:14px; color:#0000008f;"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>CVPR 2023</b></span><br>
