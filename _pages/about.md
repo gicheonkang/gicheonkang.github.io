@@ -45,6 +45,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
           <span style="font-size:14px; color:#0275d8;"><b>CVPR 2023</b></span><br>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://openaccess.thecvf.com/content/CVPR2023/html/Kang_The_Dialog_Must_Go_On_Improving_Visual_Dialog_via_Generative_CVPR_2023_paper.html">Paper</a></span>
           <span style="font-size:14px;"><a class="btn btn--inverse" href="https://github.com/gicheonkang/gst-visdial">Code</a></span>
+          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/GST-23-slide.pdf">Slides</a></span>
           </td> 
     </tr>  
     <tr style="border: none;">
