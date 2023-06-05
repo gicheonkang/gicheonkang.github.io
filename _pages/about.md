@@ -180,7 +180,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 </table>
 
 ## Affiliations
-![ajou](/images/ajou.png){: width="90" height="90"} &nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp;&nbsp;&nbsp; ![aiis](/images/aiis.png){: width="130" height="55"} <br>
+![aiis](/images/aiis.png){: width="130" height="55"} &nbsp;&nbsp;&nbsp; ![snu](/images/snu.png){: width="70" height="70"} &nbsp; ![ajou](/images/ajou.png){: width="90" height="90"} <br>
 
 &nbsp;&nbsp;&nbsp; ![skt](/images/skt.png){: width="130" height="80"} 
 
