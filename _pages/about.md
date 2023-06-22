@@ -44,6 +44,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
         <td align="left" style="border: none;"><span style="font-size: 15px;"><b>GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation</b></span><br>
           <span style="font-size:14px; color:#0000008f;">Junghyun Kim, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u><sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
           <span style="font-size:14px; color:#0275d8;"><b>IROS 2023</b></span><br>
+          <span style="font-size:14px;"><a class="btn btn--inverse" href="https://gicheonkang.com">Paper</a></span>
           </td> 
     </tr>  
     <tr style="border: none;">
