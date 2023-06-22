@@ -13,6 +13,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 
 ## Recent News
+<span style="color:#ff7272;"><b>NEW!</b></span> [June 2023] One paper is accepted to <a href="https://ieee-iros.org">IROS 2023</a>! <br>
 <span style="color:#ff7272;"><b>NEW!</b></span> [March 2023] Happy to announce that <a href="https://arxiv.org/abs/2205.12502">our paper</a> is accepted to <a href="https://cvpr2023.thecvf.com">CVPR 2023</a>! <br>
 
 <details>
@@ -37,6 +38,17 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at <a
 
 ## Publications
 <table align="center" style="border-collapse: collapse; border: none;">
+  <!-- GVCCI -->
+    <tr style="border: none;">
+        <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/IROS-23.png?raw=true" alt="Photo"/></div></td>
+        <td align="left" style="border: none;"><span style="font-size: 15px;"><b>The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</b></span><br>
+          <span style="font-size:14px; color:#0000008f;">Junghyun Kim, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u><sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
+          <span style="font-size:14px; color:#0275d8;"><b>IROS 2023</b></span><br>
+          </td> 
+    </tr>  
+    <tr style="border: none;">
+        <td style="border: none;" colspan="3"><hr style="border: solid 0.5px #EDEDED;"></td>
+    </tr>
   <!-- GST -->
     <tr style="border: none;">
         <td align="center" style="border: none;"><div style="height: 120px; width: 200px; display:table-cell; vertical-align:middle; text-align:center;" class="box"><img src="../images/CVPR-23.gif?raw=true" alt="Photo"/></div></td>
