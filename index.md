@@ -66,11 +66,13 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <h2 class="pubt">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
 <p class="pubd">
     <span class="authors"><u style="text-decoration-color: #0000008f; font-size:14px;">Gi-Cheon Kang</u>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
-    <span class="conf; color:#0275d8; font-size:14px;">CVPR 2023</span>
-    <span class="links; font-size:14px;">
+    <span class="conf"><span style="font-size:14px; color:#0275d8;">CVPR 2023</span></span>
+    <span class="links">
+        <span style="font-size:14px; color:#0275d8;">
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/GST-23-slide.pdf">Slides</a>
+        </span>
     </span>
 </p>
 <img src="/img/gst_overview.gif">
