@@ -12,7 +12,7 @@ permalink:  /
         Ph.D. Student<br>
         Graduate School of AI<br>
         Seoul National University<br>
-        gchnkang at gmail dot com
+        <a target="_blank" href="mailto:gchnkang@gmail.com">gchnkang at gmail dot com</a>
     </div>
 </div>
 <hr>
@@ -142,14 +142,18 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 
 <a name="/talks"></a>
 
-# Talks
+# Reviewing
 
 <div class="row">
     <div class="col-xs-12">
         <div class="talkt">
-            <a target="_blank" href="https://slideslive.com/38928261/probing-emergent-semantics-in-predictive-agents-via-question-answering">
-                ICML 2020: Probing Emergent Semantics in Predictive Agents via Question Answering
-            </a>
+            Neural Information Processing Systems (NeurIPS) 2023
+        </div>
+        <div class="talkt">
+            Annual Meeting of the Association for Computational Linguistics (ACL) 2023
+        </div>
+        <div class="talkt">
+            Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022-2023
         </div>
     </div>
 </div>
