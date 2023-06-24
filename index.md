@@ -121,14 +121,14 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
         <a target="_blank" href="https://ieeexplore.ieee.org/document/9054655">Paper</a>
     </span>
 </p>
-<img src="/img/lpart_overview.png">
+<img src="/img/lpart_overview.png" width="50%" height="50%">
 <hr>
 
 <a name="/dan"></a>
 <h2 class="pubt">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</h2>
 <p class="pubd">
     <span class="authors"><u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
-    <span class="conf">EMNLP 2019</span>
+    <span class="conf">EMNLP 2019</span><br>
     <span class="conf">3rd Place in VisDial Challenge @ CVPR 2019</span>
     <span class="links">
         <a target="_blank" href="https://www.aclweb.org/anthology/D19-1209">Paper</a>
