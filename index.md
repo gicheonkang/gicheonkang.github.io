@@ -121,7 +121,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
         <a target="_blank" href="https://ieeexplore.ieee.org/document/9054655">Paper</a>
     </span>
 </p>
-<img src="/img/lpart_overview.png" width="50%" height="50%">
+<img src="/img/lpart_overview.png">
 <hr>
 
 <a name="/dan"></a>
