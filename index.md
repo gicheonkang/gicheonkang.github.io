@@ -79,10 +79,37 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
-        <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/GST-23-slide.pdf">Slides</a>
+        <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/GST-23-slide.pdf">Slides</a>
     </span>
 </p>
 <img src="/img/gst_overview.gif">
+<hr>
+
+<a name="/sglkt"></a>
+<h2 class="pubt">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
+<p class="pubd">
+    <span class="authors"><u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang<sup>*</sup>, Jin-Hwa Kim<sup>*</sup></span><br>
+    <span class="conf">EMNLP 2021 Findings</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2004.06698">Paper</a>
+        <a target="_blank" href="https://github.com/gicheonkang/sglkt-visdial">Code</a>
+        <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/SGLKT-21-slide.pdf">Slides</a>
+    </span>
+</p>
+<img src="/img/sglkt_overview.png">
+<hr>
+
+<a name="/masn"></a>
+<h2 class="pubt">Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering</h2>
+<p class="pubd">
+    <span class="authors">Ahjeong Seo, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Joonhan Park, Byoung-Tak Zhang</span><br>
+    <span class="conf">ACL 2021</span>
+    <span class="links">
+        <a target="_blank" href="https://aclanthology.org/2021.acl-long.481">Paper</a>
+        <a target="_blank" href="https://github.com/ahjeongseo/MASN-pytorch">Code</a>
+    </span>
+</p>
+<img src="/img/masn_overview.png">
 <hr>
 
 
