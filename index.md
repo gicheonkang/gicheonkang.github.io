@@ -85,18 +85,6 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <img src="/img/gst_overview.gif">
 <hr>
 
-<a name="/sfa"></a>
-<h2 class="pubt">Improving Robustness to Texture Bias via Shape-focused Augmentation</h2>
-<p class="pubd">
-    <span class="authors">Sangjun Lee, Inwoo Hwang, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Byoung-Tak Zhang</span><br>
-    <span class="conf">CVPR 2022 Workshop on Human-centered Intelligent Services: Safety and Trustworthy</span>
-    <span class="links">
-        <a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf">Paper</a>
-    </span>
-</p>
-<img src="/img/sfa_overview.png">
-<hr>
-
 <a name="/sglkt"></a>
 <h2 class="pubt">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
 <p class="pubd">
@@ -122,18 +110,6 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
     </span>
 </p>
 <img src="/img/masn_overview.png">
-<hr>
-
-<a name="/c3"></a>
-<h2 class="pubt">C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</h2>
-<p class="pubd">
-    <span class="authors">Hyukgi Lee, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Chang-Hoon Jeong, Hanwool Sul, Junseok Park, Byoung-Tak Zhang</span><br>
-    <span class="conf">NeurIPS 2021 Workshop on Controllable Generative Modeling in Language and Vision</span>
-    <span class="links">
-        <a target="_blank" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a>
-    </span>
-</p>
-<img src="/img/c3_overview.png">
 <hr>
 
 <a name="/lpart"></a>
@@ -163,8 +139,34 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <img src="/img/dan_overview.jpg">
 <hr>
 
+# Workshop Papers
 
-<a name="/talks"></a>
+<a name="/sfa"></a>
+<h2 class="pubt">Improving Robustness to Texture Bias via Shape-focused Augmentation</h2>
+<p class="pubd">
+    <span class="authors">Sangjun Lee, Inwoo Hwang, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Byoung-Tak Zhang</span><br>
+    <span class="conf">CVPR 2022 Workshop on Human-centered Intelligent Services: Safety and Trustworthy</span>
+    <span class="links">
+        <a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf">Paper</a>
+    </span>
+</p>
+<img src="/img/sfa_overview.png">
+<hr>
+
+<a name="/c3"></a>
+<h2 class="pubt">C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</h2>
+<p class="pubd">
+    <span class="authors">Hyukgi Lee, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Chang-Hoon Jeong, Hanwool Sul, Junseok Park, Byoung-Tak Zhang</span><br>
+    <span class="conf">NeurIPS 2021 Workshop on Controllable Generative Modeling in Language and Vision</span>
+    <span class="links">
+        <a target="_blank" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a>
+    </span>
+</p>
+<img src="/img/c3_overview.png">
+<hr>
+
+
+<a name="/services"></a>
 
 # Reviewing
 
