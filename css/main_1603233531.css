@@ -55,6 +55,10 @@ h2 {
   line-height: 30px;
 }
 
+u {
+  border-bottom: 1px
+}
+
 /*h3 {
   margin: 0;
   font-size: 20px;
