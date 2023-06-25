@@ -334,7 +334,7 @@ a:focus {
   margin: 3px 0 0 0;
   color: #808080 !important;
   line-height: 22px;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .post section p.pubd a {
@@ -344,7 +344,7 @@ a:focus {
   border: none;
   margin-right: 2px;
   margin-bottom: 3px;
-  font-size: 14px;
+  font-size: 16px;
   display: inline-block;
 }
 
@@ -365,13 +365,13 @@ a:focus {
 span.authors {
   color: #808080;
   margin: 5px 0;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 span.conf {
   color: #9A2617;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #vimeo-embed {
