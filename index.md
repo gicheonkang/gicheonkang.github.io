@@ -65,7 +65,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/gvcci"></a>
 <h2 class="pubt">GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation</h2>
 <p class="pubd">
-    <span class="authors">Junghyun Kim, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u><sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
+    <span class="authors">Junghyun Kim, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u><sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
     <span class="conf">IROS 2023</span>
 </p>
 <img src="/img/gvcci_overview.png">
@@ -74,9 +74,9 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/gst"></a>
 <h2 class="pubt">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
 <p class="pubd">
-    <span class="authors"><u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
+    <span class="authors"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
     <span class="conf">CVPR 2023</span>
-    <span class="button">
+    <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/GST-23-slide.pdf">Slides</a>
@@ -88,7 +88,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/sglkt"></a>
 <h2 class="pubt">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
 <p class="pubd">
-    <span class="authors"><u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang<sup>*</sup>, Jin-Hwa Kim<sup>*</sup></span><br>
+    <span class="authors"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang<sup>*</sup>, Jin-Hwa Kim<sup>*</sup></span><br>
     <span class="conf">EMNLP 2021 Findings</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2004.06698">Paper</a>
@@ -102,7 +102,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/masn"></a>
 <h2 class="pubt">Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering</h2>
 <p class="pubd">
-    <span class="authors">Ahjeong Seo, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Joonhan Park, Byoung-Tak Zhang</span><br>
+    <span class="authors">Ahjeong Seo, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Joonhan Park, Byoung-Tak Zhang</span><br>
     <span class="conf">ACL 2021</span>
     <span class="links">
         <a target="_blank" href="https://aclanthology.org/2021.acl-long.481">Paper</a>
@@ -115,7 +115,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/lpart"></a>
 <h2 class="pubt">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</h2>
 <p class="pubd">
-    <span class="authors">Taehyeong Kim, Injune Hwang, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
+    <span class="authors">Taehyeong Kim, Injune Hwang, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
     <span class="conf">ICASSP 2020</span>
     <span class="links">
         <a target="_blank" href="https://ieeexplore.ieee.org/document/9054655">Paper</a>
@@ -127,7 +127,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/dan"></a>
 <h2 class="pubt">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</h2>
 <p class="pubd">
-    <span class="authors"><u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
+    <span class="authors"><u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
     <span class="conf">EMNLP 2019</span><br>
     <span class="conf">3rd Place in VisDial Challenge @ CVPR 2019</span>
     <span class="links">
@@ -144,7 +144,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/sfa"></a>
 <h2 class="pubt">Improving Robustness to Texture Bias via Shape-focused Augmentation</h2>
 <p class="pubd">
-    <span class="authors">Sangjun Lee, Inwoo Hwang, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Byoung-Tak Zhang</span><br>
+    <span class="authors">Sangjun Lee, Inwoo Hwang, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Byoung-Tak Zhang</span><br>
     <span class="conf">CVPR 2022 Workshop on Human-centered Intelligent Services: Safety and Trustworthy</span>
     <span class="links">
         <a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf">Paper</a>
@@ -156,7 +156,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/c3"></a>
 <h2 class="pubt">C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</h2>
 <p class="pubd">
-    <span class="authors">Hyukgi Lee, <u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Chang-Hoon Jeong, Hanwool Sul, Junseok Park, Byoung-Tak Zhang</span><br>
+    <span class="authors">Hyukgi Lee, <u style="text-decoration-color: #0000008f;">Gi-Cheon Kang</u>, Chang-Hoon Jeong, Hanwool Sul, Junseok Park, Byoung-Tak Zhang</span><br>
     <span class="conf">NeurIPS 2021 Workshop on Controllable Generative Modeling in Language and Vision</span>
     <span class="links">
         <a target="_blank" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a>
