@@ -55,11 +55,6 @@ h2 {
   line-height: 30px;
 }
 
-u {
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 3px;
-}
-
 /*h3 {
   margin: 0;
   font-size: 20px;
@@ -377,6 +372,11 @@ span.conf {
   color: #9A2617;
   font-weight: 500;
   font-size: 16px;
+}
+
+span.u {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1px;
 }
 
 #vimeo-embed {
