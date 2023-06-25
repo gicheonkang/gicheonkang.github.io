@@ -76,7 +76,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <p class="pubd">
     <span class="authors"><u style="text-decoration-color: #0000008f;"><span class="fw-550">Gi-Cheon Kang</span></u>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
     <span class="conf">CVPR 2023</span>
-    <span class="links">
+    <span class="button">
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/GST-23-slide.pdf">Slides</a>

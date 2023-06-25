@@ -369,7 +369,7 @@ span.authors {
 }
 
 span.conf {
-  color: #9A2617;
+  color: #0275d8;
   font-weight: 500;
   font-size: 16px;
 }
@@ -491,6 +491,25 @@ pre code {
   color: inherit;
   background-color: transparent;
   border: 0;
+}
+
+.button {
+  background-color: white; /* Green */
+  border: 2px solid #555555;
+  color: black;
+  padding: 0.5em 0.7em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 0 0;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #555555;
+  color: white;
 }
 
 .fw-550 {
