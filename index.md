@@ -156,7 +156,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/c3"></a>
 <h2 class="pubt">C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</h2>
 <p class="pubd">
-    <span class="authors">Hyukgi Lee, <span class="u">Gi-Cheon Kang</span>, Chang-Hoon Jeong, Hanwool Sul, Junseok Park, Byoung-Tak Zhang</span><br>
+    <span class="authors">Hyukgi Lee, <span class="u">Gi-Cheon Kang</span>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
     <span class="conf">NeurIPS 2021 Workshop on Controllable Generative Modeling in Language and Vision</span>
     <span class="links">
         <a target="_blank" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a>
