@@ -69,7 +69,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
     <span class="conf">IROS 2023</span>
 </p>
 <img src="/img/gvcci_overview.png">
-<hr color=#808080>
+<hr>
 
 <a name="/gst"></a>
 <h2 class="pubt">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
