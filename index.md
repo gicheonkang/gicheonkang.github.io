@@ -83,6 +83,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/GST-23-slide.pdf">Slides</a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=Z_8d0zCUc6E">Video</a>
     </span>
 </p>
 <img src="/img/gst_overview.gif">
