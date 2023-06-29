@@ -22,7 +22,7 @@ permalink:  /
 
 # Bio
 
-I am a third year Ph.D. student in the Graduate School of AI at [Seoul National University][1], and a researcher at [AIIS][2], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in <span class="fw-550">grounded language learning</span> which aims to connect natural language to non-linguistic experiences like sensory perception and physical action. The long-term goal of my research is to build machines that can
+I am a third year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in <span class="fw-550">grounded language learning</span> which aims to connect natural language to non-linguistic experiences like sensory perception and physical action. The long-term goal of my research is to build machines that can
 - perceive their everyday surroundings,
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
