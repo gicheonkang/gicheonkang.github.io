@@ -22,7 +22,7 @@ permalink:  /
 
 # Bio
 
-I am a third year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in <span class="fw-550">grounded language learning</span> which aims to connect natural language to non-linguistic experiences like sensory perception and physical action. The long-term goal of my research is to build machines that can
+I am a third year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in <span class="fw-550">grounded language learning</span>, which aims to connect language to non-linguistic experiences in the physical world, like sensory perception and control. The long-term goal of my research is to build machines that can
 - perceive their everyday surroundings,
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
@@ -83,7 +83,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/GST-23-slide.pdf">Slides</a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=Z_8d0zCUc6E">Video</a>
+        <a target="_blank" href="https://youtu.be/Z_8d0zCUc6E">Presentation Video</a>
     </span>
 </p>
 <img src="/img/gst_overview.gif">
