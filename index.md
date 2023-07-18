@@ -70,6 +70,9 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <p class="pubd">
     <span class="authors">Junghyun Kim, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
     <span class="conf">IROS 2023</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
+    </span>
 </p>
 <img src="/img/gvcci_overview.png">
 <hr>
