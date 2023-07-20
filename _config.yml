@@ -4,6 +4,6 @@ url: http://gicheonkang.com
 author:
   name: Gi-Cheon Kang
   email: gchnkang@gmail.com
-description: AI PhD student at Seoul National University.
+description: I am a third year Ph.D. student in the Graduate School of AI at Seoul National University, advised by Prof. Byoung-Tak Zhang. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in grounded language learning, which aims to connect language to non-linguistic experiences in the physical world, such as sensory perception and action.
 permalink: /posts/:title/
 include: ['_pages']
