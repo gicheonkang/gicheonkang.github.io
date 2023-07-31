@@ -22,7 +22,7 @@ permalink:  /
 
 # Bio
 
-I am a third year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. My current focus is modeling machine learning algorithms that learn non-linguistic experiences in the physical world (e.g., sensory perception and action) with natural language. The long-term goal of my research is to build machines that can
+I am a third year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. My current focus is modeling machine learning algorithms that learn various experiences in the physical world (e.g., sensory perception and action) with natural language. The long-term goal of my research is to build machines that can
 - perceive their everyday surroundings through vision or other senses,
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
