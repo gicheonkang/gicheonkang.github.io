@@ -81,7 +81,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <h2 class="pubt">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Gi-Cheon Kang</span>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
-    <span class="conf">CVPR 2023</span>
+    <span class="conf">CVPR 2023</span><br>
     <span class="conf">ICML 2022 Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
