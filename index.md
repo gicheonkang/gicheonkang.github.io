@@ -82,6 +82,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <p class="pubd">
     <span class="authors"><span class="u">Gi-Cheon Kang</span>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
     <span class="conf">CVPR 2023</span>
+    <span class="conf">ICML 2022 Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
@@ -90,6 +91,18 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
     </span>
 </p>
 <img src="/img/gst_overview.gif">
+<hr>
+
+<a name="/sfa"></a>
+<h2 class="pubt">Improving Robustness to Texture Bias via Shape-focused Augmentation</h2>
+<p class="pubd">
+    <span class="authors">Sangjun Lee, Inwoo Hwang, <span class="u">Gi-Cheon Kang</span>, Byoung-Tak Zhang</span><br>
+    <span class="conf">CVPR 2022 Workshop on Human-centered Intelligent Services: Safety and Trustworthy</span>
+    <span class="links">
+        <a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf">Paper</a>
+    </span>
+</p>
+<img src="/img/sfa_overview.png">
 <hr>
 
 <a name="/sglkt"></a>
@@ -119,6 +132,18 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <img src="/img/masn_overview.png">
 <hr>
 
+<a name="/c3"></a>
+<h2 class="pubt">C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</h2>
+<p class="pubd">
+    <span class="authors">Hyukgi Lee, <span class="u">Gi-Cheon Kang</span>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
+    <span class="conf">NeurIPS 2021 Workshop on Controllable Generative Modeling in Language and Vision</span>
+    <span class="links">
+        <a target="_blank" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a>
+    </span>
+</p>
+<img src="/img/c3_overview.png">
+<hr>
+
 <a name="/lpart"></a>
 <h2 class="pubt">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</h2>
 <p class="pubd">
@@ -146,31 +171,6 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <img src="/img/dan_overview.jpg">
 <hr>
 
-# Workshop Papers
-
-<a name="/sfa"></a>
-<h2 class="pubt">Improving Robustness to Texture Bias via Shape-focused Augmentation</h2>
-<p class="pubd">
-    <span class="authors">Sangjun Lee, Inwoo Hwang, <span class="u">Gi-Cheon Kang</span>, Byoung-Tak Zhang</span><br>
-    <span class="conf">CVPR 2022 Workshop on Human-centered Intelligent Services: Safety and Trustworthy</span>
-    <span class="links">
-        <a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf">Paper</a>
-    </span>
-</p>
-<img src="/img/sfa_overview.png">
-<hr>
-
-<a name="/c3"></a>
-<h2 class="pubt">C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</h2>
-<p class="pubd">
-    <span class="authors">Hyukgi Lee, <span class="u">Gi-Cheon Kang</span>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
-    <span class="conf">NeurIPS 2021 Workshop on Controllable Generative Modeling in Language and Vision</span>
-    <span class="links">
-        <a target="_blank" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a>
-    </span>
-</p>
-<img src="/img/c3_overview.png">
-<hr>
 
 
 <a name="/services"></a>
@@ -179,6 +179,9 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 
 <div class="row">
     <div class="col-xs-12">
+        <div class="talkt">
+            International Conference on Learning Representations (ICLR), 2023
+        </div>
         <div class="talkt">
             Neural Information Processing Systems (NeurIPS), 2023
         </div>
