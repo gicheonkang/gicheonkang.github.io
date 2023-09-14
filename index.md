@@ -65,6 +65,17 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 
 # Publications
 
+<a name="prograsp"></a>
+<h2 class="pubt">PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h2>
+<p class="pubd">
+    <span class="authors"><span class="u">Gi-Cheon Kang</span>, Junghyun Kim, Jaein Kim, Byoung-Tak Zhang</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
+    </span>
+</p>
+<img src='/img/prograsp_overview.mp4'>
+<hr>
+
 <a name="/gvcci"></a>
 <h2 class="pubt">GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation</h2>
 <p class="pubd">
