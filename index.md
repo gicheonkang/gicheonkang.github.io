@@ -70,7 +70,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <p class="pubd">
     <span class="authors"><span class="u">Gi-Cheon Kang</span>, Junghyun Kim, Jaein Kim, Byoung-Tak Zhang</span><br>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2309.07759">Paper</a>
     </span>
 </p>
 <img src='/img/prograsp_overview.mp4'>
@@ -191,7 +191,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <div class="row">
     <div class="col-xs-12">
         <div class="talkt">
-            International Conference on Learning Representations (ICLR), 2023
+            International Conference on Learning Representations (ICLR), 2024
         </div>
         <div class="talkt">
             Neural Information Processing Systems (NeurIPS), 2023
