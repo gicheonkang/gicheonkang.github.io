@@ -29,6 +29,9 @@ I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National
 
 Prior to joining Ph.D. program, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has had a great influence on my research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
 
+
+<p style='text-align:center; color:#9A2617'>I'm actively looking for Ph.D. internship positions in 2024! Please let me know if you have any opportunities for me.</p>
+
 ---
 
 <a name="/news"></a>
