@@ -76,7 +76,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
         <a target="_blank" href="https://arxiv.org/abs/2309.07759">Paper</a>
     </span>
 </p>
-<iframe src='//gifs.com/embed/prograsp-J8MZov' frameborder='0' scrolling='no' width='700px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<img src="//gifs.com/embed/prograsp-J8MZov">
 <hr>
 
 <a name="/gvcci"></a>
