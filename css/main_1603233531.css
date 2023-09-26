@@ -260,12 +260,12 @@ ul.nav-bar li {
   border-bottom: 1px solid #eee;
 }
 
-img {
-  max-width: 100%;
+.webby {
+  margin-top: 1em;  
 }
 
-video {
-  margin-top: 2em;  
+img {
+  max-width: 100%;
 }
 
 p {
