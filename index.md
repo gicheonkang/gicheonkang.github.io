@@ -27,6 +27,10 @@ I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
 
+By topics, I have studied language-aware robotic agents ([arXiv'23][prograsp], [IROS'23][gvcci]) and visually-grounded dialog systems ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]).
+
+I was fortunate to collaborate with researchers in NAVER and SK Telecom.
+
 Prior to joining Ph.D. program, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has had a great influence on my research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
 
 
@@ -240,3 +244,9 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 [3]: https://bi.snu.ac.kr/~btzhang/
 [4]: https://gicheonkang.com
 [5]: http://www.ajou.ac.kr/en/
+[gvcci]: https://arxiv.org/abs/2307.05963
+[prograsp]: https://arxiv.org/abs/2309.07759
+[gst]: https://arxiv.org/abs/2205.12502
+[sglkt]: https://arxiv.org/abs/2004.06698
+[masn]: https://aclanthology.org/2021.acl-long.481
+[dan]: https://www.aclweb.org/anthology/D19-1209 
