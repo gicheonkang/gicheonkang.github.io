@@ -22,12 +22,12 @@ permalink:  /
 
 # Bio
 
-I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. My current focus is modeling machine learning algorithm that connects language to a variety of experiences in the physical world (e.g., perception and action). The long-term goal of my research is to build machines that can
+I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in bridging language with perception and action, aiming to understand the semantics of the physical world. The long-term goal of my research is to build machines that can
 - perceive their everyday surroundings through vision or other senses,
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
 
-By topics, I have studied robots communicating with humans through language ([arXiv'23][prograsp], [IROS'23][gvcci]) and visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]).
+Specific topics include: (i) robots communicating with humans through language ([arXiv'23][prograsp], [IROS'23][gvcci]) and (ii) visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]).
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
 
