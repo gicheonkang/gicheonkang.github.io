@@ -27,7 +27,7 @@ I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
 
-By topics, I have studied language-aware robotic agents ([arXiv'23][prograsp], [IROS'23][gvcci]) and visually-grounded dialog systems ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]).
+By topics, I have studied robots communicating with humans through language ([arXiv'23][prograsp], [IROS'23][gvcci]) and visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]).
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
 
