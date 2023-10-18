@@ -27,7 +27,7 @@ I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
 
-Specific topics include: (i) robots performing the task through language interaction ([arXiv'23][prograsp], [IROS'23][gvcci]) and (ii) visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]).
+Specific topics include: (i) robots performing the desired task through language interaction ([arXiv'23][prograsp], [IROS'23][gvcci]), (ii) visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]), and (iii) others ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
 
@@ -170,7 +170,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
     <span class="authors">Taehyeong Kim, Injune Hwang, <span class="u">Gi-Cheon Kang</span>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
     <span class="conf">ICASSP 2020</span>
     <span class="links">
-        <a target="_blank" href="https://ieeexplore.ieee.org/document/9054655">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2005.02137">Paper</a>
     </span>
 </p>
 <img src="/img/lpart_overview.png">
@@ -249,4 +249,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 [gst]: https://arxiv.org/abs/2205.12502
 [sglkt]: https://arxiv.org/abs/2004.06698
 [masn]: https://aclanthology.org/2021.acl-long.481
-[dan]: https://www.aclweb.org/anthology/D19-1209 
+[dan]: https://www.aclweb.org/anthology/D19-1209
+[lpart]: https://arxiv.org/abs/2005.02137
+[c3]: https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf
+[sfa]: https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf 
