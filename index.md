@@ -42,6 +42,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 
 # News
 
+- [Oct 2023] Two preprint papers <a href="https://arxiv.org/abs/2309.07759">PROGrasp</a> and <a href="https://arxiv.org/abs/2310.12547">PGA</a> are released! 
 - [Jun 2023] One paper is accepted to <a href="https://ieee-iros.org">IROS 2023</a>!
 - [Mar 2023] Happy to announce that <a href="https://arxiv.org/abs/2205.12502">our paper</a> is accepted to <a href="https://cvpr2023.thecvf.com">CVPR 2023</a>!
 - [Jun 2022] One paper is accepted to ICML 2022 <a href="[https://sites.google.com/nycu.edu.tw/hcis/home](https://pretraining.github.io)">Pre-training Workshop</a>.
@@ -71,6 +72,17 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <a name="/publications"></a>
 
 # Publications
+
+<a name="/pga"></a>
+<h2 class="pubt">PGA: Personalizing Grasping Agents with Single Human-Robot Interaction</h2>
+<p class="pubd">
+    <span class="authors">Junghyun Kim, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Jaein Kim<sup>*</sup>, Seoyun Yang, Minjoon Jung, Byoung-Tak Zhang</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2310.12547">Paper</a>
+    </span>
+</p>
+<img src="/img/pga_overview.png">
+<hr>
 
 <a name="prograsp"></a>
 <h2 class="pubt">PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h2>
