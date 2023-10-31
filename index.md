@@ -106,10 +106,10 @@ From Basic NLP to ChatGPT and Beyond").
     <span class="conf">CVPR 2023</span><br>
     <span class="conf">ICML 2022 Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward</span>
     <span class="links">
+        <a target="_blank" href="https://gicheonkang.com/projects/gst/">Project Page</a>
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/GST-23-slide.pdf">Slides</a>
-        <a target="_blank" href="https://youtu.be/Z_8d0zCUc6E">Presentation Video</a>
     </span>
 </p>
 <img src="/img/gst_overview.gif">
