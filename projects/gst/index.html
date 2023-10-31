@@ -18,7 +18,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://gicheonkang.com/projects/gst/"/>
     <meta property="og:title" content="The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training" />
-    <meta property="og:description" content="Visual dialog (VisDial) is a task of answering a sequence of questions grounded in an image, using the dialog history as context. Prior work has trained the dialog agents solely on VisDial data via supervised learning or leveraged pre- training on related vision-and-language datasets. This paper presents a semi-supervised learning approach for visually- grounded dialog, called Generative Self-Training (GST), to leverage unlabeled images on the Web. Specifically, GST first retrieves in-domain images through out-of-distribution detection and generates synthetic dialogs regarding the im- ages via multimodal conditional text generation. GST then trains a dialog agent on the synthetic and the original Vis- Dial data. As a result, GST scales the amount of training data up to an order of magnitude that of VisDial (1.2M → 12.9M QA data). For robust training of the synthetic di- alogs, we also propose perplexity-based data selection and multimodal consistency regularization. Evaluation on Vis- Dial v1.0 and v0.9 datasets shows that GST achieves new state-of-the-art results on both datasets. We further observe the robustness of GST against both visual and textual ad- versarial attacks. Finally, GST yields strong performance gains in the low-data regime."
+    <meta property="og:description" content="Visual dialog (VisDial) is a task of answering a sequence of questions grounded in an image, using the dialog history as context. Prior work has trained the dialog agents solely on VisDial data via supervised learning or leveraged pre-training on related vision-and-language datasets. This paper presents a semi-supervised learning approach for visually-grounded dialog, called Generative Self-Training (GST), to leverage unlabeled images on the Web. Specifically, GST first retrieves in-domain images through out-of-distribution detection and generates synthetic dialogs regarding the images via multimodal conditional text generation. GST then trains a dialog agent on the synthetic and the original VisDial data. As a result, GST scales the amount of training data up to an order of magnitude that of VisDial (1.2M → 12.9M QA data). For robust training of the synthetic dialogs, we also propose perplexity-based data selection and multimodal consistency regularization. Evaluation on VisDial v1.0 and v0.9 datasets shows that GST achieves new state-of-the-art results on both datasets. We further observe the robustness of GST against both visual and textual adversarial attacks. Finally, GST yields strong performance gains in the low-data regime."
  />
 
     <meta name="twitter:card" content="summary_large_image" />
@@ -124,12 +124,39 @@
                     Abstract
                 </h3>
                 <p class="text-justify">
-Visual dialog (VisDial) is a task of answering a sequence of questions grounded in an image, using the dialog history as context. Prior work has trained the dialog agents solely on VisDial data via supervised learning or leveraged pre- training on related vision-and-language datasets. This paper presents a semi-supervised learning approach for visually- grounded dialog, called Generative Self-Training (GST), to leverage unlabeled images on the Web. Specifically, GST first retrieves in-domain images through out-of-distribution detection and generates synthetic dialogs regarding the im- ages via multimodal conditional text generation. GST then trains a dialog agent on the synthetic and the original Vis- Dial data. As a result, GST scales the amount of training data up to an order of magnitude that of VisDial (1.2M → 12.9M QA data). For robust training of the synthetic di- alogs, we also propose perplexity-based data selection and multimodal consistency regularization. Evaluation on Vis- Dial v1.0 and v0.9 datasets shows that GST achieves new state-of-the-art results on both datasets. We further observe the robustness of GST against both visual and textual ad- versarial attacks. Finally, GST yields strong performance gains in the low-data regime.
+Visual dialog (VisDial) is a task of answering a sequence of questions grounded in an image, using the dialog history as context. Prior work has trained the dialog agents solely on VisDial data via supervised learning or leveraged pre-training on related vision-and-language datasets. This paper presents a semi-supervised learning approach for visually-grounded dialog, called Generative Self-Training (GST), to leverage unlabeled images on the Web. Specifically, GST first retrieves in-domain images through out-of-distribution detection and generates synthetic dialogs regarding the images via multimodal conditional text generation. GST then trains a dialog agent on the synthetic and the original VisDial data. As a result, GST scales the amount of training data up to an order of magnitude that of VisDial (1.2M → 12.9M QA data). For robust training of the synthetic dialogs, we also propose perplexity-based data selection and multimodal consistency regularization. Evaluation on VisDial v1.0 and v0.9 datasets shows that GST achieves new state-of-the-art results on both datasets. We further observe the robustness of GST against both visual and textual adversarial attacks. Finally, GST yields strong performance gains in the low-data regime.
                 </p>
             </div>
         </div>
 <br>
-        
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Visualization of the synthetic data
+                </h3>
+                <p class="text-justify"> The synthetic visual dialog data generated by our proposed models is shown below.
+                </p>
+                <image src="img/dialog.png" class="img-responsive"> 
+            </div>
+        </div>
+<br>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Experiments
+                </h3>
+                <p class="text-justify"> The student model trained on the synthetic visual dialog data achieves a new state-of-the-art performance on VisDial v0.9 and v1.0 datasets. Furthermore, the student model significantly improves the robustness against adversarial attacks compared with the teacher model. The teacher model is our baseline model which is not trained on the synthetic data.
+                </p>
+                <image src="img/sota.png" class="img-responsive">
+                <image src="img/adv.png" class="img-responsive">
+            </div>
+        </div>
+
+
+<br>        
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h3>
