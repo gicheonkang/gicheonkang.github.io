@@ -42,8 +42,8 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 
 # News
 
-- [Nov 2023] I'll give a talk at Dept. of Energy Resources Engineering at Seoul National University. The title is "The Evolution of Language Models:
-From Basic NLP to ChatGPT and Beyond".
+- [Nov 2023] I'll give a talk at Dept. of Energy Resources Engineering at Seoul National University (Title: "The Evolution of Language Models:
+From Basic NLP to ChatGPT and Beyond").
 - [Oct 2023] Two preprints (<a href="https://arxiv.org/abs/2309.07759">PROGrasp</a> and <a href="https://arxiv.org/abs/2310.12547">PGA</a>) are released! 
 - [Jun 2023] One paper is accepted to <a href="https://ieee-iros.org">IROS 2023</a>!
 - [Mar 2023] Happy to announce that <a href="https://arxiv.org/abs/2205.12502">our paper</a> is accepted to <a href="https://cvpr2023.thecvf.com">CVPR 2023</a>!
