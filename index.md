@@ -110,6 +110,7 @@ From Basic NLP to ChatGPT and Beyond").
         <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/GST-23-slide.pdf">Slides</a>
+        <a target="_blank" href="https://youtu.be/SrOzZRyqezs">Video</a>
     </span>
 </p>
 <img src="/img/gst_overview.gif">
