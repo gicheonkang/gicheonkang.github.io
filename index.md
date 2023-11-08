@@ -259,6 +259,9 @@ From Basic NLP to ChatGPT and Beyond").
 <div class="row">
     <div class="col-xs-12">
         <div class="talkt">
+            <b>Reviewing</b>
+        </div>
+        <div class="talkt">
             International Conference on Learning Representations (ICLR), 2024
         </div>
         <div class="talkt">
