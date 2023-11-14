@@ -124,6 +124,7 @@ From Basic NLP to ChatGPT and Beyond").
     <span class="conf">Oral Presentation</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
+        <a target="_blank" href="https://github.com/JHKim-snu/GVCCI">Code</a>
     </span>
 </p>
 <img src="/img/gvcci_overview.png">
