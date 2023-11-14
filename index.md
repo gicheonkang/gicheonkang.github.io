@@ -198,7 +198,7 @@ From Basic NLP to ChatGPT and Beyond").
 <p class="pubd">
     <span class="authors"><span class="u">Gi-Cheon Kang</span>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
     <span class="conf">EMNLP 2019</span><br>
-    <span class="conf">3rd Place in VisDial Challenge @ CVPR 2019</span>
+    <span class="conf">ICCV 2019 Video Turing Test Workshop (Spotlight Talk)</span>
     <span class="links">
         <a target="_blank" href="https://www.aclweb.org/anthology/D19-1209">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/DAN-VisDial">Code</a>
