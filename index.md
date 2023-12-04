@@ -42,6 +42,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 
 # News
 
+- [Dec 2023] I attend <a href="https://sites.google.com/g.skku.edu/brainlink2023/">Brainlink 2023</a>.
 - [Nov 2023] I'll give a talk at Dept. of Energy Resources Engineering at Seoul National University (Title: "The Evolution of Language Models:
 From Basic NLP to ChatGPT and Beyond").
 - [Oct 2023] Two preprints (<a href="https://arxiv.org/abs/2309.07759">PROGrasp</a> and <a href="https://arxiv.org/abs/2310.12547">PGA</a>) are released! 
