@@ -121,8 +121,7 @@ From Basic NLP to ChatGPT and Beyond").
 <h2 class="pubt">GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation</h2>
 <p class="pubd">
     <span class="authors">Junghyun Kim, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
-    <span class="conf">IROS 2023</span><br>
-    <span class="conf">Oral Presentation</span>
+    <span class="conf">IROS 2023 (Oral)</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
         <a target="_blank" href="https://github.com/JHKim-snu/GVCCI">Code</a>
