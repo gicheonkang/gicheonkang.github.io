@@ -31,7 +31,7 @@ Specific topics include: (i) robots performing the desired task through language
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
 
-Prior to joining Ph.D. program, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has sparked my interest in AI and interdisciplinary research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
+Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has sparked my interest in AI and interdisciplinary research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
 
 
 <p style='text-align:center; color:#9A2617; font-weight:bold'>I'm actively looking for Ph.D. internship positions in 2024! Please let me know if you have any opportunities for me.</p>
