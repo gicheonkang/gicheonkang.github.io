@@ -27,7 +27,7 @@ I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
 
-Specific topics include: (i) robots performing the desired task through language interaction ([arXiv'23][prograsp], [IROS'23][gvcci]), (ii) visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]), and (iii) other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).
+Specific topics include: (i) robots performing the desired task through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]), (ii) visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]), and (iii) other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
 
@@ -42,6 +42,7 @@ Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul Nat
 
 # News
 
+- [Jan 2024] <a href="https://arxiv.org/abs/2309.07759">PROGrasp</a> is accepted to <a href="https://2024.ieee-icra.org">ICRA 2024</a>!
 - [Dec 2023] I attend <a href="https://sites.google.com/g.skku.edu/brainlink2023/">Brainlink 2023</a>.
 - [Nov 2023] I'll give a talk at Dept. of Energy Resources Engineering at Seoul National University (Title: "The Evolution of Language Models:
 From Basic NLP to ChatGPT and Beyond").
@@ -273,10 +274,13 @@ From Basic NLP to ChatGPT and Beyond").
             Neural Information Processing Systems (NeurIPS), 2023
         </div>
         <div class="talkt">
-            Annual Meeting of the Association for Computational Linguistics (ACL), 2023
+            Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024
         </div>
         <div class="talkt">
             Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023
+        </div>
+        <div class="talkt">
+            ACL Rolling Review (ARR), 2024
         </div>
     </div>
 </div>
