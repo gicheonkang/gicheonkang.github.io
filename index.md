@@ -91,6 +91,7 @@ From Basic NLP to ChatGPT and Beyond").
 <h2 class="pubt">PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Gi-Cheon Kang</span>, Junghyun Kim, Jaein Kim, Byoung-Tak Zhang</span><br>
+    <span class="conf">ICRA 2024 (Oral)</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2309.07759">Paper</a>
     </span>
