@@ -218,10 +218,8 @@ From Basic NLP to ChatGPT and Beyond").
 <div class="row">
     <div class="col-xs-12">
         <div class="talkt">
-            The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond
-            <ul>
-                <li>Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)</li>
-            </ul>
+            The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond <br>
+            - Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
         </div>
     </div>
 </div>
