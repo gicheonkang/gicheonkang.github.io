@@ -263,7 +263,7 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-xs-12">
         <div class="talkt">
             <b>Reviewing</b><br>
-            (&#128997; = ML / &#129001; = NLP)
+            &#128997; = ML / &#129001; = NLP
         </div>
         <div class="talkt">
             &#128997; International Conference on Machine Learning (ICML), 2024
