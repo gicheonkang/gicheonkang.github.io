@@ -254,15 +254,13 @@ From Basic NLP to ChatGPT and Beyond").
 
 # Services
 
-<h2 class="pubt">Reviewing</h2>
-<ul>
-  <li>International Conference on Machine Learning (ICML), 2024</li>
-  <li>International Conference on Learning Representations (ICLR), 2024</li>
-  <li>Neural Information Processing Systems (NeurIPS), 2023</li>
-  <li>ACL Rolling Review (ARR), 2024</li>
-  <li>Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024</li>
-  <li>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023</li>
-</ul>
+- [ICML] International Conference on Machine Learning, 2024.
+- [ICLR] International Conference on Learning Representations 2024.
+- [NeurIPS] Neural Information Processing Systems 2023.
+- [ARR] ACL Rolling Review, 2024.
+- [ACL] Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024.
+- [EMNLP] Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023.
+
 
 <hr>
 
