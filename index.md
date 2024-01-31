@@ -216,37 +216,42 @@ From Basic NLP to ChatGPT and Beyond").
 # Invited Talks
 
 <div class="row">
-    <div class="col-xs-12">
-        <div class="talkt">
-            The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond <br>
-            - Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
-        </div>
+    <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond</h2>
+        <p class="talkd">
+            Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
+        </p>
+    </div>
+</div>
+         
+<div class="row">
+    <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
+        <p class="talkd">
+            IEEE RO-MAN Workshop on Learning by Asking for Intelligent Robots and Agents (Aug. 2023)
+        </p>
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
+        <p class="talkd">
+            KSC 2021 - Top-tier Conference Paper Presentation Session (Dec. 2021) <br>
+            Annual Conference on Human and Cognitive Language Technology (Oct. 2021)
+        </p>
+    </div>
+</div>
 
-<h2 class="pubt">The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond</h2>
-<ul>
-  <li>Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)</li>
-</ul>
-
-<h2 class="pubt">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
-<ul>
-  <li>IEEE RO-MAN Workshop on Learning by Asking for Intelligent Robots and Agents (Aug. 2023)</li>
-</ul>
-
-<h2 class="pubt">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
-<ul>
-  <li>KSC 2021 - Top-tier Conference Paper Presentation Session (Dec. 2021)</li>
-  <li>Annual Conference on Human and Cognitive Language Technology (Oct. 2021)</li>
-</ul>
-
-<h2 class="pubt">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</h2>
-<ul>
-  <li>ICCV 2019 - Video Turing Test Workshop (Spotlight Talk) (Nov. 2019)</li>
-  <li>SK Telecom AI Center (Sep. 2019)</li>
-</ul>
-
+<div class="row">
+    <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</h2>
+        <p class="talkd">
+            ICCV 2019 - Video Turing Test Workshop (Spotlight Talk) (Nov. 2019) <br>
+            SK Telecom AI Center (Sep. 2019)
+        </p>
+    </div>
+</div>
 <hr>
 
 
@@ -254,15 +259,34 @@ From Basic NLP to ChatGPT and Beyond").
 
 # Services
 
-- [ICML] International Conference on Machine Learning, 2024.
-- [ICLR] International Conference on Learning Representations 2024.
-- [NeurIPS] Neural Information Processing Systems 2023.
-- [ARR] ACL Rolling Review, 2024.
-- [ACL] Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024.
-- [EMNLP] Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023.
-
-
+<div class="row">
+    <div class="col-xs-12">
+        <div class="talkt">
+            <b>Reviewing</b><br>
+            (&#128997; = ML / &#129001; = NLP)
+        </div>
+        <div class="talkt">
+            &#128997; International Conference on Machine Learning (ICML), 2024
+        </div>
+        <div class="talkt">
+            &#128997; International Conference on Learning Representations (ICLR), 2024
+        </div>
+        <div class="talkt">
+            &#128997; Neural Information Processing Systems (NeurIPS), 2023
+        </div>
+        <div class="talkt">
+            &#129001; ACL Rolling Review (ARR), 2024
+        </div>
+        <div class="talkt">
+            &#129001; Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024
+        </div>
+        <div class="talkt">
+            &#129001; Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023
+        </div>
+    </div>
+</div>
 <hr>
+
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
     <tr>
