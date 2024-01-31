@@ -215,19 +215,27 @@ From Basic NLP to ChatGPT and Beyond").
 
 # Invited Talks
 
-The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond
-- Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
+<h2 class="pubt">The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond</h2>
+<ul>
+  <li>Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)</li>
+</ul>
 
-The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training
-- IEEE RO-MAN Workshop on Learning by Asking for Intelligent Robots and Agents (Aug. 2023)
+<h2 class="pubt">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
+<ul>
+  <li>IEEE RO-MAN Workshop on Learning by Asking for Intelligent Robots and Agents (Aug. 2023)</li>
+</ul>
 
-Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer
-- KSC 2021 - Top-tier Conference Paper Presentation Session (Dec. 2021)
-- Annual Conference on Human and Cognitive Language Technology (Oct. 2021)
+<h2 class="pubt">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
+<ul>
+  <li>KSC 2021 - Top-tier Conference Paper Presentation Session (Dec. 2021)</li>
+  <li>Annual Conference on Human and Cognitive Language Technology (Oct. 2021)</li>
+</ul>
 
-Dual Attention Networks for Visual Reference Resolution in Visual Dialog
-- ICCV 2019 - Video Turing Test Workshop (Spotlight Talk) (Nov. 2019)
-- SK Telecom AI Center (Sep. 2019)
+<h2 class="pubt">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</h2>
+<ul>
+  <li>ICCV 2019 - Video Turing Test Workshop (Spotlight Talk) (Nov. 2019)</li>
+  <li>SK Telecom AI Center (Sep. 2019)</li>
+</ul>
 
 <hr>
 
@@ -236,14 +244,15 @@ Dual Attention Networks for Visual Reference Resolution in Visual Dialog
 
 # Services
 
-<h2 class="talkt" style="font-weight:300;">Reviewing</h2>
-
-- International Conference on Machine Learning (ICML), 2024
-- International Conference on Learning Representations (ICLR), 2024
-- Neural Information Processing Systems (NeurIPS), 2023
-- ACL Rolling Review (ARR), 2024
-- Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024
-- Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023
+<h2 class="pubt">Reviewing</h2>
+<ul>
+  <li>International Conference on Machine Learning (ICML), 2024</li>
+  <li>International Conference on Learning Representations (ICLR), 2024</li>
+  <li>Neural Information Processing Systems (NeurIPS), 2023</li>
+  <li>ACL Rolling Review (ARR), 2024</li>
+  <li>Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024</li>
+  <li>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023</li>
+</ul>
 
 <hr>
 
