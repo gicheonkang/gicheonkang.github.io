@@ -215,43 +215,20 @@ From Basic NLP to ChatGPT and Beyond").
 
 # Invited Talks
 
-<div class="row">
-    <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;">The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond</h2>
-        <p class="talkd">
-            Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
-        </p>
-    </div>
-</div>
-         
-<div class="row">
-    <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
-        <p class="talkd">
-            IEEE RO-MAN Workshop on Learning by Asking for Intelligent Robots and Agents (Aug. 2023)
-        </p>
-    </div>
-</div>
+The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond
+- Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
 
-<div class="row">
-    <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
-        <p class="talkd">
-            KSC 2021 - Top-tier Conference Paper Presentation Session (Dec. 2021) <br>
-            Annual Conference on Human and Cognitive Language Technology (Oct. 2021)
-        </p>
-    </div>
-</div>
+The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training
+- IEEE RO-MAN Workshop on Learning by Asking for Intelligent Robots and Agents (Aug. 2023)
 
-<div class="row">
-    <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</h2>
-        <p class="talkd">
-            ICCV 2019 - Video Turing Test Workshop (Spotlight Talk) (Nov. 2019) <br>
-            SK Telecom AI Center (Sep. 2019)
-        </p>
-    </div>
-</div>
+Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer
+- KSC 2021 - Top-tier Conference Paper Presentation Session (Dec. 2021)
+- Annual Conference on Human and Cognitive Language Technology (Oct. 2021)
+
+Dual Attention Networks for Visual Reference Resolution in Visual Dialog
+- ICCV 2019 - Video Turing Test Workshop (Spotlight Talk) (Nov. 2019)
+- SK Telecom AI Center (Sep. 2019)
+
 <hr>
 
 
@@ -259,31 +236,15 @@ From Basic NLP to ChatGPT and Beyond").
 
 # Services
 
-<div class="row">
-    <div class="col-xs-12">
-        <div class="talkt">
-            <b>Reviewing</b>
-        </div>
-        <div class="talkt">
-            International Conference on Machine Learning (ICML), 2024
-        </div>
-        <div class="talkt">
-            International Conference on Learning Representations (ICLR), 2024
-        </div>
-        <div class="talkt">
-            Neural Information Processing Systems (NeurIPS), 2023
-        </div>
-        <div class="talkt">
-            Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024
-        </div>
-        <div class="talkt">
-            Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023
-        </div>
-        <div class="talkt">
-            ACL Rolling Review (ARR), 2024
-        </div>
-    </div>
-</div>
+<h2 class="talkt" style="font-weight:300;">Reviewing</h2>
+
+- International Conference on Machine Learning (ICML), 2024
+- International Conference on Learning Representations (ICLR), 2024
+- Neural Information Processing Systems (NeurIPS), 2023
+- ACL Rolling Review (ARR), 2024
+- Annual Meeting of the Association for Computational Linguistics (ACL), 2023-2024
+- Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023
+
 <hr>
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
