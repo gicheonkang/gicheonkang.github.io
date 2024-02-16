@@ -24,8 +24,8 @@ permalink:  /
 
 I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. Specific topics include: 
 
-- [Embodied AI][embodied_ai]: Robots doing real-world tasks through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]) 
-- [Multimodal AI][multimodal_ai]: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
+- **[Embodied AI][embodied_ai]**: Robots doing real-world tasks through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]) 
+- **[Multimodal AI][multimodal_ai]**: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
 - Other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).    
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
