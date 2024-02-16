@@ -24,8 +24,8 @@ permalink:  /
 
 I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. Specific topics include: 
 
-- Embodied AI: Robots doing real-world tasks through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]) 
-- Multimodal AI: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
+- [Embodied AI][embodied_ai]: Robots doing real-world tasks through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]) 
+- [Multimodal AI][multimodal_ai]: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
 - Other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).    
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
@@ -316,6 +316,8 @@ From Basic NLP to ChatGPT and Beyond").
 [3]: https://bi.snu.ac.kr/~btzhang/
 [4]: https://gicheonkang.com
 [5]: http://www.ajou.ac.kr/en/
+[embodied_ai]: https://embodied-ai.org
+[multimodal_ai]: https://arxiv.org/abs/2309.10020
 [gvcci]: https://arxiv.org/abs/2307.05963
 [prograsp]: https://arxiv.org/abs/2309.07759
 [gst]: https://arxiv.org/abs/2205.12502
