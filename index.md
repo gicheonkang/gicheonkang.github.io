@@ -22,12 +22,11 @@ permalink:  /
 
 # Bio
 
-I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. Especially, I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. The long-term goal of my research is to build machines that can
-- perceive their everyday surroundings through vision or other senses,
-- communicate with humans via grounded natural language,
-- make reliable decisions using language, vision, etc.    
+I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. Specific topics include: 
 
-Specific topics include: (i) robots performing the desired task through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]), (ii) visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]), and (iii) other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).
+- **Embodied AI**: Agents performing the real-world tasks through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]) 
+- **Multimodal AI**: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
+- Other important topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).    
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
 
