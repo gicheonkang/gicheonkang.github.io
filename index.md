@@ -262,16 +262,16 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-xs-12">
         <div class="talkt">
             <b>Reviewing</b><br>
-            &#128997; = ML / &#129001; = NLP
+            &#128998; = ML / &#129001; = NLP / &#129000; = Workshops
         </div>
         <div class="talkt">
-            &#128997; International Conference on Machine Learning (ICML), 2024
+            &#128998; International Conference on Machine Learning (ICML), 2024
         </div>
         <div class="talkt">
-            &#128997; International Conference on Learning Representations (ICLR), 2024
+            &#128998; International Conference on Learning Representations (ICLR), 2024
         </div>
         <div class="talkt">
-            &#128997; Neural Information Processing Systems (NeurIPS), 2023
+            &#128998; Neural Information Processing Systems (NeurIPS), 2023
         </div>
         <div class="talkt">
             &#129001; ACL Rolling Review (ARR), 2024
@@ -281,6 +281,12 @@ From Basic NLP to ChatGPT and Beyond").
         </div>
         <div class="talkt">
             &#129001; Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023
+        </div>
+        <div class="talkt">
+            &#129000; ICLR Workshop on Reliable and Responsible Foundation Models, 2024
+        </div>
+        <div class="talkt">
+            &#129000; ICML Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward, 2022
         </div>
     </div>
 </div>
