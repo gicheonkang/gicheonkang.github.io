@@ -41,6 +41,7 @@ Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul Nat
 
 # News
 
+- [Mar 2024] I wrote my <a target="_blank" href="docs/Research_Statement_GCKANG.pdf">research statement</a> about what I've been studying.  
 - [Jan 2024] <a href="https://arxiv.org/abs/2309.07759">PROGrasp</a> is accepted to <a href="https://2024.ieee-icra.org">ICRA 2024</a>!
 - [Dec 2023] I attend <a href="https://sites.google.com/g.skku.edu/brainlink2023/">Brainlink 2023</a>.
 - [Nov 2023] I'll give a talk at Dept. of Energy Resources Engineering at Seoul National University (Title: "The Evolution of Language Models:
