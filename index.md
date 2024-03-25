@@ -42,6 +42,7 @@ Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul Nat
 # News
 
 - [Mar 2024] I wrote my <a target="_blank" href="docs/Research_Statement_GCKANG.pdf">research statement</a> about what I've been studying.  
+- [Mar 2024] A new preprint (<a href="https://arxiv.org/abs/2403.15049">Continual Vision-and-Language Navigation</a>) is released.
 - [Jan 2024] <a href="https://arxiv.org/abs/2309.07759">PROGrasp</a> is accepted to <a href="https://2024.ieee-icra.org">ICRA 2024</a>!
 - [Dec 2023] I attend <a href="https://sites.google.com/g.skku.edu/brainlink2023/">Brainlink 2023</a>.
 - [Nov 2023] I'll give a talk at Dept. of Energy Resources Engineering at Seoul National University (Title: "The Evolution of Language Models:
@@ -76,6 +77,17 @@ From Basic NLP to ChatGPT and Beyond").
 <a name="/publications"></a>
 
 # Publications
+
+<a name="/cvln"></a>
+<h2 class="pubt">Continual Vision-and-Language Navigation</h2>
+<p class="pubd">
+    <span class="authors">Seongjun Jeong, <span class="u">Gi-Cheon Kang</span>, Seongho Choi, Joochan Kim, Byoung-Tak Zhang</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2403.15049">Paper</a>
+    </span>
+</p>
+<img src="/img/cvln_overview.png">
+<hr>
 
 <a name="/pga"></a>
 <h2 class="pubt">PGA: Personalizing Grasping Agents with Single Human-Robot Interaction</h2>
