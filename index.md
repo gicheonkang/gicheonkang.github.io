@@ -264,7 +264,7 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-xs-12">
         <div class="talkt">
             <b>Reviewing</b><br>
-            &#128997; = ML / &#129001; = NLP / &#129000; = Workshops
+            &#128997; = ML / &#129001; = NLP / &#128998; = Robotics / &#129000; = Workshops
         </div>
         <div class="talkt">
             &#128997; International Conference on Machine Learning (ICML), 2024
@@ -283,6 +283,9 @@ From Basic NLP to ChatGPT and Beyond").
         </div>
         <div class="talkt">
             &#129001; Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023
+        </div>
+        <div class="talkt">
+            &#128998; IEEE Robotics and Automation Letters (RA-L), 2024
         </div>
         <div class="talkt">
             &#129000; ICLR Workshop on Reliable and Responsible Foundation Models, 2024
