@@ -300,6 +300,9 @@ From Basic NLP to ChatGPT and Beyond").
             &#128998; IEEE Robotics and Automation Letters (RA-L), 2024
         </div>
         <div class="talkt">
+            &#128998; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
+        </div>
+        <div class="talkt">
             &#129000; ICLR Workshop on Reliable and Responsible Foundation Models, 2024
         </div>
         <div class="talkt">
