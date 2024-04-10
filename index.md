@@ -279,13 +279,13 @@ From Basic NLP to ChatGPT and Beyond").
             &#128997; = ML / &#129001; = NLP / &#128998; = Robotics / &#129000; = Workshops
         </div>
         <div class="talkt">
+            &#128997; Neural Information Processing Systems (NeurIPS), 2023
+        </div>
+        <div class="talkt">
             &#128997; International Conference on Machine Learning (ICML), 2024
         </div>
         <div class="talkt">
             &#128997; International Conference on Learning Representations (ICLR), 2024
-        </div>
-        <div class="talkt">
-            &#128997; Neural Information Processing Systems (NeurIPS), 2023
         </div>
         <div class="talkt">
             &#129001; ACL Rolling Review (ARR), 2024
