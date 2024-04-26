@@ -41,7 +41,7 @@ Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul Nat
 
 # News
 
-- [Apr 2024] A new for embodied instruction following (<a href="https://arxiv.org/abs/2404.15190">Socratic Planner</a>) is released.
+- [Apr 2024] A preprint for embodied instruction following (<a href="https://arxiv.org/abs/2404.15190">Socratic Planner</a>) is released.
 - [Mar 2024] I wrote my <a target="_blank" href="docs/Research_Statement_GCKANG.pdf">research statement</a> about what I've been studying.  
 - [Mar 2024] A new preprint (<a href="https://arxiv.org/abs/2403.15049">Continual Vision-and-Language Navigation</a>) is released.
 - [Jan 2024] <a href="https://arxiv.org/abs/2309.07759">PROGrasp</a> is accepted to <a href="https://2024.ieee-icra.org">ICRA 2024</a>!
