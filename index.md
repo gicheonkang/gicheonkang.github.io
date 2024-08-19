@@ -41,6 +41,7 @@ Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul Nat
 
 # News
 
+- [Aug 2024] Awarded the Youlchon AI Star Fellowship.
 - [Jun 2024] <a href="https://arxiv.org/abs/2310.12547">PGA</a> is accepted at <a href="https://iros2024-abudhabi.org">IROS 2024</a>.
 - [Apr 2024] A preprint for embodied instruction following (<a href="https://arxiv.org/abs/2404.15190">Socratic Planner</a>) is released.
 - [Mar 2024] I wrote my <a target="_blank" href="docs/Research_Statement_GCKANG.pdf">research statement</a> about what I've been studying.  
