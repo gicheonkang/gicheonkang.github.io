@@ -28,7 +28,7 @@ I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National
 - **[Multimodal AI][multimodal_ai]**: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
 - Other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).    
 
-I was fortunate to collaborate with researchers in NAVER and SK Telecom.
+My PhD research has been supported by fellowships from [Youlchon Foundation][youlchon] and [IPAI][ipai]. I was fortunate to collaborate with researchers in NAVER AI and SK T-Brain.
 
 Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has sparked my interest in AI and interdisciplinary research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
 
@@ -379,4 +379,6 @@ From Basic NLP to ChatGPT and Beyond").
 [dan]: https://www.aclweb.org/anthology/D19-1209
 [lpart]: https://arxiv.org/abs/2005.02137
 [c3]: https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf
-[sfa]: https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf 
+[sfa]: https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf
+[youlchon]: https://eng.nongshim.com/sustainability/people/youlchon
+[ipai]: https://gsai.snu.ac.kr/en/ 
