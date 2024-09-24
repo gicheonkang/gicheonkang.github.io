@@ -8,7 +8,7 @@ permalink:  /
     <div class="col-sm-6 col-xs-12"">
         <img src="/img/cover2.jpg" class="profile">
     </div>
-    <div class="col-sm-6 col-xs-12" style="margin-bottom: 0; margin-left: -50px;">
+    <div class="col-sm-6 col-xs-12" style="margin-left: -30px;">
         Ph.D. Student<br>
         Graduate School of AI<br>
         Seoul National University<br>
