@@ -5,10 +5,10 @@ permalink:  /
 ---
 
 <div class="row">
-    <div class="col-md-5 col-sm-7 col-14">
+    <div class="col-md-4 col-sm-6 col-12">
         <img src="/img/cover2.jpg" class="profile">
     </div>
-    <div class="col-md-9 col-sm-7 col-14" style="margin-bottom: 0;">
+    <div class="col-md-8 col-sm-6 col-12" style="margin-bottom: 0;">
         Ph.D. Student<br>
         Graduate School of AI<br>
         Seoul National University<br>
