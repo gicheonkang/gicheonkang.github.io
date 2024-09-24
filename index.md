@@ -82,6 +82,24 @@ From Basic NLP to ChatGPT and Beyond").
 # Publications
 
 <a name="/socplnr"></a>
+<div class="row">
+    <div class="col-md-4 col-sm-6 col-12">
+        <img src="/img/socratic_overview.png">
+    </div>
+    <div class="col-md-8 col-sm-6 col-12" style="margin-bottom: 0;">
+        <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
+        <p class="pubd">
+            <span class="authors">Suyeon Shin, Sujin jeon<sup>*</sup>, Junghyun Kim<sup>*</sup>, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Byoung-Tak Zhang</span><br>
+            <span class="links">
+                <a target="_blank" href="https://arxiv.org/abs/2404.15190">Paper</a>
+            </span>
+        </p>
+    </div>
+</div>
+<hr>
+
+
+
 <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
 <p class="pubd">
     <span class="authors">Suyeon Shin, Sujin jeon<sup>*</sup>, Junghyun Kim<sup>*</sup>, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Byoung-Tak Zhang</span><br>
