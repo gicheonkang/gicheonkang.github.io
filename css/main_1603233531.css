@@ -448,8 +448,8 @@ span.u {
 }
 
 .profile {
-  max-width: 310px;
-  max-height: 353px;
+  max-width: 200px;
+  height: auto;
 }
 
 /* Syntax highlighting styles */
