@@ -56,5 +56,111 @@ permalink:  /publications/
 <hr>
 
 <a name="/gst"></a>
+<h2 class="pubt">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
+<p class="pubd">
+    <span class="authors"><span class="u">Gi-Cheon Kang</span>, Sungdong Kim<sup>*</sup>, Jin-Hwa Kim<sup>*</sup>, Donghyun Kwak<sup>*</sup>, Byoung-Tak Zhang</span><br>
+    <span class="conf">CVPR 2023</span><br>
+    <span class="conf">ICML 2022 Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward</span>
+    <span class="links">
+        <a target="_blank" href="https://gicheonkang.com/projects/gst/">Project Page</a>
+        <a target="_blank" href="https://arxiv.org/abs/2205.12502">Paper</a>
+        <a target="_blank" href="https://github.com/gicheonkang/gst-visdial">Code</a>
+        <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/GST-23-slide.pdf">Slides</a>
+        <a target="_blank" href="https://youtu.be/SrOzZRyqezs">Video</a>
+    </span>
+</p>
+<img src="/img/gst_overview.gif">
+<hr>
+
+<a name="/gvcci"></a>
+<h2 class="pubt">GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation</h2>
+<p class="pubd">
+    <span class="authors">Junghyun Kim, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
+    <span class="conf">IROS 2023 (Oral)</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
+        <a target="_blank" href="https://github.com/JHKim-snu/GVCCI">Code</a>
+    </span>
+</p>
+<img src="/img/gvcci_overview.png">
+<hr>
+
+<a name="/sfa"></a>
+<h2 class="pubt">Improving Robustness to Texture Bias via Shape-focused Augmentation</h2>
+<p class="pubd">
+    <span class="authors">Sangjun Lee, Inwoo Hwang, <span class="u">Gi-Cheon Kang</span>, Byoung-Tak Zhang</span><br>
+    <span class="conf">CVPR 2022 Workshop on Human-centered Intelligent Services: Safety and Trustworthy</span>
+    <span class="links">
+        <a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf">Paper</a>
+    </span>
+</p>
+<img src="/img/sfa_overview.png">
+<hr>
+
+<a name="/sglkt"></a>
+<h2 class="pubt">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
+<p class="pubd">
+    <span class="authors"><span class="u">Gi-Cheon Kang</span>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang<sup>*</sup>, Jin-Hwa Kim<sup>*</sup></span><br>
+    <span class="conf">EMNLP 2021 Findings</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2004.06698">Paper</a>
+        <a target="_blank" href="https://github.com/gicheonkang/sglkt-visdial">Code</a>
+        <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/SGLKT-21-slide.pdf">Slides</a>
+    </span>
+</p>
+<img src="/img/sglkt_overview.png">
+<hr>
+
+<a name="/masn"></a>
+<h2 class="pubt">Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering</h2>
+<p class="pubd">
+    <span class="authors">Ahjeong Seo, <span class="u">Gi-Cheon Kang</span>, Joonhan Park, Byoung-Tak Zhang</span><br>
+    <span class="conf">ACL 2021</span>
+    <span class="links">
+        <a target="_blank" href="https://aclanthology.org/2021.acl-long.481">Paper</a>
+        <a target="_blank" href="https://github.com/ahjeongseo/MASN-pytorch">Code</a>
+    </span>
+</p>
+<img src="/img/masn_overview.png">
+<hr>
+
+<a name="/c3"></a>
+<h2 class="pubt">C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</h2>
+<p class="pubd">
+    <span class="authors">Hyukgi Lee, <span class="u">Gi-Cheon Kang</span>, Chang-Hoon Jeong, Hanwool Sul, Byoung-Tak Zhang</span><br>
+    <span class="conf">NeurIPS 2021 Workshop on Controllable Generative Modeling in Language and Vision</span>
+    <span class="links">
+        <a target="_blank" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a>
+    </span>
+</p>
+<img src="/img/c3_overview.png">
+<hr>
+
+<a name="/lpart"></a>
+<h2 class="pubt">Label Propagation Adaptive Resonance Theory for Semi-Supervised Continuous Learning</h2>
+<p class="pubd">
+    <span class="authors">Taehyeong Kim, Injune Hwang, <span class="u">Gi-Cheon Kang</span>, Won-Seok Choi, Hyunseo Kim, Byoung-Tak Zhang</span><br>
+    <span class="conf">ICASSP 2020</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2005.02137">Paper</a>
+    </span>
+</p>
+<img src="/img/lpart_overview.png">
+<hr>
+
+<a name="/dan"></a>
+<h2 class="pubt">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</h2>
+<p class="pubd">
+    <span class="authors"><span class="u">Gi-Cheon Kang</span>, Jaeseo Lim, Byoung-Tak Zhang</span><br>
+    <span class="conf">EMNLP 2019</span><br>
+    <span class="conf">ICCV 2019 Workshop on Video Turing Test (Spotlight Talk)</span>
+    <span class="links">
+        <a target="_blank" href="https://www.aclweb.org/anthology/D19-1209">Paper</a>
+        <a target="_blank" href="https://github.com/gicheonkang/DAN-VisDial">Code</a>
+        <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a>        
+    </span>
+</p>
+<img src="/img/dan_overview.jpg">
+<hr>
 
 
