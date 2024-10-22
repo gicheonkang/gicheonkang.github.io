@@ -5,6 +5,15 @@ permalink:  /publications/
 ---
 
 
+<a name="/cliprt"></a>
+<h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
+<p class="pubd">
+    <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
+</p>
+<img src="/img/cliprt_overview.png">
+<hr>
+
 
 <a name="/socplnr"></a>
 <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>

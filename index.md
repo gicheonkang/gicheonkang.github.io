@@ -24,7 +24,7 @@ permalink:  /
 
 I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. Specific topics include: 
 
-- **[Embodied AI][embodied_ai]**: Robots doing real-world tasks via language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]) 
+- **[Embodied AI][embodied_ai]**: Robots learning policies from natural language ([CoRLW'24][cliprt]) or doing real-world tasks via language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]). 
 - **[Multimodal AI][multimodal_ai]**: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
 - Other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).    
 
@@ -78,6 +78,7 @@ From Basic NLP to ChatGPT and Beyond").
 
 
 # Highlights
+
 
 
 <a name="/cliprt"></a>
@@ -266,4 +267,5 @@ From Basic NLP to ChatGPT and Beyond").
 [c3]: https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf
 [sfa]: https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf
 [youlchon]: https://eng.nongshim.com/sustainability/people/youlchon
-[ipai]: https://gsai.snu.ac.kr/en/ 
+[ipai]: https://gsai.snu.ac.kr/en/
+[cliprt]: https://openreview.net/pdf?id=yTxAvsW6DP 
