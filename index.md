@@ -12,7 +12,7 @@ permalink:  /
         Ph.D. Student<br>
         Graduate School of AI<br>
         Seoul National University<br>
-        <a target="_blank" href="mailto:gchnkang@gmail.com">gchnkang at gmail dot com</a>
+        <a target="_blank" href="mailto:chonkang@snu.ac.kr">chonkang at snu dot ac dot kr</a>
     </div>
 </div>
 <hr>
@@ -76,8 +76,6 @@ From Basic NLP to ChatGPT and Beyond").
 
 <hr>
 
-
-<a name="/publications"></a>
 
 # Publications
 
