@@ -101,7 +101,7 @@ From Basic NLP to ChatGPT and Beyond").
         <a target="_blank" href="https://github.com/gicheonkang/prograsp">Code</a>
     </span>
 </p>
-<video playsinline autoplay muted loop style="width: 90%" class="webby">
+<video playsinline autoplay muted loop style="width: 100%" class="webby">
     <source src="/img/prograsp_overview.mp4" type="video/mp4"></source>
 </video>
 <hr>
