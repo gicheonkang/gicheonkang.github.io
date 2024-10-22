@@ -86,6 +86,8 @@ From Basic NLP to ChatGPT and Beyond").
     <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
     <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
 </p>
+<img src="/img/cliprt_overview.gif">
+<hr>
 
 
 <a name="prograsp"></a>
