@@ -91,7 +91,9 @@ From Basic NLP to ChatGPT and Beyond").
         <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
     </span>
 </p>
-<img src="/img/cliprt_overview.png">
+<video playsinline autoplay muted loop style="width: 100%" class="webby">
+    <source src="/img/cliprt_overview.mp4" type="video/mp4"></source>
+</video>
 <hr>
 
 
