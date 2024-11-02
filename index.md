@@ -41,6 +41,7 @@ Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul Nat
 
 # News
 
+- [Nov 2024] Happy to release a new robotics foundation model, <a href="https://clip-rt.github.io">CLIP-RT</a>!
 - [Aug 2024] I'm selected as a recipient of the Youlchon AI Star Fellowship.
 - [Jun 2024] <a href="https://arxiv.org/abs/2310.12547">PGA</a> is accepted at <a href="https://iros2024-abudhabi.org">IROS 2024</a>.
 - [Apr 2024] A preprint for embodied instruction following (<a href="https://arxiv.org/abs/2404.15190">Socratic Planner</a>) is released.
@@ -86,6 +87,9 @@ From Basic NLP to ChatGPT and Beyond").
 <p class="pubd">
     <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
     <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
+    <span class="links">
+        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
+    </span>
 </p>
 <img src="/img/cliprt_overview.png">
 <hr>
@@ -268,4 +272,4 @@ From Basic NLP to ChatGPT and Beyond").
 [sfa]: https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf
 [youlchon]: https://eng.nongshim.com/sustainability/people/youlchon
 [ipai]: https://gsai.snu.ac.kr/en/
-[cliprt]: https://openreview.net/pdf?id=yTxAvsW6DP 
+[cliprt]: https://clip-rt.github.io
