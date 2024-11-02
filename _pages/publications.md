@@ -10,8 +10,10 @@ permalink:  /publications/
 <p class="pubd">
     <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
     <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
+    <span class="links">
+        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
+    </span>
 </p>
-<img src="/img/cliprt_overview.png">
 <hr>
 
 
@@ -23,7 +25,6 @@ permalink:  /publications/
         <a target="_blank" href="https://arxiv.org/abs/2404.15190">Paper</a>
     </span>
 </p>
-<img src="/img/socratic_overview.png">
 <hr>
 
 <a name="/cvln"></a>
@@ -34,7 +35,6 @@ permalink:  /publications/
         <a target="_blank" href="https://arxiv.org/abs/2403.15049">Paper</a>
     </span>
 </p>
-<img src="/img/cvln_overview.png">
 <hr>
 
 <a name="/pga"></a>
@@ -46,7 +46,6 @@ permalink:  /publications/
         <a target="_blank" href="https://arxiv.org/abs/2310.12547">Paper</a>
     </span>
 </p>
-<img src="/img/pga_overview.png">
 <hr>
 
 <a name="prograsp"></a>
@@ -59,9 +58,6 @@ permalink:  /publications/
         <a target="_blank" href="https://github.com/gicheonkang/prograsp">Code</a>
     </span>
 </p>
-<video playsinline autoplay muted loop style="width: 90%" class="webby">
-    <source src="/img/prograsp_overview.mp4" type="video/mp4"></source>
-</video>
 <hr>
 
 <a name="/gst"></a>
@@ -78,7 +74,6 @@ permalink:  /publications/
         <a target="_blank" href="https://youtu.be/SrOzZRyqezs">Video</a>
     </span>
 </p>
-<img src="/img/gst_overview.gif">
 <hr>
 
 <a name="/gvcci"></a>
@@ -91,7 +86,6 @@ permalink:  /publications/
         <a target="_blank" href="https://github.com/JHKim-snu/GVCCI">Code</a>
     </span>
 </p>
-<img src="/img/gvcci_overview.png">
 <hr>
 
 <a name="/sfa"></a>
@@ -103,7 +97,6 @@ permalink:  /publications/
         <a target="_blank" href="https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf">Paper</a>
     </span>
 </p>
-<img src="/img/sfa_overview.png">
 <hr>
 
 <a name="/sglkt"></a>
@@ -117,7 +110,6 @@ permalink:  /publications/
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/docs/SGLKT-21-slide.pdf">Slides</a>
     </span>
 </p>
-<img src="/img/sglkt_overview.png">
 <hr>
 
 <a name="/masn"></a>
@@ -130,7 +122,6 @@ permalink:  /publications/
         <a target="_blank" href="https://github.com/ahjeongseo/MASN-pytorch">Code</a>
     </span>
 </p>
-<img src="/img/masn_overview.png">
 <hr>
 
 <a name="/c3"></a>
@@ -142,7 +133,6 @@ permalink:  /publications/
         <a target="_blank" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf">Paper</a>
     </span>
 </p>
-<img src="/img/c3_overview.png">
 <hr>
 
 <a name="/lpart"></a>
@@ -154,7 +144,6 @@ permalink:  /publications/
         <a target="_blank" href="https://arxiv.org/abs/2005.02137">Paper</a>
     </span>
 </p>
-<img src="/img/lpart_overview.png">
 <hr>
 
 <a name="/dan"></a>
@@ -169,7 +158,6 @@ permalink:  /publications/
         <a target="_blank" href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gicheonkang/gicheonkang.github.io/master/files/DAN-19-slide.pdf">Slides</a>        
     </span>
 </p>
-<img src="/img/dan_overview.jpg">
 <hr>
 
 
