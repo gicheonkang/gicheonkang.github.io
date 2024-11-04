@@ -89,6 +89,7 @@ From Basic NLP to ChatGPT and Beyond").
     <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
     <span class="links">
         <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
+        <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
     </span>
 </p>
 <video playsinline autoplay muted loop style="width: 100%" class="webby">
