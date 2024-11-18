@@ -80,6 +80,7 @@ From Basic NLP to ChatGPT and Beyond").
 
 # Highlights
 
+<a href="/#/publications">Here</a> is a full list of papers. <br>
 
 
 <a name="/cliprt"></a>

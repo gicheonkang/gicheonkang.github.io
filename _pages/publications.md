@@ -4,23 +4,11 @@ title:      Publications
 permalink:  /publications/
 ---
 
-
-<a name="/cliprt"></a>
-<h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
-<p class="pubd">
-    <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
-    <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
-    <span class="links">
-        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
-    </span>
-</p>
-<hr>
-
-
 <a name="/socplnr"></a>
 <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
 <p class="pubd">
     <span class="authors">Suyeon Shin, Sujin jeon<sup>*</sup>, Junghyun Kim<sup>*</sup>, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Byoung-Tak Zhang</span><br>
+    <span class="conf">arXiv preprint</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2404.15190">Paper</a>
     </span>
@@ -31,11 +19,26 @@ permalink:  /publications/
 <h2 class="pubt">Continual Vision-and-Language Navigation</h2>
 <p class="pubd">
     <span class="authors">Seongjun Jeong, <span class="u">Gi-Cheon Kang</span>, Seongho Choi, Joochan Kim, Byoung-Tak Zhang</span><br>
+    <span class="conf">arXiv preprint</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2403.15049">Paper</a>
     </span>
 </p>
 <hr>
+
+
+<a name="/cliprt"></a>
+<h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
+<p class="pubd">
+    <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
+    <span class="links">
+        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
+        <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
+    </span>
+</p>
+<hr>
+
 
 <a name="/pga"></a>
 <h2 class="pubt">PGA: Personalizing Grasping Agents with Single Human-Robot Interaction</h2>
