@@ -78,11 +78,7 @@ From Basic NLP to ChatGPT and Beyond").
 <hr>
 
 
-# Highlights
-
-<div style="float: right; margin-left: 10px;">
-    (<a href="/publications">All Papers</a>)
-</div>
+# Highlights <span style="font-size: 16px; display: inline;">(All paper are <a href="/publications">here</a>)</span>
 
 
 <a name="/cliprt"></a>
