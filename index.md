@@ -80,7 +80,9 @@ From Basic NLP to ChatGPT and Beyond").
 
 # Highlights
 
-<a href="/publications">Here</a> is a full list of papers. <br>
+<div style="float: right; margin-left: 10px;">
+    (<a href="/publications">All Papers</a>)
+</div>
 
 
 <a name="/cliprt"></a>
