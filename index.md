@@ -22,7 +22,7 @@ permalink:  /
 
 # Bio
 
-I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. Specific topics include: 
+I am a final-year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. Specific topics include: 
 
 - **[Embodied AI][embodied_ai]**: Vision-language-action (VLA) models for generalist manipulation policies ([CoRLW'24][cliprt]) or robots doing real-world tasks through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]).
 - **[Multimodal AI][multimodal_ai]**: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
@@ -33,7 +33,7 @@ My PhD research has been supported by fellowships from [Youlchon Foundation][you
 Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has sparked my interest in AI and interdisciplinary research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
 
 
-<!-- <p style='text-align:center; color:#9A2617; font-weight:bold'>I'm actively looking for Ph.D. internship positions in 2024! Please let me know if you have any opportunities for me.</p> -->
+<p style='text-align:center; color:#9A2617; font-weight:bold'>I'm on the job market! Please let me know if you have any opportunities for me.</p>
 
 ---
 
