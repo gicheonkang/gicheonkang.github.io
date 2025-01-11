@@ -78,7 +78,7 @@ From Basic NLP to ChatGPT and Beyond").
 <hr>
 
 
-# Research Highlights <span style="font-size: 16px; display: inline;">(<a href="/publications">Here</a> are all papers)</span>
+# Highlights <span style="font-size: 16px; display: inline;">(<a href="/publications">Here</a> are all papers)</span>
 
 
 <a name="/cliprt"></a>
