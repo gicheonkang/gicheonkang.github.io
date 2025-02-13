@@ -9,7 +9,7 @@ permalink:  /
         <img src="/img/cover2.jpg" class="profile">
     </div>
     <div class="col-md-8 col-sm-6 col-12" style="margin-bottom: 0;">
-        Ph.D. Student<br>
+        PhD Student<br>
         Graduate School of AI<br>
         Seoul National University<br>
         <a target="_blank" href="mailto:chonkang@snu.ac.kr">chonkang at snu dot ac dot kr</a>
@@ -22,15 +22,14 @@ permalink:  /
 
 # Bio
 
-I am a final-year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. Specific topics include: 
+I am a final-year PhD student in AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research is at the intersection of robot learning and natural language processing, where I explore using language to teach robots and enhance human-robot interaction. Specific topics include: 
 
-- **[Embodied AI][embodied_ai]**: Vision-language-action (VLA) models for generalist manipulation policies ([CoRLW'24][cliprt]) or robots doing real-world tasks through language interaction ([ICRA'24][prograsp], [IROS'23][gvcci]).
-- **[Multimodal AI][multimodal_ai]**: Vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
-- Other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).    
+- **Language-driven robotics**: Developing (1) vision-language-action (VLA) models that learn visuomotor policies from natural language supervision ([CoRLW'24][cliprt]) or robots that perform real-world tasks through language interaction with humans ([ICRA'24][prograsp], [IROS'24][pga], [IROS'23][gvcci]).
+- **Visually-grounded interaction**: Building vision-language models (VLMs) that can continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn])
 
 My PhD research has been supported by fellowships from [Youlchon Foundation][youlchon] and [IPAI][ipai]. I was fortunate to collaborate with researchers in NAVER AI and SK T-Brain.
 
-Prior to joining Ph.D., I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has sparked my interest in AI and interdisciplinary research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
+Prior to joining PhD, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has sparked my interest in AI and interdisciplinary research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
 
 
 <p style='text-align:center; color:#9A2617; font-weight:bold'>I'm on the job market! Please let me know if you have any opportunities for me.</p>
@@ -278,3 +277,4 @@ From Basic NLP to ChatGPT and Beyond").
 [youlchon]: https://eng.nongshim.com/sustainability/people/youlchon
 [ipai]: https://gsai.snu.ac.kr/en/
 [cliprt]: https://clip-rt.github.io
+[pga]: https://arxiv.org/abs/2310.12547
