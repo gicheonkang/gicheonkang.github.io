@@ -25,7 +25,7 @@ permalink:  /
 I am a final-year PhD student in AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research lies at the intersection of robot learning and natural language processing, where I explore how language can be used to teach robots and improve human-robot interaction. Specific topics include: 
 
 - **Language-driven robotics**: Developing (1) vision-language-action (VLA) models that learn visuomotor policies from language supervision ([CoRLW'24][cliprt]) and (2) robots that perform real-world tasks through language interaction with humans ([ICRA'24][prograsp], [IROS'24][pga], [IROS'23][gvcci]).
-- **Grounded interaction**: Building vision-language models (VLMs) that continuously communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn]).
+- **Grounded interaction**: Building vision-language models (VLMs) that communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn]).
 
 My PhD research has been supported by fellowships from [Youlchon Foundation][youlchon] and [IPAI][ipai]. I was fortunate to collaborate with researchers in NAVER AI and SK T-Brain.
 
