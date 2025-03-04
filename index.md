@@ -259,7 +259,7 @@ From Basic NLP to ChatGPT and Beyond").
 
 [1]: http://en.snu.ac.kr
 [2]: https://aiis.snu.ac.kr/eng/
-[3]: https://bi.snu.ac.kr/~btzhang/
+[3]: https://scholar.google.com/citations?user=sYTUOu8AAAAJ&hl=en
 [4]: https://gicheonkang.com
 [5]: http://www.ajou.ac.kr/en/
 [embodied_ai]: https://embodied-ai.org
