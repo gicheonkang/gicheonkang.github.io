@@ -9,8 +9,8 @@ permalink:  /
         <img src="/img/cover2.jpg" class="profile">
     </div>
     <div class="col-md-8 col-sm-6 col-12" style="margin-bottom: 0;">
-        PhD Student<br>
-        Graduate School of AI<br>
+        Researcher<br>
+        AI Institute<br>
         Seoul National University<br>
         <a target="_blank" href="mailto:chonkang@snu.ac.kr">chonkang at snu dot ac dot kr</a>
     </div>
@@ -22,15 +22,14 @@ permalink:  /
 
 # Bio
 
-I am a final-year PhD student in AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research lies at the intersection of robot learning and natural language processing, where I explore how language can be used to teach robots and improve human-robot interaction. Specific topics include: 
+I recently received my PhD in AI from [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research lies at the intersection of robot learning and natural language processing, where I explore how language can be used to teach robots and improve human-robot interaction. Specific topics include: 
 
 - **Language-driven robotics**: Developing (1) vision-language-action (VLA) models that learn visuomotor policies from language supervision ([CoRLW'24][cliprt]) and (2) robots that perform real-world tasks through language interaction with humans ([ICRA'24][prograsp], [IROS'24][pga], [IROS'23][gvcci]).
-- **Grounded interaction**: Building vision-language models (VLMs) that communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn]).
+- **Vision & language**: Building interactive vision-language models (VLMs) that communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn]).
 
 My PhD research has been supported by fellowships from [Youlchon Foundation][youlchon] and [IPAI][ipai]. I was fortunate to collaborate with researchers in NAVER AI and SK T-Brain.
 
 Prior to joining PhD, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has sparked my interest in AI and interdisciplinary research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
-
 
 <p style='text-align:center; color:#9A2617; font-weight:bold'>I'm on the job market! Please let me know if you have any opportunities for me.</p>
 
