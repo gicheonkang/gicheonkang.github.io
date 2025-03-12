@@ -9,9 +9,8 @@ permalink:  /
         <img src="/img/cover2.jpg" class="profile">
     </div>
     <div class="col-md-8 col-sm-6 col-12" style="margin-bottom: 0;">
-        Researcher<br>
-        AI Institute<br>
-        Seoul National University<br>
+        Postdoctoral Fellow<br>
+        AI Institute, Seoul National University<br>
         <a target="_blank" href="mailto:chonkang@snu.ac.kr">chonkang at snu dot ac dot kr</a>
     </div>
 </div>
