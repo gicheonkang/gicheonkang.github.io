@@ -4,7 +4,7 @@ title:      Publications
 permalink:  /publications/
 ---
 
-C: Conference, W: Workshop, P: Preprint / *: equal contribution, &dagger: equal advising
+C: Conference, W: Workshop, P: Preprint / *: equal contribution, &dagger;: equal advising
 
 
 <a name="/socplnr"></a>
