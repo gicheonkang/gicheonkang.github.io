@@ -38,6 +38,7 @@ C: Conference, W: Workshop, P: Preprint / *: equal contribution, &dagger;: equal
     <span class="links">
         <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
         <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
+        <a target="_blank" href="https://github.com/gicheonkang/clip-rt">Code</a>
     </span>
 </p>
 <hr>
@@ -108,7 +109,7 @@ C: Conference, W: Workshop, P: Preprint / *: equal contribution, &dagger;: equal
 <a name="/sglkt"></a>
 <h2 class="pubt">[C4] Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
 <p class="pubd">
-    <span class="authors"><span class="u">Gi-Cheon Kang</span>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang<sup>*</sup>, Jin-Hwa Kim<sup>*</sup></span><br>
+    <span class="authors"><span class="u">Gi-Cheon Kang</span>, Junseok Park, Hwaran Lee, Byoung-Tak Zhang<sup>&dagger;</sup>, Jin-Hwa Kim<sup>&dagger;</sup></span><br>
     <span class="conf">EMNLP 2021 Findings</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2004.06698">Paper</a>
