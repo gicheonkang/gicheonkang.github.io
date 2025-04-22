@@ -21,10 +21,11 @@ permalink:  /
 
 # Bio
 
-I recently received my PhD in AI from [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research lies at the intersection of robot learning and natural language processing, where I explore how language can be used to teach robots and improve human-robot interaction. Specific topics include: 
+I recently received my PhD in AI from [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research lies at the intersection of robot learning and multimodal AI, where I focus on building generalist robots by leveraging semantic priors from large pretrained models. Specific topics include: 
 
-- **Language-driven robotics**: Developing (1) vision-language-action (VLA) models that learn visuomotor policies from language supervision ([CoRLW'24][cliprt]) and (2) robots that perform real-world tasks through language interaction with humans ([ICRA'24][prograsp], [IROS'24][pga], [IROS'23][gvcci]).
-- **Vision & language**: Building interactive vision-language models (VLMs) that communicate with humans about images ([CVPR'23][gst], [EMNLP'21][sglkt], [EMNLP'19][dan]) and videos ([ACL'21][masn]).
+- **Robotics Foundation Models**: Developing vision-language-action (VLA) models that learn generalist robot policies from natural language supervision ([CLIP-RT][cliprt])
+- **Embodied Reasoning**: Leveraging vision-language models (VLMs) for reasoning about language instructions ([PROGrasp][prograsp], [PGA][pga], [GVCCI][gvcci]) or task plans [Socratic Planner][socraticplanner]
+- **Vision & Language**: Building interactive vision-language models (VLMs) that communicate with humans about images ([GST][gst], [SGL][sglkt], [DAN][dan]) and videos ([MASN][masn]).
 
 My PhD research has been supported by fellowships from [Youlchon Foundation][youlchon] and [IPAI][ipai]. I was fortunate to collaborate with researchers in NAVER AI and SK T-Brain.
 
@@ -38,6 +39,7 @@ Prior to joining PhD, I did my master study in Cognitive Science at [Seoul Natio
 
 # News
 
+- [April 2025] I'm selected as a member of <a href="https://sites.google.com/view/rsspioneers2025/">RSS Pioneers</a>!
 - [Nov 2024] Happy to release a new robotics foundation model, <a href="https://clip-rt.github.io">CLIP-RT</a>!
 - [Aug 2024] I'm selected as a recipient of the Youlchon AI Star Fellowship.
 - [Jun 2024] <a href="https://arxiv.org/abs/2310.12547">PGA</a> is accepted at <a href="https://iros2024-abudhabi.org">IROS 2024</a>.
@@ -277,3 +279,4 @@ From Basic NLP to ChatGPT and Beyond").
 [ipai]: https://gsai.snu.ac.kr/en/
 [cliprt]: https://clip-rt.github.io
 [pga]: https://arxiv.org/abs/2310.12547
+[socraticplanner]: https://arxiv.org/abs/2404.15190
