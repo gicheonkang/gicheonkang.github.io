@@ -7,6 +7,20 @@ permalink:  /publications/
 C: Conference, W: Workshop, P: Preprint / *: equal contribution, &dagger;: equal advising
 
 
+<a name="/cliprt"></a>
+<h2 class="pubt">[C10] CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
+<p class="pubd">
+    <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">RSS 2025</span>
+    <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
+    <span class="links">
+        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
+        <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
+        <a target="_blank" href="https://github.com/gicheonkang/clip-rt">Code</a>
+    </span>
+</p>
+<hr>
+
 <a name="/socplnr"></a>
 <h2 class="pubt">[C9] Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
 <p class="pubd">
@@ -25,20 +39,6 @@ C: Conference, W: Workshop, P: Preprint / *: equal contribution, &dagger;: equal
     <span class="conf">arXiv preprint 2024</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2403.15049">Paper</a>
-    </span>
-</p>
-<hr>
-
-
-<a name="/cliprt"></a>
-<h2 class="pubt">[W3] CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
-<p class="pubd">
-    <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
-    <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
-    <span class="links">
-        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
-        <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
-        <a target="_blank" href="https://github.com/gicheonkang/clip-rt">Code</a>
     </span>
 </p>
 <hr>

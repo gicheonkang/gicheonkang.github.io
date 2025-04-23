@@ -24,7 +24,7 @@ permalink:  /
 I recently received my PhD in AI from [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research lies at the intersection of robot learning and multimodal AI, where I focus on building generalist robots by leveraging semantic priors from large pretrained models. Specific topics include: 
 
 - **Robotics Foundation Models**: Developing vision-language-action (VLA) models that learn generalist robot policies from natural language supervision ([CLIP-RT][cliprt])
-- **Embodied Reasoning**: Leveraging vision-language models (VLMs) for reasoning about language instructions ([PROGrasp][prograsp], [PGA][pga], [GVCCI][gvcci]) or high-level task plans ([Socratic Planner][socraticplanner])
+- **Embodied Reasoning**: Leveraging vision-language models (VLMs) for reasoning about language instructions ([PROGrasp][prograsp], [PGA][pga], [GVCCI][gvcci]) and high-level task plans ([Socratic Planner][socraticplanner])
 - **Vision & Language**: Building interactive vision-language models (VLMs) that communicate with humans about images ([GST][gst], [SGL][sglkt], [DAN][dan]) and videos ([MASN][masn]).
 
 My PhD research has been supported by fellowships from [Youlchon Foundation][youlchon] and [IPAI][ipai]. I was fortunate to collaborate with researchers in NAVER AI and SK T-Brain.
@@ -39,6 +39,7 @@ Prior to joining PhD, I did my master study in Cognitive Science at [Seoul Natio
 
 # News
 
+- [April 2025] Happy to announce that our work (<a href="https://clip-rt.github.io">CLIP-RT</a>) is accepted to <a href="https://roboticsconference.org">RSS 2025</a>!
 - [April 2025] I'm selected as a member of <a href="https://sites.google.com/view/rsspioneers2025/">RSS Pioneers</a>!
 - [Nov 2024] Happy to release a new robotics foundation model, <a href="https://clip-rt.github.io">CLIP-RT</a>!
 - [Aug 2024] I'm selected as a recipient of the Youlchon AI Star Fellowship.
@@ -84,6 +85,7 @@ From Basic NLP to ChatGPT and Beyond").
 <h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup></span>, Junghyun Kim<sup>*</sup>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">RSS 2025</span>
     <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
     <span class="links">
         <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
