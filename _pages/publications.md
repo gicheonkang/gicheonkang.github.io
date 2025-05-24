@@ -7,9 +7,9 @@ permalink:  /publications/
 C: Conference, W: Workshop, P: Preprint, D: Dissertation / *: equal contribution, &dagger;: equal advising
 
 <a name="/dissertation"></a>
-<h2 class="pubt">[D] Embodied Language Agents for Real-World Robotic Tasks: Visually-Grounded Interaction and Skill Learning</h2>
+<h2 class="pubt">[D] Embodied Language Agents for Real-World Robotic Tasks</h2>
 <p class="pubd">
-    <span class="authors"><span class="u">Gi-Cheon Kang</span><br>
+    <span class="authors"><span class="u">Gi-Cheon Kang</span></span><br>
     <span class="conf">Ph.D. Dissertation, Seoul National University, 2025</span><br>
     <span class="links">
         <a target="_blank" href="../docs/PHD_DISSERTATION_GCKANG.pdf">PDF</a>
