@@ -26,7 +26,7 @@ C: Conference, W: Workshop, P: Preprint, D: Dissertation / *: equal contribution
     <span class="links">
         <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
         <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
-        <a target="_blank" href="https://github.com/gicheonkang/clip-rt">Code</a>
+        <a target="_blank" href="https://github.com/clip-rt/clip-rt">Code</a>
     </span>
 </p>
 <hr>
