@@ -23,7 +23,7 @@ permalink:  /
 
 I recently received my PhD in AI from [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research lies at the intersection of robot learning and multimodal AI, where I focus on building generalist robots by leveraging semantic priors from large pretrained models. Specific topics include: 
 
-- **Robotics Foundation Models**: Developing vision-language-action (VLA) models for generalist robot policies, with a focus on grounding web-scale knowledge to physical intelligence ([CLIP-RT][cliprt]).
+- **Robotics Foundation Models**: Developing vision-language-action (VLA) models for generalist robot policies, with a focus on grounding web-scale knowledge to robotic control ([CLIP-RT][cliprt]).
 - **Embodied Reasoning**: Investigating vision-language models (VLMs) for task planning ([Socratic Planner][socraticplanner]) and reasoning about language instructions ([PROGrasp][prograsp], [PGA][pga], [GVCCI][gvcci]).
 - **Vision & Language**: Building interactive VLMs that engage in continuous, grounded communication with humans about images ([GST][gst], [SGL][sglkt], [DAN][dan]) and videos ([MASN][masn]).
 
