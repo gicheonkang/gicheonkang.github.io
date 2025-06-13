@@ -140,9 +140,27 @@ From Basic NLP to ChatGPT and Beyond").
 
 <div class="row">
     <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
+        <p class="talkd">
+            Robotics: Science and Systems (RSS), June 2025
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">Foundation Models for Robotics: Learning and Interaction</h2>
+        <p class="talkd">
+            Robotics: Science and Systems (RSS) Pioneers Workshop, June 2025
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;">PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h2>
         <p class="talkd">
-            IEEE International Conference on Robotics and Automation (ICRA, May 2024)
+            IEEE International Conference on Robotics and Automation (ICRA), May 2024
         </p>
     </div>
 </div>
@@ -151,7 +169,7 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;">The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond</h2>
         <p class="talkd">
-            Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
+            Dept. of Energy Resources Engineering, Seoul National University, Nov. 2023
         </p>
     </div>
 </div>
@@ -160,7 +178,7 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;">The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h2>
         <p class="talkd">
-            IEEE RO-MAN Workshop on Learning by Asking for Intelligent Robots and Agents (Aug. 2023)
+            IEEE RO-MAN Workshop on Learning by Asking for Intelligent Robots and Agents, Aug. 2023
         </p>
     </div>
 </div>
@@ -169,8 +187,8 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;">Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer</h2>
         <p class="talkd">
-            KSC 2021 - Top-tier Conference Paper Presentation Session (Dec. 2021) <br>
-            Annual Conference on Human and Cognitive Language Technology (Oct. 2021)
+            KSC 2021 - Top-tier Conference Paper Presentation Session, Dec. 2021 <br>
+            Annual Conference on Human and Cognitive Language Technology, Oct. 2021
         </p>
     </div>
 </div>
@@ -179,8 +197,8 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;">Dual Attention Networks for Visual Reference Resolution in Visual Dialog</h2>
         <p class="talkd">
-            ICCV 2019 - Video Turing Test Workshop (Spotlight Talk) (Nov. 2019) <br>
-            SK Telecom AI Center (Sep. 2019)
+            ICCV 2019 - Video Turing Test Workshop (Spotlight Talk), Nov. 2019 <br>
+            SK Telecom AI Center, Sep. 2019
         </p>
     </div>
 </div>
