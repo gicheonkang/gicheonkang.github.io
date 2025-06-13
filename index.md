@@ -158,6 +158,15 @@ From Basic NLP to ChatGPT and Beyond").
 
 <div class="row">
     <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">Vision-Language-Action Models for Robotic Manipulation</h2>
+        <p class="talkd">
+            Korea Robotics Society (KROS) Workshop on Mobile Manipulation, May 2025
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;">PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h2>
         <p class="talkd">
             IEEE International Conference on Robotics and Automation (ICRA), May 2024
