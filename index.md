@@ -222,10 +222,10 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-xs-12">
         <div class="talkt">
             <b>Reviewing</b><br>
-            &#128997; = ML or AI / &#129001; = NLP / &#128998; = Robotics / &#129000; = Workshops
+            &#128997; = ML or AI / &#128998; = Robotics / &#129001; = NLP / &#129000; = Workshops
         </div>
         <div class="talkt">
-            &#128997; Neural Information Processing Systems (NeurIPS), 2023-2024
+            &#128997; Neural Information Processing Systems (NeurIPS), 2023-2025
         </div>
         <div class="talkt">
             &#128997; International Conference on Machine Learning (ICML), 2024-2025
@@ -237,6 +237,15 @@ From Basic NLP to ChatGPT and Beyond").
             &#128997; AAAI Conference on Artificial Intelligence (AAAI), 2025
         </div>
         <div class="talkt">
+            &#128998; IEEE Transactions on Robotics (T-RO), 2025
+        </div>
+        <div class="talkt">
+            &#128998; IEEE Robotics and Automation Letters (RA-L), 2024
+        </div>
+        <div class="talkt">
+            &#128998; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
+        </div>
+        <div class="talkt">
             &#129001; ACL Rolling Review (ARR), 2024
         </div>
         <div class="talkt">
@@ -244,12 +253,6 @@ From Basic NLP to ChatGPT and Beyond").
         </div>
         <div class="talkt">
             &#129001; Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022-2023
-        </div>
-        <div class="talkt">
-            &#128998; IEEE Robotics and Automation Letters (RA-L), 2024
-        </div>
-        <div class="talkt">
-            &#128998; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
         </div>
         <div class="talkt">
             &#129000; CoRL Workshop on Language and Robot Learning (LangRob), 2024
