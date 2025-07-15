@@ -12,7 +12,7 @@ C: Conference, W: Workshop, P: Preprint, D: Dissertation / *: equal contribution
     <span class="authors"><span class="u">Gi-Cheon Kang</span></span><br>
     <span class="conf">Ph.D. Dissertation, Seoul National University, 2025</span><br>
     <span class="links">
-        <a target="_blank" href="../docs/PHD_DISSERTATION_GCKANG.pdf">PDF</a>
+        <a target="_blank" href="https://dcollection.snu.ac.kr/public_resource/pdf/000000186847_20250715112128.pdf">PDF</a>
     </span>
 </p>
 <hr>
