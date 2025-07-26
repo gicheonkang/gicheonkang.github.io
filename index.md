@@ -39,6 +39,7 @@ Prior to joining PhD, I did my master study in Cognitive Science at [Seoul Natio
 
 # News
 
+- [July 2025] Our vision-language navigation work is accepted to BMVC 2025.
 - [April 2025] Happy to announce that our work (<a href="https://clip-rt.github.io">CLIP-RT</a>) is accepted to <a href="https://roboticsconference.org">RSS 2025</a>!
 - [April 2025] I'm selected as a member of <a href="https://sites.google.com/view/rsspioneers2025/">RSS Pioneers</a>!
 - [Nov 2024] Happy to release a new robotics foundation model, <a href="https://clip-rt.github.io">CLIP-RT</a>!

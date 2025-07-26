@@ -6,6 +6,17 @@ permalink:  /publications/
 
 C: Conference, W: Workshop, P: Preprint, D: Dissertation / *: equal contribution, &dagger;: equal advising
 
+<a name="/cvln"></a>
+<h2 class="pubt">[C11] Continual Vision-and-Language Navigation</h2>
+<p class="pubd">
+    <span class="authors">Seongjun Jeong, <span class="u">Gi-Cheon Kang</span>, Seongho Choi, Joochan Kim, Byoung-Tak Zhang</span><br>
+    <span class="conf">BMVC 2025</span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2403.15049">Paper</a>
+    </span>
+</p>
+<hr>
+
 <a name="/dissertation"></a>
 <h2 class="pubt">[D] Embodied Language Agents for Real-World Robotic Tasks</h2>
 <p class="pubd">
@@ -41,18 +52,6 @@ C: Conference, W: Workshop, P: Preprint, D: Dissertation / *: equal contribution
     </span>
 </p>
 <hr>
-
-<a name="/cvln"></a>
-<h2 class="pubt">[P1] Continual Vision-and-Language Navigation</h2>
-<p class="pubd">
-    <span class="authors">Seongjun Jeong, <span class="u">Gi-Cheon Kang</span>, Seongho Choi, Joochan Kim, Byoung-Tak Zhang</span><br>
-    <span class="conf">arXiv preprint 2024</span>
-    <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2403.15049">Paper</a>
-    </span>
-</p>
-<hr>
-
 
 <a name="/pga"></a>
 <h2 class="pubt">[C8] PGA: Personalizing Grasping Agents with Single Human-Robot Interaction</h2>
