@@ -145,7 +145,7 @@ From Basic NLP to ChatGPT and Beyond").
 
 <div class="row">
     <div class="col-sm-12">
-        <div class="talkt" style="font-weight:300;">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</div>
+        <h2 class="talkt" style="font-weight:300;">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
         <p class="talkd">
             Robotics: Science and Systems (RSS), June 2025
         </p>
