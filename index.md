@@ -140,8 +140,12 @@ From Basic NLP to ChatGPT and Beyond").
 # Invited Talks
 
 <div class="row">
+    <img src="/img/talk.webp" width="100%">
+</div>
+
+<div class="row">
     <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
+        <div class="talkt" style="font-weight:300;">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</div>
         <p class="talkd">
             Robotics: Science and Systems (RSS), June 2025
         </p>
