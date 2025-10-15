@@ -145,6 +145,15 @@ From Basic NLP to ChatGPT and Beyond").
 
 <div class="row">
     <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">Vision-Language-Action Models for General-Purpose Robot Manipulation</h2>
+        <p class="talkd">
+            Graduate School of AI, UNIST, Oct. 2025
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
         <p class="talkd">
             Robotics: Science and Systems (RSS), June 2025
