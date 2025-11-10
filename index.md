@@ -39,6 +39,7 @@ Prior to joining PhD, I did my master study in Cognitive Science at [Seoul Natio
 
 # News
 
+- [Nov 2025] I gave a talk at Dept. of Immersive Media Engineering at Sungkyunkwan University (SKKU). 
 - [Oct 2025] I gave a talk at UNIST graduate school of AI.
 - [July 2025] Our vision-language navigation work is accepted to BMVC 2025.
 - [April 2025] Happy to announce that our work (<a href="https://clip-rt.github.io">CLIP-RT</a>) is accepted to <a href="https://roboticsconference.org">RSS 2025</a>!
@@ -148,6 +149,7 @@ From Basic NLP to ChatGPT and Beyond").
     <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;">Vision-Language-Action Models for General-Purpose Robot Manipulation</h2>
         <p class="talkd">
+            Dept. of Immersive Media Engineering, Sungkyunkwan University (SKKU), Nov. 2025 <br>
             Graduate School of AI, UNIST, Oct. 2025
         </p>
     </div>
