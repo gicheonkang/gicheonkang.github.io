@@ -147,7 +147,7 @@ From Basic NLP to ChatGPT and Beyond").
 
 <div class="row">
     <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;">Vision-Language-Action Models for General-Purpose Robot Manipulation</h2>
+        <h2 class="talkt" style="font-weight:300;">Vision-Language-Action Models for General-Purpose Robot Manipulation (<a href="https://youtu.be/QaKKCmwfIM8?si=fy_hLzDySPHi1ICp">Link</a>)</h2>
         <p class="talkd">
             Dept. of Immersive Media Engineering, Sungkyunkwan University (SKKU), Nov. 2025 <br>
             Graduate School of AI, UNIST, Oct. 2025
