@@ -31,7 +31,7 @@ My PhD research has been supported by fellowships from [Youlchon Foundation][you
 
 Prior to joining PhD, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has sparked my interest in AI and interdisciplinary research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
 
-<p style='text-align:center; color:#9A2617; font-weight:bold'>I'm on the job market! Please let me know if you have any opportunities for me.</p>
+<!--<p style='text-align:center; color:#9A2617; font-weight:bold'>I'm on the job market! Please let me know if you have any opportunities for me.</p>-->
 
 ---
 
